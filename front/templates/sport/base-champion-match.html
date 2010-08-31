@@ -1,0 +1,65 @@
+{% extends 'common/templates/base.html' %}
+{% load i18n %}
+{% block title %} {{SITE_NAME}} {% endblock %}
+{% block head %}
+
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/style.css" static="screen" />
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/matches-and-schedual.css" static="screen" />
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/match-log.css" static="screen" />
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/match-header.css" static="screen" />
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/match-roster.css" static="screen" />
+	{% if LANGUAGE_BIDI %}
+		<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/match-log-rtl.css" static="screen" />
+		<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/match-header-rtl.css" static="screen" />
+		<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/match-roster-rtl.css" static="screen" />
+	{% endif %}
+{% endblock %}
+
+{% block scripts %}{% endblock %}
+{% block body %}
+<div id="hd" class="container_16 clrearfix">
+	<div class="grid_11">
+		{% include 'widgets/templates/branding.html' %}
+	</div>
+	<div class="grid_5">
+		{% include 'widgets/templates/search.html' %} 
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16">
+               {% include 'widgets/templates/navigation/nav.html' %}			
+	</div> 
+	<div class="clear"></div>
+</div> 
+<div id="container" class="container_16 clrearfix">
+
+	<div class="grid_16">
+		{% include 'widgets/templates/page-title.html' %}			
+	</div>
+	<div class="clear"></div>
+	
+
+
+	<div class="clear"></div>
+	<div class="grid_11">
+		{% include 'widgets/templates/sport/match_header.html' %}
+		{% include 'widgets/templates/sport/match_log.html' %}
+		{% include 'widgets/templates/sport/match_roster.html' %}
+		<div class="clear"></div>
+		
+
+		
+	</div>
+	<div class="grid_5">
+		{% include 'widgets/templates/navigation/toggle-section-menu.html' %} 
+		{% include 'widgets/templates/toggle-articles.html' %}	
+		
+	</div>
+	
+	<div class="clear"></div>
+	<div class="grid_16" id="site_info">
+		{% include 'widgets/templates/site_info.html' %} 		
+	</div>
+	<div class="clear"></div>
+
+</div>
+{% endblock %}

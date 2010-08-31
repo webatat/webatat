@@ -1,0 +1,81 @@
+{% extends 'administration/templates/base-admin.html' %}
+
+{% block bodytag %}onload="return do_js_beautify()" {% endblock %}
+{% block adminform %}	
+{{ key_name }}
+<h2>WIDGET: <i>{{ pk }}</i></h2>
+<div class="grid_5 alpha">
+	<div>
+		{% for widget in widgets %}
+		<div>
+			<a class="delete" href="/_admin/delete/widget/{{ widget.website }}/{{ widget.wtype }}/{{ widget.name }}"> [X] </a>
+			<a href="/_admin/update/widget/{{ widget.website }}/{{ widget.wtype }}/{{ widget.name }}">{{ widget.website }} - {{ widget.wtype }} - {{ widget.name }}</a>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+<div class="grid_11 omega" >
+	<div id="add-widget">
+	  <form id="form-add-widget" action="" method="post">
+	    <div class="box">
+		<dl>
+			<dt>Primary Key</dt>
+			<dd>
+				<span id="pk">{{ pk }}</span>
+			</dd>
+			{% ifequal action "add" %}
+				<dt>Type</dt>
+				<dd>
+					<INPUT Type="text" Name="wtype" value="{{ wtype }}" />
+				</dd>
+
+		                <dt>Website</dt>
+				<dd>
+					<INPUT Type="text" Name="website" value="{{ website }}" />
+				</dd>
+
+		                <dt>Name</dt>
+				<dd>
+					<INPUT Type="text" Name="name" value="{{ name }}" />
+				</dd>
+			{% endifequal %}
+			{% ifequal action "update" %}			
+				<dt>Type</dt>
+				<dd>
+					<span>{{ wtype }}</span>
+				</dd>
+
+		                <dt>Website</dt>
+				<dd>
+					<span>{{ website }}</span>
+				</dd>
+
+		                <dt>Name</dt>
+				<dd>
+					<span>{{ name }}</span>
+				</dd>
+			{% endifequal %}
+			<dt>Title</dt>
+			<dd>
+				<INPUT Type="text" Name="title" value="{{ title }}" />
+			</dd>
+
+			<dt>content</dt>
+			<dd>
+				<TEXTAREA Name="content" rows="15" cols="80" id="content" class="resizable">{{ content }}</TEXTAREA> 
+			</dd>
+		</dl>
+	    </div>
+	    <div class="buttons">
+	      {% ifequal action "add" %}
+	      	<input type="submit" value="Add Widget" />    
+	      {% endifequal %}
+	      {% ifequal action "update" %}
+	      	<input type="submit" value="Update Widget" />    
+	      {% endifequal %}	
+	    </div>
+	  </form>
+ 
+	</div>
+</div>
+{% endblock %}	

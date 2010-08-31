@@ -1,0 +1,134 @@
+html  {
+	transparent;
+}
+
+
+body {
+	background:url("../images/graceBg.jpg") repeat scroll 50% 0 transparent;
+	color:#000000;
+	font:13px arial,sans-serif;
+	margin:0;
+
+}
+
+
+#hd {
+	background:transparent;
+}
+
+h1#branding  {
+	background:none repeat scroll 0 0 transparent;
+}
+
+h1#branding a {	
+	color:#ffffff;
+}
+
+#hd ul.main {
+	background:url("../images/topnav_bg.jpg") repeat scroll 0 0 transparent;
+	border-bottom:3px solid #487425;
+	height:40px;
+	padding:4px 20px 0;
+	position:relative;
+	z-index:100;
+}
+
+
+
+#hd  ul.main, #hd  ul.main li a {
+	-moz-border-radius-topleft:7px;
+	-moz-border-radius-topright:7px;
+	-webkit-border-top-left-radius:7px;
+	-webkit-border-top-right-radius:7px;
+margin-left:2px;
+}
+
+
+#hd  ul.sub, #hd  ul.sub li a {
+	-moz-border-radius-topleft:0px;
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+}
+
+
+
+#hd ul.main li  {
+	background:none repeat scroll 0 0 transparent !important;
+
+
+}
+
+
+
+#hd ul.sub {
+	border-top:3px solid #487425;
+	margin-top:7px;
+}
+#hd ul.sub li {
+	background:none repeat scroll 0 0 transparent !important;
+}
+
+#hd ul.main li a.selected {
+	background-color:#487425;
+	color:#FFFFFF;
+}
+
+
+#hd ul.main li a {
+	color:#fff;
+	font-size:93%;
+
+	padding:5px 10px;
+}
+
+#hd li a {
+	color:#42331F;
+	display:block;
+	font-size:85%;
+	font-weight:bold;
+	padding:5px 9px;
+}
+
+
+#container {
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-topright:3px;
+	-moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+
+	-webkit-border-top-left-radius:3px;
+	-webkit-border-top-right-radius:3px;
+	-webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+
+.box h2 {
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-topright:3px;
+
+	-webkit-border-top-left-radius:3px;
+	-webkit-border-top-right-radius:3px;
+}
+
+
+
+.box h2 a, .box h2 a.visible {
+	background:url("/images/switch_minus.gif") no-repeat scroll 97% 50% transparent;
+}
+
+.box h2 a:hover {
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-topright:3px;
+
+	-webkit-border-top-left-radius:3px;
+	-webkit-border-top-right-radius:3px;
+}
+
+#searchbox
+{
+	-moz-border-radius:7px;
+	margin-top:10px;
+	padding:5px;
+	-moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}

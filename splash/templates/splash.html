@@ -1,0 +1,28 @@
+{% extends 'common/templates/base.html' %}
+{% load i18n %}
+{% block title %} {{SITE_NAME}} {% endblock %}
+{% block head %}
+
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/slidedeck-1.1.7-lite/slidedeck.skin.css" media="screen" />
+
+{% endblock %}
+
+{% block scripts %}
+	<script type="text/javascript" src="http://{{DOMAIN}}/widgets-resources/slidedeck-1.1.7-lite/slidedeck.jquery.lite.pack.js"></script>
+	<script type="text/javascript">
+		$('.slidedeck').slidedeck();
+	</script>
+
+{% endblock %}
+{% block body %}
+
+<div class="container_16 clrearfix">
+
+	<div class="grid_16">
+        	{% include 'widgets/templates/branding.html' %}
+		{% include 'widgets/templates/SlideDeck.html' %}
+	</div>
+	<div class="clear"></div>
+
+</div>
+{% endblock %}

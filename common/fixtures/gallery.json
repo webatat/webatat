@@ -1,0 +1,433 @@
+[
+	{
+		"pk": "nawadena.com/gallery/shaikh_jasim_cup", 
+		"model": "common.Widget", 
+		"fields":
+			{
+				"wtype" : "gallery",
+				"website" : "nawadena.com",
+				"name" : "1",
+				"title" : "title",
+				"content" : {
+						"heading" : " كأس الشيخ جاسم",
+						"subheading" : "كرة القدم حول العالم",
+						"items": 	
+							[
+								{
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3040/2935417016_e8736baa87.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3040/2935417016_e8736baa87_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3040/2935417016_e8736baa87_b.jpg"
+								},
+								{
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3623/3480746489_d0d33913f6.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3623/3480746489_d0d33913f6_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3623/3480746489_d0d33913f6_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3338/3480737223_385dbcee72.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3338/3480737223_385dbcee72_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3338/3480737223_385dbcee72_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3560/3481550284_31e33bc939.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3560/3481550284_31e33bc939_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3560/3481550284_31e33bc939_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2095/3536810545_9a0ef98726.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2095/3536810545_9a0ef98726_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2095/3536810545_9a0ef98726_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2302/3537628262_14e681dd55.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2302/3537628262_14e681dd55_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2302/3537628262_14e681dd55_b.jpg"
+								},
+						                {
+									"title" : "title",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2018/3537636172_ec49d53053.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2018/3537636172_ec49d53053_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2018/3537636172_ec49d53053_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3307/3596740660_d4d950f16b.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3307/3596740660_d4d950f16b_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3307/3596740660_d4d950f16b_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3567/3595935413_dc433772d0.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3567/3595935413_dc433772d0_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3567/3595935413_dc433772d0_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3412/3596753398_8fd44ec2ec.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3412/3596753398_8fd44ec2ec_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3412/3596753398_8fd44ec2ec_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2468/3596751810_59e175bd76.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2468/3596751810_59e175bd76_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2468/3596751810_59e175bd76_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2609/3768718144_2756cc2960.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2609/3768718144_2756cc2960_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2609/3768718144_2756cc2960_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3530/4079395440_65b3448f2b.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3530/4079395440_65b3448f2b_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3530/4079395440_65b3448f2b_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2703/4078638037_96f2ac80af.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2703/4078638037_96f2ac80af_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2703/4078638037_96f2ac80af_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2760/4079437172_fa1d4c13bc.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2760/4079437172_fa1d4c13bc_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2760/4079437172_fa1d4c13bc_b.jpg"
+								},
+						                {
+									"title" : "title",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2768/4079435288_48ec638d74.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2768/4079435288_48ec638d74_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2768/4079435288_48ec638d74_b.jpg"
+								},
+						                {
+									"title" : "title",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3491/4079439782_e1bc4c8352.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3491/4079439782_e1bc4c8352_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3491/4079439782_e1bc4c8352_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/4004/4405075384_e25acbe248.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/4004/4405075384_e25acbe248_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/4004/4405075384_e25acbe248_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/4074/4848395193_e14fde8def.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/4074/4848395193_e14fde8def_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/4074/4848395193_e14fde8def_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/4095/4848395217_2f4de81d86.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/4095/4848395217_2f4de81d86_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/4095/4848395217_2f4de81d86_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/4075/4849038146_31d7c42000.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/4075/4849038146_31d7c42000_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/4075/4849038146_31d7c42000_b.jpg"
+								}
+					
+							]
+					      }
+			}
+ 	},
+	{
+		"pk": "nawadena.com/gallery/qatar_stars", 
+		"model": "common.Widget", 
+		"fields":
+			{       "wtype" : "gallery",
+				"website" : "nawadena.com",
+				"name" : "2",
+				"title" : "دوري نجوم قطر",
+				"content" : {
+						"heading" : "دوري نجوم قطر",
+						"subheading" : "كرة القدم حول العالم",
+						"items": 	
+							[
+								{
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3567/3595935413_dc433772d0.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3567/3595935413_dc433772d0_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3567/3595935413_dc433772d0_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3412/3596753398_8fd44ec2ec.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3412/3596753398_8fd44ec2ec_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3412/3596753398_8fd44ec2ec_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2468/3596751810_59e175bd76.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2468/3596751810_59e175bd76_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2468/3596751810_59e175bd76_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2609/3768718144_2756cc2960.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2609/3768718144_2756cc2960_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2609/3768718144_2756cc2960_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3530/4079395440_65b3448f2b.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3530/4079395440_65b3448f2b_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3530/4079395440_65b3448f2b_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2703/4078638037_96f2ac80af.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2703/4078638037_96f2ac80af_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2703/4078638037_96f2ac80af_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2760/4079437172_fa1d4c13bc.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2760/4079437172_fa1d4c13bc_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2760/4079437172_fa1d4c13bc_b.jpg"
+								},
+						                {
+									"title" : "title",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2768/4079435288_48ec638d74.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2768/4079435288_48ec638d74_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2768/4079435288_48ec638d74_b.jpg"
+								},
+						                {
+									"title" : "title",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3491/4079439782_e1bc4c8352.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3491/4079439782_e1bc4c8352_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3491/4079439782_e1bc4c8352_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/4004/4405075384_e25acbe248.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/4004/4405075384_e25acbe248_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/4004/4405075384_e25acbe248_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/4074/4848395193_e14fde8def.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/4074/4848395193_e14fde8def_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/4074/4848395193_e14fde8def_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/4095/4848395217_2f4de81d86.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/4095/4848395217_2f4de81d86_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/4095/4848395217_2f4de81d86_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/4075/4849038146_31d7c42000.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/4075/4849038146_31d7c42000_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/4075/4849038146_31d7c42000_b.jpg"
+								},
+								{
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3040/2935417016_e8736baa87.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3040/2935417016_e8736baa87_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3040/2935417016_e8736baa87_b.jpg"
+								},
+								{
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3623/3480746489_d0d33913f6.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3623/3480746489_d0d33913f6_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3623/3480746489_d0d33913f6_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3338/3480737223_385dbcee72.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3338/3480737223_385dbcee72_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3338/3480737223_385dbcee72_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3560/3481550284_31e33bc939.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3560/3481550284_31e33bc939_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3560/3481550284_31e33bc939_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2095/3536810545_9a0ef98726.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2095/3536810545_9a0ef98726_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2095/3536810545_9a0ef98726_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2302/3537628262_14e681dd55.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2302/3537628262_14e681dd55_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2302/3537628262_14e681dd55_b.jpg"
+								},
+						                {
+									"title" : "title",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2018/3537636172_ec49d53053.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2018/3537636172_ec49d53053_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2018/3537636172_ec49d53053_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3307/3596740660_d4d950f16b.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3307/3596740660_d4d950f16b_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3307/3596740660_d4d950f16b_b.jpg"
+								}
+					
+							]
+					      }
+			}
+ 	},
+	{
+		"pk": "nawadena.com/gallery/3", 
+		"model": "common.Widget", 
+		"fields":
+			{
+				"wtype" : "gallery",
+				"website" : "nawadena.com",
+				"name" : "3",
+				"title" : "الاستاد",
+				"content" : {
+						"heading" : "الاستاد",
+						"subheading" : "كرة القدم حول العالم",
+						"items": 	
+							[
+								{
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3040/2935417016_e8736baa87.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3040/2935417016_e8736baa87_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3040/2935417016_e8736baa87_b.jpg"
+								},
+								{
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3623/3480746489_d0d33913f6.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3623/3480746489_d0d33913f6_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3623/3480746489_d0d33913f6_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3338/3480737223_385dbcee72.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3338/3480737223_385dbcee72_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3338/3480737223_385dbcee72_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/3560/3481550284_31e33bc939.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/3560/3481550284_31e33bc939_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/3560/3481550284_31e33bc939_b.jpg"
+								},
+						                {
+									"title" : "كرة القدم",									
+									"link" : "#",
+									"description" : "حول العالم", 
+									"slideshow_image" : "http://farm4.static.flickr.com/2095/3536810545_9a0ef98726.jpg",
+									"thumbnail_image" : "http://farm4.static.flickr.com/2095/3536810545_9a0ef98726_s.jpg",
+									"original_image" : "http://farm4.static.flickr.com/2095/3536810545_9a0ef98726_b.jpg"
+								}
+							]
+					      }
+			}
+ 	}
+]

@@ -1,0 +1,14 @@
+<div id="slidedeck_frame">
+	<div id="slidedeck_wrapper">
+		<dl class="slidedeck">
+			{% for slide in slideDeck.content.slides%}
+				<dt>{{ slide.title }}</dt>
+				<dd>{{ slide.content|safe }}</dd>		
+			{% endfor %}
+		</dl>
+	</div>
+	<div id="entersite">
+		<a href="/"><h2> الدخول للموقع </h2></a>
+	</div>
+</div>
+

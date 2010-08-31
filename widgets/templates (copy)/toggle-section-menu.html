@@ -1,0 +1,23 @@
+<div class="box menu">
+	<h2>
+		<a href="#" id="toggle-section-menu">{{ sectionmenu.title }}</a>
+	</h2>
+	<div class="block" id="section-menu">
+		<ul class="{{ sectionmenu.content.ulclass }}">
+		{% for item in sectionmenu.content.items %}
+			<li>
+				<a class="{{ item.class }}" href="{{ item.path }}">{{ item.title }}</a>
+				<ul class="{{ item.ulclass }}">
+					{% for subitem in item.items %}
+						{% if subitem.title %}
+						<li>
+							<a href="{{ subitem.path }}">{{ subitem.title }}</a>
+						</li>
+						{% endif%}
+					{% endfor %}			
+				</ul>
+			</li>
+		{% endfor %}		
+		</ul>
+	</div>
+</div>

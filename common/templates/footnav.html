@@ -1,0 +1,46 @@
+{% load format %}
+{% load i18n %}
+{% if request.mobile %}
+  <div id="footer">
+    <ul>
+    {% if request.user %}
+      <li><a href="{% url_for request.user request %}/overview" accesskey="0">{% trans 'Overview' %}</a> [0]</li>
+      <li><a href="{% url_for request.user request %}" accesskey="1">Your {{POST_NAME}}s</a> [1]</li>
+      <li><a href="{% url_for request.user request %}/contacts" accesskey="2">{% trans 'People' %}</a> [2]</li>
+      <li><a href="{% url_for DOMAIN request %}/channel" accesskey="3">{% trans 'Channels' %}</a> [3]</li>
+      <li><a href="{% url_for DOMAIN request %}/explore">{% trans 'Explore' %}</a></li>
+      <li><a href="{% url_for request.user request %}/settings">{% trans 'Settings' %}</a></li>
+      <li><a href="{% url_for DOMAIN request %}/logout">{% trans 'Sign out' %}</a></li>
+    {% else %}
+      {# Avoid redirecting login to logout. A separate sign-in link exists in the login template #}
+      {% ifnotequal request.META.PATH_INFO "/logout" %}
+        {% if SUBDOMAINS_ENABLED %}
+          <li><a href="{% url_for DOMAIN request %}/login?redirect_to=http://{{request.META.HTTP_HOST}}{{request.META.PATH_INFO}}">Sign In</a></li>
+        {% else %}
+          <li><a href="{% url_for DOMAIN request %}/login?redirect_to={{request.META.PATH_INFO}}">{% trans 'Sign In' %}</a></li>
+        {% endif %}
+      {% endifnotequal %}
+      <li><a href="{% url_for DOMAIN request %}/join?redirect_to=/&amp;force=1">Join {{SITE_NAME}}</a></li>
+      <li><a href="{% url_for DOMAIN request %}/explore">{% trans 'Explore' %}</a></li>
+    {% endif %}
+    {% if BLOG_ENABLED %}
+      <li><a href="{{BLOG_URL}}">{% trans 'Blog' %}</a></li>
+    {% endif %}
+    </ul>
+  </div>
+{% else %}
+  {% ifnotequal area 'welcome' %}
+  <div id="footer">
+    &#169; {{component.best.legal.copyright}}
+    <a href="http://{{DOMAIN}}/about">{% trans 'About' %}</a> |
+    <a href="http://{{DOMAIN}}/help">{% trans 'FAQ' %}</a> |
+    <a href="http://{{DOMAIN}}/channel/{{SUPPORT_CHANNEL}}">{% trans 'Support' %}</a> |
+    <a href="http://{{DOMAIN}}/privacy">{% trans 'Privacy' %}</a> |
+    <a href="http://{{DOMAIN}}/terms">{{component.best.legal.terms_title}}</a>
+    | <a href="http://{{DOMAIN}}/api">{% trans 'API' %}</a>
+    {% if BLOG_ENABLED %}
+    | <a href="{{BLOG_URL}}">{% trans 'Blog' %}</a>
+    {% endif %}
+  </div>
+  {% endifnotequal %}
+{% endif %}

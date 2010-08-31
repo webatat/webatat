@@ -1,0 +1,6159 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 11:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .google_appengine/google/appengine/ext/db/djangoforms.py:457
+msgid ""
+"Please select a valid choice. That choice is not one of the available "
+"choices."
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:39
+#: vendor/django/conf/global_settings.py:44
+msgid "Arabic"
+msgstr "عربي"
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:40
+#: vendor/django/conf/global_settings.py:45
+msgid "Bengali"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:41
+#: vendor/django/conf/global_settings.py:47
+msgid "Catalan"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:42
+#: vendor/django/conf/global_settings.py:48
+msgid "Czech"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:43
+#: vendor/django/conf/global_settings.py:49
+msgid "Welsh"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:44
+#: vendor/django/conf/global_settings.py:50
+msgid "Danish"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:45
+#: vendor/django/conf/global_settings.py:51
+msgid "German"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:46
+#: vendor/django/conf/global_settings.py:52
+msgid "Greek"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:47
+#: vendor/django/conf/global_settings.py:53
+msgid "English"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:48
+#: vendor/django/conf/global_settings.py:54
+msgid "Spanish"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:49
+#: vendor/django/conf/global_settings.py:56
+msgid "Argentinean Spanish"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:50
+#: vendor/django/conf/global_settings.py:59
+msgid "Finnish"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:51
+#: vendor/django/conf/global_settings.py:60
+msgid "French"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:52
+#: vendor/django/conf/global_settings.py:62
+msgid "Galician"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:53
+#: vendor/django/conf/global_settings.py:63
+msgid "Hungarian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:54
+#: vendor/django/conf/global_settings.py:64
+msgid "Hebrew"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:55
+#: vendor/django/conf/global_settings.py:66
+msgid "Icelandic"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:56
+#: vendor/django/conf/global_settings.py:67
+msgid "Italian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:57
+#: vendor/django/conf/global_settings.py:68
+msgid "Japanese"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:58
+#: vendor/django/conf/global_settings.py:72
+msgid "Kannada"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:59
+#: vendor/django/conf/global_settings.py:73
+msgid "Latvian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:60
+#: vendor/django/conf/global_settings.py:75
+msgid "Macedonian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:61
+#: vendor/django/conf/global_settings.py:76
+msgid "Dutch"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:62
+#: vendor/django/conf/global_settings.py:77
+msgid "Norwegian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:63
+#: vendor/django/conf/global_settings.py:78
+msgid "Polish"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:64
+#: vendor/django/conf/global_settings.py:79
+msgid "Portugese"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:65
+msgid "Brazilian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:66
+#: vendor/django/conf/global_settings.py:81
+msgid "Romanian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:67
+#: vendor/django/conf/global_settings.py:82
+msgid "Russian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:68
+#: vendor/django/conf/global_settings.py:83
+msgid "Slovak"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:69
+#: vendor/django/conf/global_settings.py:84
+msgid "Slovenian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:70
+#: vendor/django/conf/global_settings.py:85
+msgid "Serbian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:71
+#: vendor/django/conf/global_settings.py:86
+msgid "Swedish"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:72
+#: vendor/django/conf/global_settings.py:87
+msgid "Tamil"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:73
+#: vendor/django/conf/global_settings.py:88
+msgid "Telugu"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:74
+#: vendor/django/conf/global_settings.py:89
+msgid "Turkish"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:75
+#: vendor/django/conf/global_settings.py:90
+msgid "Ukrainian"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:76
+#: vendor/django/conf/global_settings.py:91
+msgid "Simplified Chinese"
+msgstr ""
+
+#: .google_appengine/lib/django/django/conf/global_settings.py:77
+#: vendor/django/conf/global_settings.py:92
+msgid "Traditional Chinese"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:40
+#: vendor/django/contrib/admin/filterspecs.py:44
+#, python-format
+msgid ""
+"<h3>By %s:</h3>\n"
+"<ul>\n"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:70
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:88
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:143
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:169
+#: vendor/django/contrib/admin/filterspecs.py:74
+#: vendor/django/contrib/admin/filterspecs.py:92
+#: vendor/django/contrib/admin/filterspecs.py:147
+#: vendor/django/contrib/admin/filterspecs.py:173
+msgid "All"
+msgstr "الكل"
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:109
+#: vendor/django/contrib/admin/filterspecs.py:113
+msgid "Any date"
+msgstr "أي تاريخ"
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:110
+#: vendor/django/contrib/admin/filterspecs.py:114
+msgid "Today"
+msgstr "اليوم"
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:113
+#: vendor/django/contrib/admin/filterspecs.py:117
+msgid "Past 7 days"
+msgstr "الأيام السبع الماضية"
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:115
+#: vendor/django/contrib/admin/filterspecs.py:119
+msgid "This month"
+msgstr "هذا الشهر"
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:117
+#: vendor/django/contrib/admin/filterspecs.py:121
+msgid "This year"
+msgstr "هذه السنة"
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:143
+#: .google_appengine/lib/django/django/newforms/widgets.py:170
+#: .google_appengine/lib/django/django/oldforms/__init__.py:577
+#: vendor/django/contrib/admin/filterspecs.py:147
+#: vendor/django/forms/widgets.py:391
+msgid "Yes"
+msgstr "نعم"
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:143
+#: .google_appengine/lib/django/django/newforms/widgets.py:170
+#: .google_appengine/lib/django/django/oldforms/__init__.py:577
+#: vendor/django/contrib/admin/filterspecs.py:147
+#: vendor/django/forms/widgets.py:391
+msgid "No"
+msgstr "لا"
+
+#: .google_appengine/lib/django/django/contrib/admin/filterspecs.py:150
+#: .google_appengine/lib/django/django/newforms/widgets.py:170
+#: .google_appengine/lib/django/django/oldforms/__init__.py:577
+#: vendor/django/contrib/admin/filterspecs.py:154
+#: vendor/django/forms/widgets.py:391
+msgid "Unknown"
+msgstr "مجهول"
+
+#: .google_appengine/lib/django/django/contrib/admin/models.py:16
+#: vendor/django/contrib/admin/models.py:19
+msgid "action time"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/models.py:19
+#: vendor/django/contrib/admin/models.py:22
+msgid "object id"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/models.py:20
+#: vendor/django/contrib/admin/models.py:23
+msgid "object repr"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/models.py:21
+#: vendor/django/contrib/admin/models.py:24
+msgid "action flag"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/models.py:22
+#: vendor/django/contrib/admin/models.py:25
+msgid "change message"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/models.py:25
+#: vendor/django/contrib/admin/models.py:28
+msgid "log entry"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/models.py:26
+#: vendor/django/contrib/admin/models.py:29
+msgid "log entries"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/404.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/404.html:8
+#: vendor/django/contrib/admin/templates/admin/404.html:4
+#: vendor/django/contrib/admin/templates/admin/404.html:8
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/404.html:10
+#: vendor/django/contrib/admin/templates/admin/404.html:10
+msgid "We're sorry, but the requested page could not be found."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/500.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/base.html:30
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:13
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_list.html:6
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/delete_confirmation.html:6
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/invalid_setup.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:12
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/logged_out.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_done.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_done.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_form.html:4
+#: common/templates/base_navbar.html:39 common/templates/base_navbar.html:52
+#: vendor/django/contrib/admin/templates/admin/500.html:4
+#: vendor/django/contrib/admin/templates/admin/app_index.html:8
+#: vendor/django/contrib/admin/templates/admin/base.html:30
+#: vendor/django/contrib/admin/templates/admin/change_form.html:17
+#: vendor/django/contrib/admin/templates/admin/change_list.html:8
+#: vendor/django/contrib/admin/templates/admin/delete_confirmation.html:6
+#: vendor/django/contrib/admin/templates/admin/invalid_setup.html:4
+#: vendor/django/contrib/admin/templates/admin/object_history.html:6
+#: vendor/django/contrib/admin/templates/admin/auth/user/change_password.html:10
+#: vendor/django/contrib/admin/templates/registration/logged_out.html:4
+#: vendor/django/contrib/admin/templates/registration/password_change_done.html:4
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:4
+#: vendor/django/contrib/admin/templates/registration/password_reset_complete.html:4
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:4
+#: vendor/django/contrib/admin/templates/registration/password_reset_done.html:4
+#: vendor/django/contrib/admin/templates/registration/password_reset_form.html:4
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:3
+msgid "Home"
+msgstr "البداية"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/500.html:4
+#: vendor/django/contrib/admin/templates/admin/500.html:4
+msgid "Server error"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/500.html:6
+#: vendor/django/contrib/admin/templates/admin/500.html:6
+msgid "Server error (500)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/500.html:9
+#: vendor/django/contrib/admin/templates/admin/500.html:9
+msgid "Server Error <em>(500)</em>"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/500.html:10
+#: vendor/django/contrib/admin/templates/admin/500.html:10
+msgid ""
+"There's been an error. It's been reported to the site administrators via e-"
+"mail and should be fixed shortly. Thanks for your patience."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/base.html:25
+#: vendor/django/contrib/admin/templates/admin/base.html:25
+msgid "Welcome,"
+msgstr "مرحبا"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/base.html:25
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:10
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_list.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/delete_confirmation.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:9
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_done.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:3
+#: vendor/django/contrib/admin/templates/admin/base.html:25
+#: vendor/django/contrib/admin/templates/registration/password_change_done.html:3
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:3
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:3
+msgid "Documentation"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/base.html:25
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:10
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_list.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/delete_confirmation.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:9
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:15
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:46
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/index.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/missing_docutils.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/model_detail.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/model_index.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/template_detail.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/template_filter_index.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/template_tag_index.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/view_detail.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/view_index.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_done.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:3
+#: vendor/django/contrib/admin/templates/admin/base.html:25
+#: vendor/django/contrib/admin/templates/admin/auth/user/change_password.html:13
+#: vendor/django/contrib/admin/templates/admin/auth/user/change_password.html:46
+#: vendor/django/contrib/admin/templates/registration/password_change_done.html:3
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:3
+msgid "Change password"
+msgstr "غير كلمة السر"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/base.html:25
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:10
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_list.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/delete_confirmation.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:9
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/index.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/missing_docutils.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/model_detail.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/model_index.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/template_detail.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/template_filter_index.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/template_tag_index.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/view_detail.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/view_index.html:5
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_done.html:3
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:3
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:6
+#: vendor/django/contrib/admin/templates/admin/base.html:25
+#: vendor/django/contrib/admin/templates/registration/password_change_done.html:3
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:3
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/base_site.html:4
+#: vendor/django/contrib/admin/templates/admin/base_site.html:4
+msgid "Django site admin"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/base_site.html:7
+#: vendor/django/contrib/admin/templates/admin/base_site.html:7
+msgid "Django administration"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:15
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/index.html:28
+#: vendor/django/contrib/admin/templates/admin/change_form.html:20
+#: vendor/django/contrib/admin/templates/admin/index.html:29
+msgid "Add"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:21
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:5
+#: vendor/django/contrib/admin/templates/admin/change_form.html:27
+#: vendor/django/contrib/admin/templates/admin/object_history.html:10
+msgid "History"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:22
+#: vendor/django/contrib/admin/templates/admin/change_form.html:28
+#: vendor/django/contrib/admin/templates/admin/edit_inline/stacked.html:13
+#: vendor/django/contrib/admin/templates/admin/edit_inline/tabular.html:25
+msgid "View on site"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:32
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:24
+#: vendor/django/contrib/admin/templates/admin/change_form.html:38
+#: vendor/django/contrib/admin/templates/admin/auth/user/change_password.html:22
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:50
+msgid "Ordering"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_form.html:53
+msgid "Order:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/change_list.html:12
+#: vendor/django/contrib/admin/templates/admin/change_list.html:16
+#, python-format
+msgid "Add %(name)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/delete_confirmation.html:9
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/submit_line.html:3
+#: common/templates/form_photo.html:15
+#: vendor/django/contrib/admin/templates/admin/delete_confirmation.html:10
+#: vendor/django/contrib/admin/templates/admin/submit_line.html:4
+#: vendor/django/forms/formsets.py:246
+msgid "Delete"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/delete_confirmation.html:14
+#: vendor/django/contrib/admin/templates/admin/delete_confirmation.html:16
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/delete_confirmation.html:21
+#: vendor/django/contrib/admin/templates/admin/delete_confirmation.html:23
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/delete_confirmation.html:26
+#: vendor/django/contrib/admin/templates/admin/delete_confirmation.html:28
+msgid "Yes, I'm sure"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/filter.html:2
+#: vendor/django/contrib/admin/templates/admin/filter.html:2
+#, python-format
+msgid " By %(filter_title)s "
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/filters.html:4
+#: vendor/django/contrib/admin/templates/admin/change_list.html:26
+msgid "Filter"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/index.html:17
+#: vendor/django/contrib/admin/templates/admin/index.html:18
+#, python-format
+msgid "Models available in the %(name)s application."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/index.html:18
+#: vendor/django/contrib/admin/templates/admin/app_index.html:10
+#: vendor/django/contrib/admin/templates/admin/index.html:19
+#, python-format
+msgid "%(name)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/index.html:34
+#: common/templates/sidebar_location.html:12
+#: vendor/django/contrib/admin/templates/admin/index.html:35
+msgid "Change"
+msgstr "تعديل"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/index.html:44
+#: vendor/django/contrib/admin/templates/admin/index.html:45
+msgid "You don't have permission to edit anything."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/index.html:52
+#: vendor/django/contrib/admin/templates/admin/index.html:53
+msgid "Recent Actions"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/index.html:53
+#: vendor/django/contrib/admin/templates/admin/index.html:54
+msgid "My Actions"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/index.html:57
+#: vendor/django/contrib/admin/templates/admin/index.html:58
+msgid "None available"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/invalid_setup.html:8
+#: vendor/django/contrib/admin/templates/admin/invalid_setup.html:7
+msgid ""
+"Something's wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/login.html:17
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:6
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:8
+#: vendor/django/contrib/admin/templates/admin/login.html:19
+msgid "Username:"
+msgstr "اسم المستخدم"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/login.html:20
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:8
+#: login/templates/login.html:19
+#: vendor/django/contrib/admin/templates/admin/login.html:22
+msgid "Password:"
+msgstr "كلمة السر"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/login.html:24
+#: .google_appengine/lib/django/django/contrib/admin/views/decorators.py:16
+#: vendor/django/contrib/admin/sites.py:326
+#: vendor/django/contrib/admin/templates/admin/login.html:26
+#: vendor/django/contrib/admin/templates/registration/password_reset_complete.html:14
+#: vendor/django/contrib/admin/views/decorators.py:20
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:18
+#: vendor/django/contrib/admin/templates/admin/object_history.html:22
+msgid "Date/time"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:19
+#: vendor/django/contrib/admin/templates/admin/object_history.html:23
+msgid "User"
+msgstr "المستخدم"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:20
+#: vendor/django/contrib/admin/templates/admin/object_history.html:24
+msgid "Action"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:26
+msgid "DATE_WITH_TIME_FULL"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/object_history.html:36
+#: vendor/django/contrib/admin/templates/admin/object_history.html:38
+msgid ""
+"This object doesn't have a change history. It probably wasn't added via this "
+"admin site."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/pagination.html:10
+#: vendor/django/contrib/admin/templates/admin/pagination.html:10
+msgid "Show all"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/search_form.html:8
+#: vendor/django/contrib/admin/templates/admin/search_form.html:8
+msgid "Go"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/search_form.html:10
+#: vendor/django/contrib/admin/templates/admin/search_form.html:10
+#, python-format
+msgid "1 result"
+msgid_plural "%(counter)s results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/search_form.html:10
+#: vendor/django/contrib/admin/templates/admin/search_form.html:10
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/submit_line.html:4
+#: vendor/django/contrib/admin/templates/admin/submit_line.html:5
+msgid "Save as new"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/submit_line.html:5
+#: vendor/django/contrib/admin/templates/admin/submit_line.html:6
+msgid "Save and add another"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/submit_line.html:6
+#: vendor/django/contrib/admin/templates/admin/submit_line.html:7
+msgid "Save and continue editing"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/submit_line.html:7
+#: common/templates/form_photo.html:31
+#: vendor/django/contrib/admin/templates/admin/submit_line.html:3
+msgid "Save"
+msgstr "احفظ"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/add_form.html:6
+#: vendor/django/contrib/admin/templates/admin/auth/user/add_form.html:6
+msgid ""
+"First, enter a username and password. Then, you'll be able to edit more user "
+"options."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/add_form.html:12
+#: vendor/django/contrib/admin/templates/admin/auth/user/add_form.html:13
+#: vendor/django/contrib/auth/forms.py:14
+#: vendor/django/contrib/auth/forms.py:47
+#: vendor/django/contrib/auth/forms.py:59
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/add_form.html:18
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:34
+#: actor/templates/settings_password.html:11 join/templates/form_join.html:37
+#: vendor/django/contrib/admin/templates/admin/auth/user/add_form.html:20
+#: vendor/django/contrib/admin/templates/admin/auth/user/change_password.html:33
+#: vendor/django/contrib/auth/forms.py:17
+#: vendor/django/contrib/auth/forms.py:60
+#: vendor/django/contrib/auth/forms.py:184
+msgid "Password"
+msgstr "كلمة السر"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/add_form.html:23
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:39
+#: vendor/django/contrib/admin/templates/admin/auth/user/add_form.html:26
+#: vendor/django/contrib/admin/templates/admin/auth/user/change_password.html:39
+#: vendor/django/contrib/auth/forms.py:185
+msgid "Password (again)"
+msgstr "كلمة السر من جديد"
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/add_form.html:24
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:40
+#: vendor/django/contrib/admin/templates/admin/auth/user/add_form.html:27
+#: vendor/django/contrib/admin/templates/admin/auth/user/change_password.html:40
+msgid "Enter the same password as above, for verification."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin/auth/user/change_password.html:28
+#: vendor/django/contrib/admin/templates/admin/auth/user/change_password.html:26
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:3
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:3
+msgid "Bookmarklets"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:5
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:4
+msgid "Documentation bookmarklets"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:9
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:8
+msgid ""
+"\n"
+"<p class=\"help\">To install bookmarklets, drag the link to your bookmarks\n"
+"toolbar, or right-click the link and add it to your bookmarks. Now you can\n"
+"select the bookmarklet from any page in the site.  Note that some of these\n"
+"bookmarklets require you to be viewing the site from a computer designated\n"
+"as \"internal\" (talk to your system administrator if you aren't sure if\n"
+"your computer is \"internal\").</p>\n"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:19
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:18
+msgid "Documentation for this page"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:20
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:19
+msgid ""
+"Jumps you from any page to the documentation for the view that generates "
+"that page."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:22
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:21
+msgid "Show object ID"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:23
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:22
+msgid ""
+"Shows the content-type and unique ID for pages that represent a single "
+"object."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:25
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:24
+msgid "Edit this object (current window)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:26
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:25
+msgid "Jumps to the admin page for pages that represent a single object."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:28
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:27
+msgid "Edit this object (new window)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/admin_doc/bookmarklets.html:29
+#: vendor/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:28
+msgid "As above, but opens the admin page in a new window."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/logged_out.html:8
+#: vendor/django/contrib/admin/templates/registration/logged_out.html:8
+msgid "Thanks for spending some quality time with the Web site today."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/logged_out.html:10
+#: vendor/django/contrib/admin/templates/registration/logged_out.html:10
+msgid "Log in again"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_done.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:6
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:10
+#: vendor/django/contrib/admin/templates/registration/password_change_done.html:4
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:4
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:6
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:10
+msgid "Password change"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_done.html:6
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_done.html:10
+#: vendor/django/contrib/admin/templates/registration/password_change_done.html:6
+#: vendor/django/contrib/admin/templates/registration/password_change_done.html:10
+msgid "Password change successful"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_done.html:12
+#: vendor/django/contrib/admin/templates/registration/password_change_done.html:12
+msgid "Your password was changed."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:12
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:12
+msgid ""
+"Please enter your old password, for security's sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:17
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:17
+msgid "Old password:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:19
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:19
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:18
+msgid "New password:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:21
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:21
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:20
+msgid "Confirm password:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_change_form.html:23
+#: vendor/django/contrib/admin/templates/registration/password_change_form.html:23
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:21
+msgid "Change my password"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_done.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_form.html:4
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_form.html:6
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_form.html:10
+#: vendor/django/contrib/admin/templates/registration/password_reset_complete.html:4
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:6
+#: vendor/django/contrib/admin/templates/registration/password_reset_done.html:4
+#: vendor/django/contrib/admin/templates/registration/password_reset_form.html:4
+#: vendor/django/contrib/admin/templates/registration/password_reset_form.html:6
+#: vendor/django/contrib/admin/templates/registration/password_reset_form.html:10
+msgid "Password reset"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_done.html:6
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_done.html:10
+#: vendor/django/contrib/admin/templates/registration/password_reset_done.html:6
+#: vendor/django/contrib/admin/templates/registration/password_reset_done.html:10
+msgid "Password reset successful"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_done.html:12
+msgid ""
+"We've e-mailed a new password to the e-mail address you submitted. You "
+"should be receiving it shortly."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_email.html:2
+#: vendor/django/contrib/admin/templates/registration/password_reset_email.html:2
+msgid "You're receiving this e-mail because you requested a password reset"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_email.html:3
+#: vendor/django/contrib/admin/templates/registration/password_reset_email.html:3
+#, python-format
+msgid "for your user account at %(site_name)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_email.html:5
+#, python-format
+msgid "Your new password is: %(new_password)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_email.html:7
+msgid "Feel free to change this password by going to this page:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_email.html:11
+#: vendor/django/contrib/admin/templates/registration/password_reset_email.html:9
+msgid "Your username, in case you've forgotten:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_email.html:13
+#: vendor/django/contrib/admin/templates/registration/password_reset_email.html:11
+msgid "Thanks for using our site!"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_email.html:15
+#: vendor/django/contrib/admin/templates/registration/password_reset_email.html:13
+#, python-format
+msgid "The %(site_name)s team"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_form.html:12
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll reset "
+"your password and e-mail the new one to you."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_form.html:16
+#: vendor/django/contrib/admin/templates/registration/password_reset_form.html:16
+msgid "E-mail address:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/registration/password_reset_form.html:16
+#: vendor/django/contrib/admin/templates/registration/password_reset_form.html:16
+msgid "Reset my password"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/widget/date_time.html:3
+#: vendor/django/contrib/admin/widgets.py:70
+msgid "Date:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/widget/date_time.html:4
+#: vendor/django/contrib/admin/widgets.py:70
+msgid "Time:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/widget/file.html:2
+#: vendor/django/contrib/admin/widgets.py:94
+msgid "Currently:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templates/widget/file.html:3
+#: vendor/django/contrib/admin/widgets.py:94
+msgid "Change:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/templatetags/admin_list.py:247
+#: vendor/django/contrib/admin/templatetags/admin_list.py:288
+msgid "All dates"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/auth.py:19
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:257
+#: vendor/django/contrib/admin/options.py:417
+#: vendor/django/contrib/auth/admin.py:51
+#, python-format
+msgid "The %(name)s \"%(obj)s\" was added successfully."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/auth.py:24
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:261
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:347
+#: vendor/django/contrib/admin/options.py:421
+#: vendor/django/contrib/admin/options.py:454
+#: vendor/django/contrib/auth/admin.py:59
+msgid "You may edit it again below."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/auth.py:30
+#: vendor/django/contrib/auth/admin.py:64
+msgid "Add user"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/auth.py:57
+#: vendor/django/contrib/auth/admin.py:90
+msgid "Password changed successfully."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/auth.py:64
+#: vendor/django/contrib/auth/admin.py:96
+#, python-format
+msgid "Change password: %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/decorators.py:10
+#: .google_appengine/lib/django/django/contrib/auth/forms.py:60
+#: vendor/django/contrib/admin/sites.py:16
+#: vendor/django/contrib/admin/views/decorators.py:14
+#: vendor/django/contrib/auth/forms.py:80
+msgid ""
+"Please enter a correct username and password. Note that both fields are case-"
+"sensitive."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/decorators.py:36
+#: vendor/django/contrib/admin/sites.py:227
+#: vendor/django/contrib/admin/views/decorators.py:40
+msgid "Please log in again, because your session has expired."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/decorators.py:43
+#: vendor/django/contrib/admin/sites.py:234
+#: vendor/django/contrib/admin/views/decorators.py:47
+msgid ""
+"Looks like your browser isn't configured to accept cookies. Please enable "
+"cookies, reload this page, and try again."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/decorators.py:57
+#: vendor/django/contrib/admin/sites.py:250
+#: vendor/django/contrib/admin/sites.py:256
+#: vendor/django/contrib/admin/views/decorators.py:66
+msgid "Usernames cannot contain the '@' character."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/decorators.py:59
+#: vendor/django/contrib/admin/sites.py:253
+#: vendor/django/contrib/admin/views/decorators.py:62
+#, python-format
+msgid "Your e-mail address is not your username. Try '%s' instead."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:46
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:48
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:50
+#: vendor/django/contrib/admindocs/views.py:57
+#: vendor/django/contrib/admindocs/views.py:59
+#: vendor/django/contrib/admindocs/views.py:61
+msgid "tag:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:77
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:79
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:81
+#: vendor/django/contrib/admindocs/views.py:90
+#: vendor/django/contrib/admindocs/views.py:92
+#: vendor/django/contrib/admindocs/views.py:94
+msgid "filter:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:135
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:137
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:139
+#: vendor/django/contrib/admindocs/views.py:154
+#: vendor/django/contrib/admindocs/views.py:156
+#: vendor/django/contrib/admindocs/views.py:158
+msgid "view:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:164
+#: vendor/django/contrib/admindocs/views.py:186
+#, python-format
+msgid "App %r not found"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:171
+#, python-format
+msgid "Model %(name)r not found in app %(label)r"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:183
+#, python-format
+msgid "the related `%(label)s.%(type)s` object"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:183
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:205
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:219
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:224
+#: vendor/django/contrib/admindocs/views.py:205
+#: vendor/django/contrib/admindocs/views.py:227
+#: vendor/django/contrib/admindocs/views.py:241
+#: vendor/django/contrib/admindocs/views.py:246
+msgid "model:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:214
+#, python-format
+msgid "related `%(label)s.%(name)s` objects"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:219
+#: vendor/django/contrib/admindocs/views.py:241
+#, python-format
+msgid "all %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:224
+#: vendor/django/contrib/admindocs/views.py:246
+#, python-format
+msgid "number of %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:229
+#: vendor/django/contrib/admindocs/views.py:251
+#, python-format
+msgid "Fields on %s objects"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:291
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:301
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:303
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:309
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:310
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:312
+#: vendor/django/contrib/admindocs/views.py:314
+#: vendor/django/contrib/admindocs/views.py:325
+#: vendor/django/contrib/admindocs/views.py:327
+#: vendor/django/contrib/admindocs/views.py:333
+#: vendor/django/contrib/admindocs/views.py:334
+#: vendor/django/contrib/admindocs/views.py:336
+msgid "Integer"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:292
+#: vendor/django/contrib/admindocs/views.py:315
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:293
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:311
+#, python-format
+msgid "String (up to %(maxlength)s)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:294
+#: vendor/django/contrib/admindocs/views.py:317
+msgid "Comma-separated integers"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:295
+#: vendor/django/contrib/admindocs/views.py:318
+msgid "Date (without time)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:296
+#: vendor/django/contrib/admindocs/views.py:319
+msgid "Date (with time)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:297
+#: vendor/django/contrib/admindocs/views.py:321
+msgid "E-mail address"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:298
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:299
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:302
+#: vendor/django/contrib/admindocs/views.py:322
+#: vendor/django/contrib/admindocs/views.py:323
+#: vendor/django/contrib/admindocs/views.py:326
+msgid "File path"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:300
+#: vendor/django/contrib/admindocs/views.py:320
+msgid "Decimal number"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:304
+#: .google_appengine/lib/django/django/contrib/comments/models.py:85
+#: vendor/django/contrib/admindocs/views.py:328
+#: vendor/django/contrib/comments/models.py:58
+msgid "IP address"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:306
+#: vendor/django/contrib/admindocs/views.py:330
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:307
+#: vendor/django/contrib/admindocs/views.py:331
+msgid "Relation to parent model"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:308
+#: vendor/django/contrib/admindocs/views.py:332
+msgid "Phone number"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:313
+#: vendor/django/contrib/admindocs/views.py:337
+msgid "Text"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:314
+#: vendor/django/contrib/admindocs/views.py:338
+msgid "Time"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:315
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:7
+#: vendor/django/contrib/admindocs/views.py:339
+#: vendor/django/contrib/comments/forms.py:22
+#: vendor/django/contrib/flatpages/admin.py:8
+#: vendor/django/contrib/flatpages/models.py:7
+msgid "URL"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:316
+#: vendor/django/contrib/admindocs/views.py:340
+msgid "U.S. state (two uppercase letters)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:317
+#: vendor/django/contrib/admindocs/views.py:341
+msgid "XML text"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/doc.py:343
+#: vendor/django/contrib/admindocs/views.py:367
+#, python-format
+msgid "%s does not appear to be a urlpattern object"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:223
+#: vendor/django/contrib/admin/sites.py:313
+msgid "Site administration"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:271
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:356
+#: vendor/django/contrib/admin/options.py:431
+#: vendor/django/contrib/admin/options.py:464
+#, python-format
+msgid "You may add another %s below."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:289
+#: vendor/django/contrib/admin/options.py:536
+#, python-format
+msgid "Add %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:335
+#, python-format
+msgid "Added %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:335
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:337
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:339
+#: .google_appengine/lib/django/django/db/models/manipulators.py:308
+#: vendor/django/contrib/admin/options.py:338
+#: vendor/django/contrib/admin/options.py:348
+#: vendor/django/forms/models.py:275
+msgid "and"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:337
+#: vendor/django/contrib/admin/options.py:338
+#, python-format
+msgid "Changed %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:339
+#, python-format
+msgid "Deleted %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:342
+#: vendor/django/contrib/admin/options.py:356
+msgid "No fields changed."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:345
+#: vendor/django/contrib/admin/options.py:452
+#, python-format
+msgid "The %(name)s \"%(obj)s\" was changed successfully."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:353
+#: vendor/django/contrib/admin/options.py:460
+#, python-format
+msgid ""
+"The %(name)s \"%(obj)s\" was added successfully. You may edit it again below."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:391
+#: vendor/django/contrib/admin/options.py:614
+#, python-format
+msgid "Change %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:476
+#: vendor/django/contrib/admin/util.py:138
+#, python-format
+msgid "One or more %(fieldname)s in %(name)s: %(obj)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:481
+#: vendor/django/contrib/admin/util.py:143
+#, python-format
+msgid "One or more %(fieldname)s in %(name)s:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:514
+#: vendor/django/contrib/admin/options.py:696
+#, python-format
+msgid "The %(name)s \"%(obj)s\" was deleted successfully."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:517
+#: vendor/django/contrib/admin/options.py:703
+msgid "Are you sure?"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:539
+#: vendor/django/contrib/admin/options.py:732
+#, python-format
+msgid "Change history: %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:573
+#: vendor/django/contrib/admin/views/main.py:69
+#, python-format
+msgid "Select %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:573
+#: vendor/django/contrib/admin/views/main.py:69
+#, python-format
+msgid "Select %s to change"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/admin/views/main.py:768
+#: vendor/django/contrib/admin/options.py:646
+msgid "Database error"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/forms.py:17
+#: .google_appengine/lib/django/django/contrib/auth/forms.py:138
+#: vendor/django/contrib/auth/forms.py:36
+#: vendor/django/contrib/auth/forms.py:154
+#: vendor/django/contrib/auth/forms.py:196
+msgid "The two password fields didn't match."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/forms.py:25
+#: vendor/django/contrib/auth/forms.py:30
+msgid "A user with that username already exists."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/forms.py:53
+#: vendor/django/contrib/auth/forms.py:87
+msgid ""
+"Your Web browser doesn't appear to have cookies enabled. Cookies are "
+"required for logging in."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/forms.py:62
+#: vendor/django/contrib/auth/forms.py:82
+msgid "This account is inactive."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/forms.py:85
+#: vendor/django/contrib/auth/forms.py:109
+msgid ""
+"That e-mail address doesn't have an associated user account. Are you sure "
+"you've registered?"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/forms.py:117
+msgid "The two 'new password' fields didn't match."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/forms.py:124
+#: vendor/django/contrib/auth/forms.py:176
+msgid "Your old password was entered incorrectly. Please enter it again."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:38
+#: .google_appengine/lib/django/django/contrib/auth/models.py:57
+#: vendor/django/contrib/auth/models.py:72
+#: vendor/django/contrib/auth/models.py:95
+msgid "name"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:40
+#: vendor/django/contrib/auth/models.py:74
+msgid "codename"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:42
+#: vendor/django/contrib/auth/models.py:77
+msgid "permission"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:43
+#: .google_appengine/lib/django/django/contrib/auth/models.py:58
+#: vendor/django/contrib/auth/models.py:78
+#: vendor/django/contrib/auth/models.py:96
+msgid "permissions"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:60
+#: vendor/django/contrib/auth/models.py:99
+msgid "group"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:61
+#: .google_appengine/lib/django/django/contrib/auth/models.py:100
+#: vendor/django/contrib/auth/models.py:100
+#: vendor/django/contrib/auth/models.py:146
+msgid "groups"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:90
+#: vendor/django/contrib/auth/models.py:136
+msgid "username"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:90
+#: vendor/django/contrib/auth/forms.py:15
+#: vendor/django/contrib/auth/forms.py:48
+#: vendor/django/contrib/auth/models.py:136
+msgid ""
+"Required. 30 characters or fewer. Alphanumeric characters only (letters, "
+"digits and underscores)."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:91
+#: vendor/django/contrib/auth/models.py:137
+msgid "first name"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:92
+#: vendor/django/contrib/auth/models.py:138
+msgid "last name"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:93
+#: vendor/django/contrib/auth/models.py:139
+msgid "e-mail address"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:94
+#: vendor/django/contrib/auth/models.py:140
+msgid "password"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:94
+#: vendor/django/contrib/auth/models.py:140
+msgid ""
+"Use '[algo]$[salt]$[hexdigest]' or use the <a href=\"password/\">change "
+"password form</a>."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:95
+#: vendor/django/contrib/auth/models.py:141
+msgid "staff status"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:95
+#: vendor/django/contrib/auth/models.py:141
+msgid "Designates whether the user can log into this admin site."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:96
+#: vendor/django/contrib/auth/models.py:142
+msgid "active"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:96
+msgid ""
+"Designates whether this user can log into the Django admin. Unselect this "
+"instead of deleting accounts."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:97
+#: vendor/django/contrib/auth/models.py:143
+msgid "superuser status"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:97
+#: vendor/django/contrib/auth/models.py:143
+msgid ""
+"Designates that this user has all permissions without explicitly assigning "
+"them."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:98
+#: vendor/django/contrib/auth/models.py:144
+msgid "last login"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:99
+#: vendor/django/contrib/auth/models.py:145
+msgid "date joined"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:101
+#: vendor/django/contrib/auth/models.py:147
+msgid ""
+"In addition to the permissions manually assigned, this user will also get "
+"all permissions granted to each group he/she is in."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:102
+#: vendor/django/contrib/auth/models.py:148
+msgid "user permissions"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:105
+#: vendor/django/contrib/auth/models.py:152
+msgid "user"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:106
+#: vendor/django/contrib/auth/models.py:153
+msgid "users"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:111
+#: vendor/django/contrib/auth/admin.py:21
+msgid "Personal info"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:112
+#: vendor/django/contrib/auth/admin.py:22
+msgid "Permissions"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:113
+#: vendor/django/contrib/auth/admin.py:23
+msgid "Important dates"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:114
+#: vendor/django/contrib/auth/admin.py:24
+msgid "Groups"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/models.py:258
+#: vendor/django/contrib/auth/models.py:308
+msgid "message"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/auth/views.py:39
+#: vendor/django/contrib/auth/views.py:50
+msgid "Logged out"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:67
+#: .google_appengine/lib/django/django/contrib/comments/models.py:166
+#: vendor/django/contrib/comments/models.py:23
+msgid "object ID"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:68
+msgid "headline"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:69
+#: .google_appengine/lib/django/django/contrib/comments/models.py:90
+#: .google_appengine/lib/django/django/contrib/comments/models.py:167
+#: vendor/django/contrib/comments/models.py:54
+msgid "comment"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:70
+msgid "rating #1"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:71
+msgid "rating #2"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:72
+msgid "rating #3"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:73
+msgid "rating #4"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:74
+msgid "rating #5"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:75
+msgid "rating #6"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:76
+msgid "rating #7"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:77
+msgid "rating #8"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:82
+msgid "is valid rating"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:83
+#: .google_appengine/lib/django/django/contrib/comments/models.py:169
+#: vendor/django/contrib/comments/models.py:57
+msgid "date/time submitted"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:84
+#: .google_appengine/lib/django/django/contrib/comments/models.py:170
+#: vendor/django/contrib/comments/models.py:59
+msgid "is public"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:86
+#: vendor/django/contrib/comments/models.py:62
+msgid "is removed"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:86
+#: vendor/django/contrib/comments/models.py:63
+msgid ""
+"Check this box if the comment is inappropriate. A \"This comment has been "
+"removed\" message will be displayed instead."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:91
+msgid "comments"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:131
+#: .google_appengine/lib/django/django/contrib/comments/models.py:207
+msgid "Content object"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:159
+#: vendor/django/contrib/comments/models.py:149
+#, python-format
+msgid ""
+"Posted by %(user)s at %(date)s\n"
+"\n"
+"%(comment)s\n"
+"\n"
+"http://%(domain)s%(url)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:168
+msgid "person's name"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:171
+msgid "ip address"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:173
+msgid "approved by staff"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:176
+msgid "free comment"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:177
+msgid "free comments"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:233
+msgid "score"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:234
+msgid "score date"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:237
+msgid "karma score"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:238
+msgid "karma scores"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:242
+#, python-format
+msgid "%(score)d rating by %(user)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:258
+#, python-format
+msgid ""
+"This comment was flagged by %(user)s:\n"
+"\n"
+"%(text)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:265
+msgid "flag date"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:268
+msgid "user flag"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:269
+msgid "user flags"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:273
+#, python-format
+msgid "Flag by %r"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:278
+msgid "deletion date"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:280
+msgid "moderator deletion"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:281
+msgid "moderator deletions"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/models.py:285
+#, python-format
+msgid "Moderator deletion by %r"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:8
+msgid "Forgotten your password?"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:12
+msgid "Ratings"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:12
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:23
+msgid "Required"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:12
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:23
+msgid "Optional"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:23
+msgid "Post a photo"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:28
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/freeform.html:5
+msgid "Comment:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/form.html:35
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/freeform.html:10
+msgid "Preview comment"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/templates/comments/freeform.html:4
+msgid "Your name:"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:27
+msgid ""
+"This rating is required because you've entered at least one other rating."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:111
+#, python-format
+msgid ""
+"This comment was posted by a user who has posted fewer than %(count)s "
+"comment:\n"
+"\n"
+"%(text)s"
+msgid_plural ""
+"This comment was posted by a user who has posted fewer than %(count)s "
+"comments:\n"
+"\n"
+"%(text)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:116
+#, python-format
+msgid ""
+"This comment was posted by a sketchy user:\n"
+"\n"
+"%(text)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:188
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:280
+msgid "Only POSTs are allowed"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:192
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:284
+msgid "One or more of the required fields wasn't submitted"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:196
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:286
+msgid "Somebody tampered with the comment form (security violation)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:206
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:292
+msgid ""
+"The comment form had an invalid 'target' parameter -- the object ID was "
+"invalid"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:257
+#: .google_appengine/lib/django/django/contrib/comments/views/comments.py:321
+msgid "The comment form didn't provide either 'preview' or 'post'"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/karma.py:19
+msgid "Anonymous users cannot vote"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/karma.py:23
+msgid "Invalid comment ID"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/comments/views/karma.py:25
+msgid "No voting for yourself"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/contenttypes/models.py:36
+#: vendor/django/contrib/contenttypes/models.py:67
+msgid "python model class name"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/contenttypes/models.py:39
+#: vendor/django/contrib/contenttypes/models.py:71
+msgid "content type"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/contenttypes/models.py:40
+#: vendor/django/contrib/contenttypes/models.py:72
+msgid "content types"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:8
+#: vendor/django/contrib/flatpages/admin.py:9
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:9
+#: vendor/django/contrib/flatpages/models.py:8
+msgid "title"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:10
+#: vendor/django/contrib/flatpages/models.py:9
+msgid "content"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:11
+#: vendor/django/contrib/flatpages/models.py:10
+msgid "enable comments"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:12
+#: vendor/django/contrib/flatpages/models.py:11
+msgid "template name"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:13
+#: vendor/django/contrib/flatpages/models.py:12
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:14
+#: vendor/django/contrib/flatpages/models.py:13
+msgid "registration required"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:14
+#: vendor/django/contrib/flatpages/models.py:13
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:18
+#: vendor/django/contrib/flatpages/models.py:18
+msgid "flat page"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/flatpages/models.py:19
+#: vendor/django/contrib/flatpages/models.py:19
+msgid "flat pages"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:17
+#: vendor/django/contrib/humanize/templatetags/humanize.py:19
+msgid "th"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:17
+#: vendor/django/contrib/humanize/templatetags/humanize.py:19
+msgid "st"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:17
+#: vendor/django/contrib/humanize/templatetags/humanize.py:19
+msgid "nd"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:17
+#: vendor/django/contrib/humanize/templatetags/humanize.py:19
+msgid "rd"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:47
+#: vendor/django/contrib/humanize/templatetags/humanize.py:51
+#, python-format
+msgid "%(value).1f million"
+msgid_plural "%(value).1f million"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:50
+#: vendor/django/contrib/humanize/templatetags/humanize.py:54
+#, python-format
+msgid "%(value).1f billion"
+msgid_plural "%(value).1f billion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:53
+#: vendor/django/contrib/humanize/templatetags/humanize.py:57
+#, python-format
+msgid "%(value).1f trillion"
+msgid_plural "%(value).1f trillion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:68
+#: vendor/django/contrib/humanize/templatetags/humanize.py:73
+msgid "one"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:68
+#: vendor/django/contrib/humanize/templatetags/humanize.py:73
+msgid "two"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:68
+#: vendor/django/contrib/humanize/templatetags/humanize.py:73
+msgid "three"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:68
+#: vendor/django/contrib/humanize/templatetags/humanize.py:73
+msgid "four"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:68
+#: vendor/django/contrib/humanize/templatetags/humanize.py:73
+msgid "five"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:68
+#: vendor/django/contrib/humanize/templatetags/humanize.py:73
+msgid "six"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:68
+#: vendor/django/contrib/humanize/templatetags/humanize.py:73
+msgid "seven"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:68
+#: vendor/django/contrib/humanize/templatetags/humanize.py:73
+msgid "eight"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/humanize/templatetags/humanize.py:68
+#: vendor/django/contrib/humanize/templatetags/humanize.py:73
+msgid "nine"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/localflavor/uk/forms.py:18
+msgid "Enter a postcode. A space is required between the two postcode parts."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/localflavor/usa/forms.py:17
+#: vendor/django/contrib/localflavor/us/forms.py:16
+msgid "Enter a zip code in the format XXXXX or XXXXX-XXXX."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/redirects/models.py:7
+#: vendor/django/contrib/redirects/models.py:7
+msgid "redirect from"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/redirects/models.py:8
+#: vendor/django/contrib/redirects/models.py:8
+msgid ""
+"This should be an absolute path, excluding the domain name. Example: '/"
+"events/search/'."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/redirects/models.py:9
+#: vendor/django/contrib/redirects/models.py:9
+msgid "redirect to"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/redirects/models.py:10
+#: vendor/django/contrib/redirects/models.py:10
+msgid ""
+"This can be either an absolute path (as above) or a full URL starting with "
+"'http://'."
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/redirects/models.py:13
+#: vendor/django/contrib/redirects/models.py:13
+msgid "redirect"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/redirects/models.py:14
+#: vendor/django/contrib/redirects/models.py:14
+msgid "redirects"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/sessions/models.py:68
+#: vendor/django/contrib/sessions/models.py:45
+msgid "session key"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/sessions/models.py:69
+#: vendor/django/contrib/sessions/models.py:47
+msgid "session data"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/sessions/models.py:70
+#: vendor/django/contrib/sessions/models.py:48
+msgid "expire date"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/sessions/models.py:74
+#: vendor/django/contrib/sessions/models.py:53
+msgid "session"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/sessions/models.py:75
+#: vendor/django/contrib/sessions/models.py:54
+msgid "sessions"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/sites/models.py:10
+#: vendor/django/contrib/sites/models.py:32
+msgid "domain name"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/sites/models.py:11
+#: vendor/django/contrib/sites/models.py:33
+msgid "display name"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/sites/models.py:15
+#: vendor/django/contrib/admin/views/template.py:36
+#: vendor/django/contrib/sites/models.py:38
+msgid "site"
+msgstr ""
+
+#: .google_appengine/lib/django/django/contrib/sites/models.py:16
+#: vendor/django/contrib/sites/models.py:39
+msgid "sites"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:64
+#: vendor/django/contrib/auth/forms.py:16
+#: vendor/django/contrib/auth/forms.py:49
+msgid "This value must contain only letters, numbers and underscores."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:68
+#: vendor/django/contrib/flatpages/admin.py:11
+msgid ""
+"This value must contain only letters, numbers, underscores, dashes or "
+"slashes."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:72
+msgid "This value must contain only letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:76
+msgid "Uppercase letters are not allowed here."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:80
+msgid "Lowercase letters are not allowed here."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:87
+#: vendor/django/db/models/fields/__init__.py:428
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:99
+msgid "Enter valid e-mail addresses separated by commas."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:103
+msgid "Please enter a valid IP address."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:107
+msgid "Empty values are not allowed here."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:111
+msgid "Non-numeric characters aren't allowed here."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:115
+msgid "This value can't be comprised solely of digits."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:120
+#: .google_appengine/lib/django/django/newforms/fields.py:126
+#: vendor/django/forms/fields.py:166
+msgid "Enter a whole number."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:124
+msgid "Only alphabetical characters are allowed here."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:139
+msgid "Year must be 1900 or later."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:143
+#: vendor/django/db/models/fields/__init__.py:468
+#, python-format
+msgid "Invalid date: %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:148
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:457
+#: vendor/django/db/models/fields/__init__.py:459
+msgid "Enter a valid date in YYYY-MM-DD format."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:153
+msgid "Enter a valid time in HH:MM format."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:157
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:526
+msgid "Enter a valid date/time in YYYY-MM-DD HH:MM format."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:162
+#: .google_appengine/lib/django/django/newforms/fields.py:269
+#: vendor/django/contrib/auth/management/commands/createsuperuser.py:23
+#: vendor/django/forms/fields.py:428
+msgid "Enter a valid e-mail address."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:174
+#: .google_appengine/lib/django/django/core/validators.py:445
+#: .google_appengine/lib/django/django/oldforms/__init__.py:672
+#: vendor/django/forms/fields.py:446
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:178
+#: vendor/django/forms/fields.py:477
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:185
+#, python-format
+msgid "The URL %s does not point to a valid image."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:189
+#, python-format
+msgid "Phone numbers must be in XXX-XXX-XXXX format. \"%s\" is invalid."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:197
+#, python-format
+msgid "The URL %s does not point to a valid QuickTime video."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:201
+msgid "A valid URL is required."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:215
+#, python-format
+msgid ""
+"Valid HTML is required. Specific errors are:\n"
+"%s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:222
+#, python-format
+msgid "Badly formed XML: %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:239
+#, python-format
+msgid "Invalid URL: %s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:244
+#: .google_appengine/lib/django/django/core/validators.py:246
+#, python-format
+msgid "The URL %s is a broken link."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:252
+msgid "Enter a valid U.S. state abbreviation."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:266
+#: vendor/django/contrib/comments/forms.py:126
+#, python-format
+msgid "Watch your mouth! The word %s is not allowed here."
+msgid_plural "Watch your mouth! The words %s are not allowed here."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/core/validators.py:273
+#, python-format
+msgid "This field must match the '%s' field."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:292
+msgid "Please enter something for at least one field."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:301
+#: .google_appengine/lib/django/django/core/validators.py:312
+msgid "Please enter both fields or leave them both empty."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:320
+#, python-format
+msgid "This field must be given if %(field)s is %(value)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:333
+#, python-format
+msgid "This field must be given if %(field)s is not %(value)s"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:352
+msgid "Duplicate values are not allowed."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:367
+#, python-format
+msgid "This value must be between %(lower)s and %(upper)s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:369
+#, python-format
+msgid "This value must be at least %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:371
+#, python-format
+msgid "This value must be no more than %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:407
+#, python-format
+msgid "This value must be a power of %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:418
+msgid "Please enter a valid decimal number."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:422
+#, python-format
+msgid "Please enter a valid decimal number with at most %s total digit."
+msgid_plural ""
+"Please enter a valid decimal number with at most %s total digits."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/core/validators.py:425
+#, python-format
+msgid ""
+"Please enter a valid decimal number with a whole part of at most %s digit."
+msgid_plural ""
+"Please enter a valid decimal number with a whole part of at most %s digits."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/core/validators.py:428
+#, python-format
+msgid "Please enter a valid decimal number with at most %s decimal place."
+msgid_plural ""
+"Please enter a valid decimal number with at most %s decimal places."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/core/validators.py:438
+#, python-format
+msgid "Make sure your uploaded file is at least %s bytes big."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:439
+#, python-format
+msgid "Make sure your uploaded file is at most %s bytes big."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:456
+msgid "The format for this field is wrong."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:471
+msgid "This field is invalid."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:507
+#, python-format
+msgid "Could not retrieve anything from %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:510
+#, python-format
+msgid ""
+"The URL %(url)s returned the invalid Content-Type header '%(contenttype)s'."
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:543
+#, python-format
+msgid ""
+"Please close the unclosed %(tag)s tag from line %(line)s. (Line starts with "
+"\"%(start)s\".)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:547
+#, python-format
+msgid ""
+"Some text starting on line %(line)s is not allowed in that context. (Line "
+"starts with \"%(start)s\".)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:552
+#, python-format
+msgid ""
+"\"%(attr)s\" on line %(line)s is an invalid attribute. (Line starts with \"%"
+"(start)s\".)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:557
+#, python-format
+msgid ""
+"\"<%(tag)s>\" on line %(line)s is an invalid tag. (Line starts with \"%"
+"(start)s\".)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:561
+#, python-format
+msgid ""
+"A tag on line %(line)s is missing one or more required attributes. (Line "
+"starts with \"%(start)s\".)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/core/validators.py:566
+#, python-format
+msgid ""
+"The \"%(attr)s\" attribute on line %(line)s has an invalid value. (Line "
+"starts with \"%(start)s\".)"
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/manipulators.py:307
+#, python-format
+msgid "%(object)s with this %(type)s already exists for the given %(field)s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:42
+#, python-format
+msgid "%(optname)s with this %(fieldname)s already exists."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:117
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:274
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:610
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:621
+#: .google_appengine/lib/django/django/newforms/fields.py:78
+#: .google_appengine/lib/django/django/newforms/fields.py:376
+#: .google_appengine/lib/django/django/newforms/fields.py:452
+#: .google_appengine/lib/django/django/newforms/fields.py:463
+#: .google_appengine/lib/django/django/newforms/models.py:177
+#: .google_appengine/lib/django/django/oldforms/__init__.py:357
+#: vendor/django/forms/fields.py:54
+msgid "This field is required."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:367
+#: vendor/django/db/models/fields/__init__.py:348
+#: vendor/django/db/models/fields/__init__.py:683
+msgid "This value must be an integer."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:402
+#: vendor/django/db/models/fields/__init__.py:379
+msgid "This value must be either True or False."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:423
+#: vendor/django/db/models/fields/__init__.py:412
+msgid "This field cannot be null."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:630
+msgid "Enter a valid filename."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/__init__.py:751
+#: vendor/django/db/models/fields/__init__.py:719
+msgid "This value must be either None, True or False."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/related.py:53
+#, python-format
+msgid "Please enter a valid %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/related.py:642
+msgid "Separate multiple IDs with commas."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/related.py:644
+#: vendor/django/db/models/fields/related.py:761
+msgid ""
+"Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
+msgstr ""
+
+#: .google_appengine/lib/django/django/db/models/fields/related.py:691
+#: vendor/django/db/models/fields/related.py:838
+#, python-format
+msgid "Please enter valid %(self)s IDs. The value %(value)r is invalid."
+msgid_plural ""
+"Please enter valid %(self)s IDs. The values %(value)r are invalid."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:101
+#: .google_appengine/lib/django/django/newforms/fields.py:254
+#, python-format
+msgid "Ensure this value has at most %d characters."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:103
+#: .google_appengine/lib/django/django/newforms/fields.py:256
+#, python-format
+msgid "Ensure this value has at least %d characters."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:128
+#: vendor/django/forms/fields.py:167 vendor/django/forms/fields.py:196
+#: vendor/django/forms/fields.py:225
+#, python-format
+msgid "Ensure this value is less than or equal to %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:130
+#: vendor/django/forms/fields.py:168 vendor/django/forms/fields.py:197
+#: vendor/django/forms/fields.py:226
+#, python-format
+msgid "Ensure this value is greater than or equal to %s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:163
+#: vendor/django/forms/fields.py:287 vendor/django/forms/fields.py:848
+msgid "Enter a valid date."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:190
+#: vendor/django/forms/fields.py:321 vendor/django/forms/fields.py:849
+msgid "Enter a valid time."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:226
+#: vendor/django/forms/fields.py:360
+msgid "Enter a valid date/time."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:240
+#: vendor/django/forms/fields.py:55
+msgid "Enter a valid value."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:289
+#: .google_appengine/lib/django/django/newforms/fields.py:311
+#: vendor/django/forms/fields.py:538
+msgid "Enter a valid URL."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:313
+#: vendor/django/forms/fields.py:539
+msgid "This URL appears to be a broken link."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:362
+#: .google_appengine/lib/django/django/newforms/models.py:164
+#: vendor/django/forms/models.py:590
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:380
+#: .google_appengine/lib/django/django/newforms/fields.py:456
+#: .google_appengine/lib/django/django/newforms/models.py:181
+#: vendor/django/forms/fields.py:697 vendor/django/forms/fields.py:758
+#: vendor/django/forms/models.py:660
+msgid "Enter a list of values."
+msgstr ""
+
+#: .google_appengine/lib/django/django/newforms/fields.py:389
+#: .google_appengine/lib/django/django/newforms/models.py:187
+#: vendor/django/forms/models.py:661
+#, python-format
+msgid "Select a valid choice. %s is not one of the available choices."
+msgstr ""
+
+#: .google_appengine/lib/django/django/oldforms/__init__.py:392
+#, python-format
+msgid "Ensure your text is less than %s character."
+msgid_plural "Ensure your text is less than %s characters."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .google_appengine/lib/django/django/oldforms/__init__.py:397
+msgid "Line breaks are not allowed here."
+msgstr ""
+
+#: .google_appengine/lib/django/django/oldforms/__init__.py:498
+#: .google_appengine/lib/django/django/oldforms/__init__.py:571
+#: .google_appengine/lib/django/django/oldforms/__init__.py:610
+#, python-format
+msgid "Select a valid choice; '%(data)s' is not in %(choices)s."
+msgstr ""
+
+#: .google_appengine/lib/django/django/oldforms/__init__.py:674
+#: vendor/django/forms/fields.py:448
+msgid "The submitted file is empty."
+msgstr ""
+
+#: .google_appengine/lib/django/django/oldforms/__init__.py:730
+msgid "Enter a whole number between -32,768 and 32,767."
+msgstr ""
+
+#: .google_appengine/lib/django/django/oldforms/__init__.py:740
+msgid "Enter a positive number."
+msgstr ""
+
+#: .google_appengine/lib/django/django/oldforms/__init__.py:750
+msgid "Enter a whole number between 0 and 32,767."
+msgstr ""
+
+#: .google_appengine/lib/django/django/template/defaultfilters.py:491
+#: vendor/django/template/defaultfilters.py:706
+msgid "yes,no,maybe"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dateformat.py:40
+#: vendor/django/utils/dateformat.py:41
+msgid "p.m."
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dateformat.py:41
+#: vendor/django/utils/dateformat.py:42
+msgid "a.m."
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dateformat.py:46
+#: vendor/django/utils/dateformat.py:47
+msgid "PM"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dateformat.py:47
+#: vendor/django/utils/dateformat.py:48
+msgid "AM"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dateformat.py:95
+#: vendor/django/utils/dateformat.py:97
+msgid "midnight"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dateformat.py:97
+#: vendor/django/utils/dateformat.py:99
+msgid "noon"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:6
+#: vendor/django/utils/dates.py:6
+msgid "Monday"
+msgstr "الاثنين"
+
+#: .google_appengine/lib/django/django/utils/dates.py:6
+#: vendor/django/utils/dates.py:6
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: .google_appengine/lib/django/django/utils/dates.py:6
+#: vendor/django/utils/dates.py:6
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+#: .google_appengine/lib/django/django/utils/dates.py:6
+#: vendor/django/utils/dates.py:6
+msgid "Thursday"
+msgstr "الخميس"
+
+#: .google_appengine/lib/django/django/utils/dates.py:6
+#: vendor/django/utils/dates.py:6
+msgid "Friday"
+msgstr "الجمعة"
+
+#: .google_appengine/lib/django/django/utils/dates.py:7
+#: vendor/django/utils/dates.py:7
+msgid "Saturday"
+msgstr "السبت"
+
+#: .google_appengine/lib/django/django/utils/dates.py:7
+#: vendor/django/utils/dates.py:7
+msgid "Sunday"
+msgstr "الأحد"
+
+#: .google_appengine/lib/django/django/utils/dates.py:14
+#: vendor/django/utils/dates.py:18
+msgid "January"
+msgstr "يناير"
+
+#: .google_appengine/lib/django/django/utils/dates.py:14
+#: vendor/django/utils/dates.py:18
+msgid "February"
+msgstr "فبراير"
+
+#: .google_appengine/lib/django/django/utils/dates.py:14
+#: .google_appengine/lib/django/django/utils/dates.py:27
+#: vendor/django/utils/dates.py:18 vendor/django/utils/dates.py:31
+msgid "March"
+msgstr "مارس"
+
+#: .google_appengine/lib/django/django/utils/dates.py:14
+#: .google_appengine/lib/django/django/utils/dates.py:27
+#: vendor/django/utils/dates.py:18 vendor/django/utils/dates.py:31
+msgid "April"
+msgstr "إبريل"
+
+#: .google_appengine/lib/django/django/utils/dates.py:14
+#: .google_appengine/lib/django/django/utils/dates.py:27
+#: vendor/django/utils/dates.py:18 vendor/django/utils/dates.py:31
+msgid "May"
+msgstr "مايو"
+
+#: .google_appengine/lib/django/django/utils/dates.py:14
+#: .google_appengine/lib/django/django/utils/dates.py:27
+#: vendor/django/utils/dates.py:18 vendor/django/utils/dates.py:31
+msgid "June"
+msgstr "يونيو"
+
+#: .google_appengine/lib/django/django/utils/dates.py:15
+#: .google_appengine/lib/django/django/utils/dates.py:27
+#: vendor/django/utils/dates.py:19 vendor/django/utils/dates.py:31
+msgid "July"
+msgstr "يوليو"
+
+#: .google_appengine/lib/django/django/utils/dates.py:15
+#: vendor/django/utils/dates.py:19
+msgid "August"
+msgstr "أغسطس"
+
+#: .google_appengine/lib/django/django/utils/dates.py:15
+#: vendor/django/utils/dates.py:19
+msgid "September"
+msgstr "سيبتمبر"
+
+#: .google_appengine/lib/django/django/utils/dates.py:15
+#: vendor/django/utils/dates.py:19
+msgid "October"
+msgstr "أكتوبر"
+
+#: .google_appengine/lib/django/django/utils/dates.py:15
+#: vendor/django/utils/dates.py:19
+msgid "November"
+msgstr "نوفمبر"
+
+#: .google_appengine/lib/django/django/utils/dates.py:16
+#: vendor/django/utils/dates.py:20
+msgid "December"
+msgstr "ديسمبر"
+
+#: .google_appengine/lib/django/django/utils/dates.py:19
+#: vendor/django/utils/dates.py:23
+msgid "jan"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:19
+#: vendor/django/utils/dates.py:23
+msgid "feb"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:19
+#: vendor/django/utils/dates.py:23
+msgid "mar"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:19
+#: vendor/django/utils/dates.py:23
+msgid "apr"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:19
+#: vendor/django/utils/dates.py:23
+msgid "may"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:19
+#: vendor/django/utils/dates.py:23
+msgid "jun"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:20
+#: vendor/django/utils/dates.py:24
+msgid "jul"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:20
+#: vendor/django/utils/dates.py:24
+msgid "aug"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:20
+#: vendor/django/utils/dates.py:24
+msgid "sep"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:20
+#: vendor/django/utils/dates.py:24
+msgid "oct"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:20
+#: vendor/django/utils/dates.py:24
+msgid "nov"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:20
+#: vendor/django/utils/dates.py:24
+msgid "dec"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:27
+#: vendor/django/utils/dates.py:31
+msgid "Jan."
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:27
+#: vendor/django/utils/dates.py:31
+msgid "Feb."
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:28
+#: vendor/django/utils/dates.py:32
+msgid "Aug."
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:28
+#: vendor/django/utils/dates.py:32
+msgid "Sept."
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:28
+#: vendor/django/utils/dates.py:32
+msgid "Oct."
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:28
+#: vendor/django/utils/dates.py:32
+msgid "Nov."
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/dates.py:28
+#: vendor/django/utils/dates.py:32
+msgid "Dec."
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/timesince.py:12
+#: vendor/django/utils/timesince.py:21
+msgid "year"
+msgid_plural "years"
+msgstr[0] "سنة"
+msgstr[1] "سنة"
+
+#: .google_appengine/lib/django/django/utils/timesince.py:13
+#: vendor/django/utils/timesince.py:22
+msgid "month"
+msgid_plural "months"
+msgstr[0] "شهر"
+msgstr[1] "شهرا"
+
+#: .google_appengine/lib/django/django/utils/timesince.py:14
+#: vendor/django/utils/timesince.py:23
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "أسبوع"
+msgstr[1] "أسيوعا"
+
+#: .google_appengine/lib/django/django/utils/timesince.py:15
+#: vendor/django/utils/timesince.py:24
+msgid "day"
+msgid_plural "days"
+msgstr[0] "يوم"
+msgstr[1] "يوما"
+
+#: .google_appengine/lib/django/django/utils/timesince.py:16
+#: vendor/django/utils/timesince.py:25
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ساعة"
+msgstr[1] "ساعة"
+
+#: .google_appengine/lib/django/django/utils/timesince.py:17
+#: vendor/django/utils/timesince.py:26
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "دقيقة"
+msgstr[1] "دقيقة"
+
+#: .google_appengine/lib/django/django/utils/translation/trans_real.py:369
+#: vendor/django/utils/translation/trans_real.py:403
+msgid "DATE_FORMAT"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/translation/trans_real.py:370
+#: vendor/django/contrib/admin/templates/admin/object_history.html:30
+#: vendor/django/utils/translation/trans_real.py:404
+msgid "DATETIME_FORMAT"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/translation/trans_real.py:371
+#: vendor/django/utils/translation/trans_real.py:405
+msgid "TIME_FORMAT"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/translation/trans_real.py:387
+#: vendor/django/utils/translation/trans_real.py:421
+msgid "YEAR_MONTH_FORMAT"
+msgstr ""
+
+#: .google_appengine/lib/django/django/utils/translation/trans_real.py:388
+#: vendor/django/utils/translation/trans_real.py:422
+msgid "MONTH_DAY_FORMAT"
+msgstr ""
+
+#: .google_appengine/lib/django/django/views/generic/create_update.py:43
+#: vendor/django/views/generic/create_update.py:114
+#, python-format
+msgid "The %(verbose_name)s was created successfully."
+msgstr ""
+
+#: .google_appengine/lib/django/django/views/generic/create_update.py:117
+#: vendor/django/views/generic/create_update.py:156
+#, python-format
+msgid "The %(verbose_name)s was updated successfully."
+msgstr ""
+
+#: .google_appengine/lib/django/django/views/generic/create_update.py:184
+#: vendor/django/views/generic/create_update.py:198
+#, python-format
+msgid "The %(verbose_name)s was deleted."
+msgstr ""
+
+#: actor/templates/settings_base.html:4 channel/templates/settings_base.html:4
+msgid "Settings "
+msgstr "الإعدادات"
+
+#: actor/templates/settings_base.html:15 common/templates/base_navbar.html:13
+#: common/templates/footnav.html:12
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: actor/templates/settings_base.html:24 actor/templates/settings_index.html:7
+msgid "Account"
+msgstr "الحساب"
+
+#: actor/templates/settings_base.html:27
+msgid "Your profile"
+msgstr "ملفك الشخصي"
+
+#: actor/templates/settings_base.html:30
+msgid "Your email address"
+msgstr "بريدك الإلكتروني"
+
+#: actor/templates/settings_base.html:34
+msgid "Your mobile number"
+msgstr "رقم جوالك"
+
+#: actor/templates/settings_base.html:39
+msgid "Your IM address"
+msgstr "عنوان الدردشة الخاص بك"
+
+#: actor/templates/settings_base.html:43
+msgid "Your password"
+msgstr " كلمة السر"
+
+#: actor/templates/settings_base.html:46 common/templates/form_photo.html:3
+msgid "Your photo"
+msgstr "صورتك"
+
+#: actor/templates/settings_base.html:49
+msgid "Your privacy"
+msgstr "الخصوصية"
+
+#: actor/templates/settings_base.html:53
+msgid "Your web feeds"
+msgstr ""
+
+#: actor/templates/settings_base.html:62
+msgid "Preferences"
+msgstr "تفضيلات"
+
+#: actor/templates/settings_base.html:65
+msgid "Notification options"
+msgstr "خيارات التنبيه"
+
+#: actor/templates/settings_base.html:69
+#: actor/templates/settings_index.html:38
+#: channel/templates/settings_base.html:21
+#: channel/templates/settings_index.html:17
+msgid "Presentation"
+msgstr "العرض"
+
+#: actor/templates/settings_base.html:72
+msgid "Look and feel"
+msgstr "الشكل والمظهر"
+
+#: actor/templates/settings_base.html:76
+#: channel/templates/settings_base.html:26
+#: channel/templates/settings_index.html:41
+msgid "Badges"
+msgstr "شارات"
+
+#: actor/templates/settings_email.html:7
+#, fuzzy
+msgid "Your email address is"
+msgstr "بريدك الإلكتروني"
+
+#: actor/templates/settings_email.html:11 actor/templates/settings_im.html:11
+msgid "(Change notification options)"
+msgstr "(تغيير إعدادات التنبيه)"
+
+#: actor/templates/settings_email.html:14
+#: actor/templates/settings_email.html:26
+#, fuzzy
+msgid "Use a different email address"
+msgstr "البريد الإلكتروني"
+
+#: actor/templates/settings_email.html:17
+msgid "Waiting to confirm "
+msgstr ""
+
+#: actor/templates/settings_email.html:19
+#, python-format
+msgid ""
+"A confimation message has been sent to %(unconfirmed_email)s,\n"
+"      please follow the link in it to confirm your email address."
+msgstr ""
+
+#: actor/templates/settings_email.html:22
+msgid ""
+"If the message doesn't arrive in a few minutes, you can\n"
+"      request another message below."
+msgstr ""
+
+#: actor/templates/settings_email.html:28
+msgid "Add your email address"
+msgstr "بريدك الإلكتروني"
+
+#: actor/templates/settings_email.html:36
+#: actor/templates/settings_profile.html:52
+#: vendor/django/contrib/comments/forms.py:21
+msgid "Email address"
+msgstr "البريد الإلكتروني"
+
+#: actor/templates/settings_email.html:42
+msgid "A new confirmation will be sent."
+msgstr "سوف يتم إرسال رسالة تأكيد جديدة"
+
+#: actor/templates/settings_email.html:48
+msgid "Send confirmation message"
+msgstr "أرسل رسالة تأكيد"
+
+#: actor/templates/settings_im.html:6
+msgid "Change Your IM Address"
+msgstr "تغيير عنوان الدردشة "
+
+#: actor/templates/settings_im.html:10
+msgid "Your IM has been activated. Notifications are currently "
+msgstr ""
+
+#: actor/templates/settings_im.html:16
+msgid "Your IM address is:"
+msgstr ""
+
+#: actor/templates/settings_im.html:22
+msgid "You may clear it by sending SIGN OUT to "
+msgstr ""
+
+#: actor/templates/settings_im.html:44
+msgid "IM Help"
+msgstr ""
+
+#: actor/templates/settings_im.html:45
+msgid "Notification Options"
+msgstr "خيارات التنبيه"
+
+#: actor/templates/settings_im.html:46
+msgid "List of IM Commands"
+msgstr ""
+
+#: actor/templates/settings_index.html:9
+msgid ""
+"Update your account details, change your password, or upload a new photos."
+msgstr ""
+"تحديث تفاصيل حسابك ، وتغيير كلمة السر الخاصة بك ، أو تحميل الصور الجديدة."
+
+#: actor/templates/settings_index.html:11
+msgid "Manage your profile"
+msgstr "إدارة ملفك الشخصي"
+
+#: actor/templates/settings_index.html:13
+msgid "Update your email address"
+msgstr "البريد الإلكتروني"
+
+#: actor/templates/settings_index.html:15
+msgid "Confirm your email address"
+msgstr "تأكيد بريدك الإلكتروني"
+
+#: actor/templates/settings_index.html:19
+msgid "Update your mobile number"
+msgstr "تحديث رقم جوالك"
+
+#: actor/templates/settings_index.html:21
+msgid "Activate your mobile number"
+msgstr "تفعيل رقم جوالك"
+
+#: actor/templates/settings_index.html:26
+msgid "Update your IM address"
+msgstr ""
+
+#: actor/templates/settings_index.html:28
+msgid "Activate your IM address"
+msgstr ""
+
+#: actor/templates/settings_index.html:31
+msgid "Change your password"
+msgstr "غير كلمة السر"
+
+#: actor/templates/settings_index.html:32
+msgid "Upload your photo"
+msgstr "تحميل صورتك"
+
+#: actor/templates/settings_index.html:33
+msgid "Change your privacy"
+msgstr "تغير إعدادات الخصوصية"
+
+#: actor/templates/settings_index.html:40
+#: channel/templates/settings_index.html:19
+msgid "Select a custom color or upload an image as your background."
+msgstr "حدد لون مخصص أو حمل صورة الخلفية الخاصة بك."
+
+#: actor/templates/settings_index.html:43
+#: channel/templates/settings_index.html:21
+msgid "Change background"
+msgstr "غير الخلفية"
+
+#: actor/templates/settings_index.html:45
+#: channel/templates/settings_index.html:45
+msgid "Get a badge"
+msgstr "الحصول على وسام"
+
+#: actor/templates/settings_index.html:55
+msgid "Notifications"
+msgstr "التنبيهات"
+
+#: actor/templates/settings_index.html:57
+msgid "What you want to be notified about and how you want to be notified"
+msgstr "ما الذي تريد أن يتم تنبيهك عنه وكيف تريد أن يتم ذلك"
+
+#: actor/templates/settings_index.html:60
+msgid "Select notification options"
+msgstr "حدد خيارات التنبيه"
+
+#: actor/templates/settings_index.html:65
+#: channel/templates/settings_index.html:31
+msgid "Web Feeds"
+msgstr ""
+
+#: actor/templates/settings_index.html:71
+msgid "Manage your web feeds"
+msgstr ""
+
+#: actor/templates/settings_password.html:6
+msgid "Change Your Password"
+msgstr "غير كلمة السر"
+
+#: actor/templates/settings_password.html:15 join/templates/form_join.html:42
+msgid "Verify password"
+msgstr "تأكيد كلمة السر"
+
+#: actor/templates/settings_password.html:19
+#: actor/templates/settings_profile.html:97
+msgid "Save Changes"
+msgstr "احفظ التعديلات"
+
+#: actor/templates/settings_profile.html:6
+msgid "Profile Info"
+msgstr "معلومات الملف الشخصي"
+
+#: actor/templates/settings_profile.html:14 join/templates/form_join.html:16
+msgid "Screen name"
+msgstr "اسم المستخدم"
+
+#: actor/templates/settings_profile.html:18 join/templates/form_join.html:6
+msgid "First name"
+msgstr "الاسم الأول"
+
+#: actor/templates/settings_profile.html:23 join/templates/form_join.html:11
+msgid "Last name"
+msgstr "الاسم الأخير"
+
+#: actor/templates/settings_profile.html:30
+msgid "Mobile phone"
+msgstr "رقم الجوال"
+
+#: actor/templates/settings_profile.html:33
+#: actor/templates/settings_profile.html:56
+#: actor/templates/settings_profile.html:79
+msgid "(Change)"
+msgstr "(تعديل)"
+
+#: actor/templates/settings_profile.html:39
+msgid "(Not activated)"
+msgstr "(غير مفعل)"
+
+#: actor/templates/settings_profile.html:43
+#: actor/templates/settings_profile.html:66
+#: actor/templates/settings_profile.html:83
+#: vendor/django/contrib/admin/options.py:60
+#: vendor/django/contrib/admin/options.py:121
+msgid "None"
+msgstr "لا شيئ"
+
+#: actor/templates/settings_profile.html:44
+#: actor/templates/settings_profile.html:67
+#: actor/templates/settings_profile.html:84
+msgid "(Add)"
+msgstr "(أضف)"
+
+#: actor/templates/settings_profile.html:62
+msgid "(Unconfirmed)"
+msgstr "(غير مؤكد)"
+
+#: actor/templates/settings_profile.html:75
+msgid "IM address"
+msgstr "عنوان الدردشة"
+
+#: actor/templates/settings_profile.html:91
+msgid "Homepage"
+msgstr ""
+
+#: actor/templates/settings_profile.html:103
+msgid "Want to delete your account?"
+msgstr "هل تريد أن تحذف حسابك؟"
+
+#: channel/templates/channel_base.html:4 common/templates/base_navbar.html:45
+#: common/templates/base_navbar.html:58 common/templates/footnav.html:10
+msgid "Channels"
+msgstr "قنوات"
+
+#: channel/templates/channel_base.html:9
+#, python-format
+msgid "%(SITE_NAME)s Channels"
+msgstr "%(SITE_NAME)s قنوات "
+
+#: channel/templates/channel_base.html:16
+#, python-format
+msgid ""
+"<strong> 'How to post to a channel?</strong><br/>\n"
+"        From any %(SITE_NAME)s interface you can post to a channel\n"
+"        by prefixing your message with the channelname.<br />\n"
+"        Example: <br/><strong>#example Hello everyone!</strong>"
+msgstr ""
+
+#: channel/templates/channel_base.html:23
+msgid ""
+"This is available via the SMS on<br />\n"
+"        <strong>30300</strong><br />"
+msgstr ""
+
+#: channel/templates/create.html:4
+msgid "Create Channel"
+msgstr "أنشىء قناة"
+
+#: channel/templates/create.html:7
+msgid "Create a Channel"
+msgstr "قنوات مختارة"
+
+#: channel/templates/create.html:14
+msgid "Name of the channel"
+msgstr "اسم القناة"
+
+#: channel/templates/create.html:18 join/templates/form_join.html:24
+msgid "Please use only letters and numbers."
+msgstr "رجاءا استعمل الحروف والأرقام باللغة الإنجليزية فقط"
+
+#: channel/templates/create.html:22
+msgid "Create"
+msgstr "أنشىء"
+
+#: channel/templates/index.html:7
+msgid "Create a New Channel"
+msgstr "أنشىء قناة جديدة"
+
+#: channel/templates/index.html:13
+msgid "Channels are a way for multiple people to post to the same stream."
+msgstr ""
+"القنوات عبارة عن أسلوب يشترك فيه أكثر من شخص لإرسال رسائل ضمن  موضوع معين"
+
+#: channel/templates/index.html:27
+msgid "Channels You Administer"
+msgstr "قنوات تحت إدارتي"
+
+#: channel/templates/index.html:36
+msgid "No channels - go"
+msgstr "لا قنوات"
+
+#: channel/templates/index.html:36
+msgid "create one"
+msgstr "أنشىء قناة"
+
+#: channel/templates/index.html:36
+msgid "first!"
+msgstr "أولا"
+
+#: channel/templates/index.html:40
+msgid "Channels You Are a Member of"
+msgstr "قنوات أنا عضو فيها"
+
+#: channel/templates/index.html:49
+msgid ""
+"Joining channels created by others can be fun. We recommend that you start "
+"by joining "
+msgstr ""
+
+#: channel/templates/index.html:49
+msgid " to get support and share ideas about improving "
+msgstr ""
+
+#: channel/templates/settings_base.html:6
+#, fuzzy
+msgid "Channel settings"
+msgstr "تم تحديث إعدادات القناة"
+
+#: channel/templates/settings_base.html:9
+msgid "Details"
+msgstr ""
+
+#: channel/templates/settings_base.html:12
+#: common/templates/message_form.html:32
+msgid "Icon"
+msgstr "أيقونة"
+
+#: channel/templates/settings_base.html:16
+msgid "Web feeds"
+msgstr ""
+
+#: channel/templates/settings_base.html:30
+msgid "Delete channel"
+msgstr "احذف القناة"
+
+#: channel/templates/settings_index.html:6
+msgid "Basic Details"
+msgstr "تفاصيل الأساسية"
+
+#: channel/templates/settings_index.html:8
+msgid "Edit the channel description and URL or upload an icon"
+msgstr "حرر صفو رابط القناة أو أضف أيقونة"
+
+#: channel/templates/settings_index.html:10
+msgid "Edit details"
+msgstr "حرر التفاصيل"
+
+#: channel/templates/settings_index.html:11
+msgid "Upload an icon"
+msgstr "تحميل أيقونة"
+
+#: channel/templates/settings_index.html:12
+msgid "Delete this channel"
+msgstr "احذف هذه القناة"
+
+#: channel/templates/settings_index.html:33
+msgid "Add blogs, photos, and other RSS or Atom feeds to the channel"
+msgstr "أضف مدونة ، وصور ، وغيرها من آر إس إس إلى القناة"
+
+#: channel/templates/settings_index.html:36
+msgid "Manage web feeds"
+msgstr ""
+
+#: channel/templates/settings_index.html:43
+msgid "Create a channel badge for placing on another Web site."
+msgstr "إنشاء شارة للقناة لوضعها على موقع ويب آخر."
+
+#: common/clean.py:47
+msgid "Invalid color, try #RRGGBB"
+msgstr ""
+
+#: common/clean.py:63
+msgid "Invalid background image path"
+msgstr "مسار صورة الخلفية غير صالح"
+
+#: common/clean.py:74
+msgid "Invalid datetime"
+msgstr "صيغة الوقت غير صحيحة"
+
+#: common/clean.py:77 common/clean.py:125
+msgid "Invalid nick"
+msgstr "اسم غير صالح"
+
+#: common/clean.py:100
+msgid "Invalid channel name"
+msgstr "اسم القناة غير صحيح"
+
+#: common/clean.py:120
+msgid "Invalid OAuth type"
+msgstr ""
+
+#: common/clean.py:156
+msgid "Invalid mobile number"
+msgstr ""
+
+#: common/clean.py:163
+msgid "Invalid url"
+msgstr ""
+
+#: common/messages.py:28
+msgid "Mobile activated."
+msgstr "تم تفعيل الجوال"
+
+#: common/messages.py:31
+msgid "Email confirmation has been sent."
+msgstr "تم إرسال رسالة تأكيد البريد الإلكتروني"
+
+#: common/messages.py:34
+msgid "Mobile activation code has been sent."
+msgstr "تم إرسال رمز تفعيل الجوال"
+
+#: common/messages.py:37
+msgid "Contact added."
+msgstr "تم إضافة المتصل"
+
+#: common/messages.py:40
+msgid "Deleted"
+msgstr "تم الحذف"
+
+#: common/messages.py:43
+msgid "Contact removed."
+msgstr "تم إزالة المتصل"
+
+#: common/messages.py:46
+msgid "Channel created"
+msgstr "تم إنشاء القناة"
+
+#: common/messages.py:49
+msgid "You have joined the channel."
+msgstr "لقد انضممت الى القناة."
+
+#: common/messages.py:52
+msgid "Channel settings updated."
+msgstr "تم تحديث إعدادات القناة"
+
+#: common/messages.py:55
+msgid "You have left the channel."
+msgstr "لقد تركت القناة"
+
+#: common/messages.py:58 common/messages.py:100
+msgid "Message posted."
+msgstr "تم ارسال الرسالة"
+
+#: common/messages.py:61
+msgid "Comment added."
+msgstr "تم إضافة التعليق"
+
+#: common/messages.py:64
+msgid "Marked as spam."
+msgstr ""
+
+#: common/messages.py:67
+msgid "Post deleted."
+msgstr "تم الحذف"
+
+#: common/messages.py:70
+msgid "Comment deleted."
+msgstr "تم حذف التعليق"
+
+#: common/messages.py:73
+msgid "Invitation accepted"
+msgstr "تم قبول الدعوة"
+
+#: common/messages.py:76
+msgid "Invitation rejected"
+msgstr "تم رفض الدعوة"
+
+#: common/messages.py:79
+msgid "Invitation sent"
+msgstr "تم إرسال دعوة"
+
+#: common/messages.py:82
+msgid "New Password Emailed"
+msgstr "تم إرسال كلمة السر الجديدة عبر البريد الإلكتروني"
+
+#: common/messages.py:85
+msgid "API Key deleted"
+msgstr ""
+
+#: common/messages.py:88
+msgid "API Key information updated"
+msgstr ""
+
+#: common/messages.py:91
+msgid "New API key generated"
+msgstr ""
+
+#: common/messages.py:94
+msgid "API token revoked."
+msgstr ""
+
+#: common/messages.py:97
+msgid "Location updated"
+msgstr "تم تحديث المكان"
+
+#: common/messages.py:103
+msgid "Settings updated."
+msgstr "تم تحديث الإعدادات"
+
+#: common/messages.py:106
+msgid "privacy updated"
+msgstr "تم تحديث الخصوصية"
+
+#: common/messages.py:109
+msgid "Comments preferenced stored."
+msgstr ""
+
+#: common/messages.py:112
+msgid "profile updated"
+msgstr ""
+
+#: common/messages.py:115
+msgid "Unsubscribed."
+msgstr ""
+
+#: common/messages.py:118
+msgid "Subscription requested."
+msgstr ""
+
+#: common/templates/base_navbar.html:12
+msgid "Signed in as "
+msgstr "مرحبا، "
+
+#: common/templates/base_navbar.html:14 common/templates/base_single.html:10
+msgid "Sign Out"
+msgstr "تسجيل الخروج"
+
+#: common/templates/base_navbar.html:16
+msgid "Already a member?"
+msgstr "هل أنت عضو معنا؟"
+
+#: common/templates/base_navbar.html:18 common/templates/base_navbar.html:20
+#: common/templates/footnav.html:20 login/templates/login.html:4
+msgid "Sign In"
+msgstr "قم بتسجيل دخولك "
+
+#: common/templates/base_navbar.html:42 common/templates/footnav.html:9
+msgid "People"
+msgstr "تعرف على الناس"
+
+#: common/templates/base_navbar.html:48 common/templates/base_navbar.html:61
+#: common/templates/footnav.html:11 common/templates/footnav.html.py:24
+msgid "Explore"
+msgstr "تصفح"
+
+#: common/templates/base_navbar.html:55
+msgid "Take The Tour"
+msgstr "قم بجولة"
+
+#: common/templates/base_single.html:12
+msgid "Don not have an account?"
+msgstr "أتريد الانضمام إلينا"
+
+#: common/templates/base_single.html:12
+msgid "Sign Up Now"
+msgstr "سجل حساب جديد"
+
+#: common/templates/footnav.html:7
+msgid "Overview"
+msgstr "نظرة عامة"
+
+#: common/templates/footnav.html:13
+msgid "Sign out"
+msgstr "تسجيل الخروج"
+
+#: common/templates/footnav.html:27 common/templates/footnav.html.py:42
+msgid "Blog"
+msgstr "المدونة"
+
+#: common/templates/footnav.html:35
+msgid "About"
+msgstr "عن يسلمو"
+
+#: common/templates/footnav.html:36
+msgid "FAQ"
+msgstr "أسئلة وأجوبة"
+
+#: common/templates/footnav.html:37
+msgid "Support"
+msgstr "الدعم الفني"
+
+#: common/templates/footnav.html:38
+msgid "Privacy"
+msgstr "الخصوصية"
+
+#: common/templates/footnav.html:40
+msgid "API"
+msgstr "المطورون"
+
+#: common/templates/form_photo.html:5
+msgid ""
+"To make your posts more interesting, upload your photo -\n"
+"  or pick one of our slick defaults"
+msgstr ""
+
+#: common/templates/form_photo.html:20
+msgid "Upload New"
+msgstr "حمل الآن"
+
+#: common/templates/form_photo.html:21
+msgid "Set"
+msgstr "حدد"
+
+#: common/templates/item_comments.html:6
+#, python-format
+msgid "%(comments|length)s comment%(comments|length|pluralize)s so far"
+msgstr ""
+
+#: common/templates/item_comments.html:15
+#, python-format
+msgid "%(comment.created_at|je_timesince)s ago by "
+msgstr ""
+
+#: common/templates/item_comments.html:24
+msgid "This comment is hidden because it appears to be spam"
+msgstr ""
+
+#: common/templates/item_comments.html:30
+msgid "No comments so far"
+msgstr "لا تعليقات حتى الآن"
+
+#: common/templates/item_comments.html:37
+msgid "Add a Comment"
+msgstr "أضف تعليقا"
+
+#: common/templates/item_comments.html:41
+msgid "Your Comment"
+msgstr "تعليقك"
+
+#: common/templates/item_comments.html:45
+msgid "Click to insert screen name"
+msgstr ""
+
+#: common/templates/item_comments.html:45
+msgid " (or use keyboard shortcuts 1–9)"
+msgstr ""
+
+#: common/templates/item_comments.html:56
+msgid ""
+"Minimal formatting allowed (_<em>emphasis</em>_, *<strong>bold</strong>*, "
+"[link text](http://example.com/))"
+msgstr ""
+
+#: common/templates/item_comments.html:72
+#: common/templates/message_form.html:46
+msgid "Posting suspended"
+msgstr "الأرسال متوقف"
+
+#: common/templates/item_comments.html:74
+#, python-format
+msgid ""
+"Your posting rights have been suspended because your activities triggered "
+"our spam watchdog. If you think this was a mistake, please contact us by "
+"email at <a href=\"mailto:support@%(NS_DOMAIN)s\">support@%(NS_DOMAIN)s</a> "
+"and we'll sort out your case."
+msgstr ""
+
+#: common/templates/item_comments.html:80
+msgid "Sign in to add a comment"
+msgstr ""
+
+#: common/templates/message_form.html:13 common/templates/message_form.html:14
+msgid "Type your new message here"
+msgstr "اكتب رسالتك هنا"
+
+#: common/templates/message_form.html:18
+#: common/templates/sidebar_location.html:31
+msgid "Post"
+msgstr "أرسل"
+
+#: common/templates/message_form.html:30
+msgid "140 characters left"
+msgstr "عدد الأحرف المتبقية 140"
+
+#: common/templates/message_form.html:34
+msgid "Select icon"
+msgstr "اختر أيقونة"
+
+#: common/templates/message_form.html:39
+msgid "+ Add Icon"
+msgstr "+ أضف أيقونة"
+
+#: common/templates/sidebar_channels.html:5
+#, python-format
+msgid " Channels (%(channels_count)s)"
+msgstr ""
+
+#: common/templates/sidebar_channels.html:6
+#: common/templates/sidebar_contacts.html:6
+#: common/templates/sidebar_members.html:6
+#: common/templates/sidebar_streams.html:7
+msgid "Manage"
+msgstr "أدر"
+
+#: common/templates/sidebar_channels.html:25
+#: common/templates/sidebar_contacts.html:25
+#: common/templates/sidebar_contacts.html:27
+#: common/templates/sidebar_members.html:23
+#: common/templates/sidebar_members.html:25
+#: front/templates/sidebar_featured_channels.html:15
+msgid "&#8250; More"
+msgstr "&#8250; المزيد"
+
+#: common/templates/sidebar_channels.html:31
+msgid "No channels yet."
+msgstr " لا قنوات"
+
+#: common/templates/sidebar_channels.html:33
+msgid "You can start by "
+msgstr "يمكنك أن تبدأ عن طريق"
+
+#: common/templates/sidebar_channels.html:34
+msgid "joining some channels"
+msgstr "الإنضمام إلى بعض القنوات"
+
+#: common/templates/sidebar_contacts.html:5
+#, python-format
+msgid " Contacts (%(contacts_count)s)"
+msgstr ""
+
+#: common/templates/sidebar_contacts.html:34
+#, python-format
+msgid ""
+" No contacts yet. You can start by <a href=\"%(request.user.url)s/invite"
+"\">inviting some friends</a>."
+msgstr ""
+
+#: common/templates/sidebar_contacts.html:38
+#, python-format
+msgid "  You could be %(view.display_nick)s's first contact."
+msgstr ""
+
+#: common/templates/sidebar_location.html:6
+msgid "Location"
+msgstr "المكان"
+
+#: common/templates/sidebar_location.html:18
+msgid "Where are you now?"
+msgstr "أي أنت الآن؟"
+
+#: common/templates/sidebar_members.html:4
+#, python-format
+msgid "Members (%(members_count)s)"
+msgstr ""
+
+#: common/templates/sidebar_members.html:31
+#, python-format
+msgid "You could be %(view.display_nick)s's first member."
+msgstr ""
+
+#: common/templates/sidebar_streams.html:40
+msgid "Unsubscribe"
+msgstr "إلغاء الاشتراك"
+
+#: common/templates/sidebar_streams.html:44
+msgid "Subscribe"
+msgstr "الاشتراك"
+
+#: common/templates/sidebar_streams.html:55
+msgid "+ Add your Web feeds"
+msgstr ""
+
+#: common/templates/sidebar_streams.html:59
+msgid "No streams yet."
+msgstr "لا تفاعلات جديدة بعد"
+
+#: common/templates/stream_entry.html:9
+msgid "By"
+msgstr "من قبل"
+
+#: common/templates/stream_entry.html:11
+msgid "to "
+msgstr "إلى"
+
+#: common/templates/stream_entry.html:17
+msgid " in"
+msgstr "في"
+
+#: common/templates/stream_entry.html:21
+msgid "Add Comment"
+msgstr "أضف تعليقا"
+
+#: common/templatetags/format.py:188
+msgid "a moment"
+msgstr "قبل قليل"
+
+#: components/dummy_legal/__init__.py:24
+msgid "Terms of Service"
+msgstr "شروط الخدمة"
+
+#: front/templates/front.html:5
+msgid "Your Conversation"
+msgstr "أي كلام"
+
+#: front/templates/front.html:16
+msgid "Your Conversation."
+msgstr "أي كلام"
+
+#: front/templates/front.html:17
+#, python-format
+msgid "Welcome to %(SITE_NAME)s! "
+msgstr " مرحبا بك في  %(SITE_NAME)s"
+
+#: front/templates/front.html:21
+msgid "Create your activity stream"
+msgstr "خدمة التراسل الاجتماعية"
+
+#: front/templates/front.html:22
+#, python-format
+msgid ""
+"Post %(POST_NAME)ss, add icons, customize your design, share your Web feeds"
+msgstr ""
+
+#: front/templates/front.html:25
+msgid "Follow your friends"
+msgstr "تابع أصدقاءك"
+
+#: front/templates/front.html:26
+msgid "Get their updates, see their presence, add comments"
+msgstr "تعرف على ماهو جديد لديهم، واقرأ تعليقاتهم"
+
+#: front/templates/front.html:29
+msgid "&#8250; Take the tour"
+msgstr "&#8250; قم بجولة"
+
+#: front/templates/sidebar_featured_channels.html:4
+msgid "Featured Channels"
+msgstr "قنوات مختارة"
+
+#: front/templates/sidebar_featured_members.html:4
+msgid "Featured Members"
+msgstr "أعضاء مختارين"
+
+#: join/templates/form_join.html:22
+msgid "This will be your address: "
+msgstr "عنوانك على يسلمو كالآتي : "
+
+#: join/templates/form_join.html:32
+msgid "Address must be in the "
+msgstr "العنوان يجب أن يكوم ضمن "
+
+#: join/templates/form_join.html:32
+msgid "domain"
+msgstr "النطاق"
+
+#: join/templates/form_join.html:48
+#, python-format
+msgid " Hide my %(POST_NAME)ss from the public "
+msgstr " أخف رسائلي عن العامة "
+
+#: join/templates/form_join.html:56
+msgid "SIGN UP"
+msgstr "إنشاء حساب جديد"
+
+#: join/templates/join.html:3
+msgid "Join Now"
+msgstr "سجل حساب جديد"
+
+#: join/templates/join.html:5
+msgid "Create your free account"
+msgstr "أنشىء حسابا جديدا مجانا"
+
+#: login/views.py:74
+msgid "Invalid username or password"
+msgstr "معلومات الدخول غير صحيحة، حاول ثانية"
+
+#: login/templates/forgot.html:8
+msgid "Forgot Your Password?"
+msgstr "هل نسيت كلمة السر"
+
+#: login/templates/forgot.html:15
+msgid "Email address or screen name"
+msgstr "البريد الإلكتروني أو اسم المستخدم"
+
+#: login/templates/forgot.html:19
+msgid "Request new password"
+msgstr "غير كلمة السر"
+
+#: login/templates/forgot.html:24
+msgid "Return to Log In page"
+msgstr "العودة لصفحة البداية"
+
+#: login/templates/forgot.html:27
+msgid "proceed to the home page"
+msgstr "توجه إلى صفحة البداية"
+
+#: login/templates/login.html:14
+msgid "Screen name:"
+msgstr "الاسم الظاهر على الشاشة"
+
+#: login/templates/login.html:24
+msgid "Remember me on this computer"
+msgstr "تذكرني في المرة القادمة"
+
+#: login/templates/login.html:28
+msgid "SIGN IN"
+msgstr "تسجيل الدخول"
+
+#: login/templates/login.html:35
+msgid "Forgot your password?"
+msgstr "هل نسيت كلمة السر"
+
+#: login/templates/login.html:39
+msgid "Return to Home"
+msgstr "العودة إل صفحة البداية"
+
+#: login/templates/logout.html:5
+msgid "Session Ended"
+msgstr "انتهت الجلسة"
+
+#: login/templates/logout.html:7
+#, python-format
+msgid "You have signed out! You are no longer signed in to %(SITE_NAME)s."
+msgstr "لقد قمت بتسجيل الخروج! أنت الآن خارج %(SITE_NAME)s."
+
+#: login/templates/logout.html:8
+msgid "Thanks for your visit – we hope to see you again soon!"
+msgstr "شكرا لزيارتك - نراك قريبا بإذن الله "
+
+#: login/templates/logout.html:11
+msgid "Sign in</a> again or <a href=\"/\">proceed to the home page"
+msgstr "قم بتسجيل الدخول </a> من جديد أو  <a href=\"/\"> توجه لصفحة البداية"
+
+#: vendor/django/conf/global_settings.py:46
+msgid "Bulgarian"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:55
+msgid "Estonian"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:57
+msgid "Basque"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:58
+msgid "Persian"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:61
+msgid "Irish"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:65
+msgid "Croatian"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:69
+msgid "Georgian"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:70
+msgid "Korean"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:71
+msgid "Khmer"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:74
+msgid "Lithuanian"
+msgstr ""
+
+#: vendor/django/conf/global_settings.py:80
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: vendor/django/contrib/admin/options.py:343
+#, python-format
+msgid "Added %(name)s \"%(object)s\"."
+msgstr ""
+
+#: vendor/django/contrib/admin/options.py:347
+#, python-format
+msgid "Changed %(list)s for %(name)s \"%(object)s\"."
+msgstr ""
+
+#: vendor/django/contrib/admin/options.py:352
+#, python-format
+msgid "Deleted %(name)s \"%(object)s\"."
+msgstr ""
+
+#: vendor/django/contrib/admin/sites.py:373
+#, python-format
+msgid "%s administration"
+msgstr ""
+
+#: vendor/django/contrib/admin/widgets.py:123
+msgid "Lookup"
+msgstr ""
+
+#: vendor/django/contrib/admin/widgets.py:230
+msgid "Add Another"
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/admin/edit_inline/tabular.html:15
+msgid "Delete?"
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_complete.html:6
+#: vendor/django/contrib/admin/templates/registration/password_reset_complete.html:10
+msgid "Password reset complete"
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_complete.html:12
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:4
+msgid "Password reset confirmation"
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:12
+msgid "Enter new password"
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:14
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:26
+msgid "Password reset unsuccessful"
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_confirm.html:28
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_done.html:12
+msgid ""
+"We've e-mailed you instructions for setting your password to the e-mail "
+"address you submitted. You should be receiving it shortly."
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_email.html:5
+msgid "Please go to the following page and choose a new password:"
+msgstr ""
+
+#: vendor/django/contrib/admin/templates/registration/password_reset_form.html:12
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll e-mail "
+"instructions for setting a new one."
+msgstr ""
+
+#: vendor/django/contrib/admin/views/template.py:38
+msgid "template"
+msgstr ""
+
+#: vendor/django/contrib/admindocs/views.py:193
+#, python-format
+msgid "Model %(model_name)r not found in app %(app_label)r"
+msgstr ""
+
+#: vendor/django/contrib/admindocs/views.py:205
+#, python-format
+msgid "the related `%(app_label)s.%(data_type)s` object"
+msgstr ""
+
+#: vendor/django/contrib/admindocs/views.py:236
+#, python-format
+msgid "related `%(app_label)s.%(object_name)s` objects"
+msgstr ""
+
+#: vendor/django/contrib/admindocs/views.py:316
+#: vendor/django/contrib/admindocs/views.py:335
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr ""
+
+#: vendor/django/contrib/admindocs/views.py:324
+msgid "Floating point number"
+msgstr ""
+
+#: vendor/django/contrib/auth/forms.py:18
+msgid "Password confirmation"
+msgstr ""
+
+#: vendor/django/contrib/auth/forms.py:100
+msgid "E-mail"
+msgstr ""
+
+#: vendor/django/contrib/auth/forms.py:134
+#, python-format
+msgid "Password reset on %s"
+msgstr ""
+
+#: vendor/django/contrib/auth/forms.py:142
+msgid "New password"
+msgstr ""
+
+#: vendor/django/contrib/auth/forms.py:143
+msgid "New password confirmation"
+msgstr ""
+
+#: vendor/django/contrib/auth/forms.py:168
+msgid "Old password"
+msgstr ""
+
+#: vendor/django/contrib/auth/models.py:142
+msgid ""
+"Designates whether this user should be treated as active. Unselect this "
+"instead of deleting accounts."
+msgstr ""
+
+#: vendor/django/contrib/comments/admin.py:11
+msgid "Content"
+msgstr ""
+
+#: vendor/django/contrib/comments/admin.py:14
+msgid "Metadata"
+msgstr ""
+
+#: vendor/django/contrib/comments/forms.py:20
+msgid "Name"
+msgstr ""
+
+#: vendor/django/contrib/comments/forms.py:23
+msgid "Comment"
+msgstr "تعليق"
+
+#: vendor/django/contrib/comments/forms.py:26
+msgid ""
+"If you enter anything in this field your comment will be treated as spam"
+msgstr ""
+
+#: vendor/django/contrib/comments/models.py:50
+msgid "user's name"
+msgstr "اسم المستخدم"
+
+#: vendor/django/contrib/comments/models.py:51
+msgid "user's email address"
+msgstr "البريد الإلكتروني"
+
+#: vendor/django/contrib/comments/models.py:52
+msgid "user's URL"
+msgstr ""
+
+#: vendor/django/contrib/comments/models.py:60
+msgid ""
+"Uncheck this box to make the comment effectively disappear from the site."
+msgstr ""
+
+#: vendor/django/contrib/comments/models.py:115
+msgid ""
+"This comment was posted by an authenticated user and thus the name is read-"
+"only."
+msgstr ""
+
+#: vendor/django/contrib/comments/models.py:124
+msgid ""
+"This comment was posted by an authenticated user and thus the email is read-"
+"only."
+msgstr ""
+
+#: vendor/django/contrib/flatpages/admin.py:22
+msgid "Advanced options"
+msgstr "خيارات متقدمة"
+
+#: vendor/django/contrib/formtools/wizard.py:130
+msgid ""
+"We apologize, but your form has expired. Please continue filling out the "
+"form from this page."
+msgstr ""
+
+#: vendor/django/contrib/gis/forms/fields.py:14
+msgid "No geometry value provided."
+msgstr ""
+
+#: vendor/django/contrib/gis/forms/fields.py:15
+msgid "Invalid geometry value."
+msgstr ""
+
+#: vendor/django/contrib/gis/forms/fields.py:16
+msgid "Invalid geometry type."
+msgstr ""
+
+#: vendor/django/contrib/humanize/templatetags/humanize.py:93
+msgid "today"
+msgstr "اليوم"
+
+#: vendor/django/contrib/humanize/templatetags/humanize.py:95
+msgid "tomorrow"
+msgstr "غدا"
+
+#: vendor/django/contrib/humanize/templatetags/humanize.py:97
+msgid "yesterday"
+msgstr "البارحة"
+
+#: vendor/django/contrib/localflavor/ar/forms.py:27
+msgid "Enter a postal code in the format NNNN or ANNNNAAA."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ar/forms.py:49
+#: vendor/django/contrib/localflavor/br/forms.py:96
+#: vendor/django/contrib/localflavor/br/forms.py:135
+#: vendor/django/contrib/localflavor/pe/forms.py:23
+#: vendor/django/contrib/localflavor/pe/forms.py:51
+msgid "This field requires only numbers."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ar/forms.py:50
+msgid "This field requires 7 or 8 digits."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ar/forms.py:79
+msgid "Enter a valid CUIT in XX-XXXXXXXX-X or XXXXXXXXXXXX format."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ar/forms.py:80
+msgid "Invalid CUIT."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/at_states.py:5
+msgid "Burgenland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/at_states.py:6
+msgid "Carinthia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/at_states.py:7
+msgid "Lower Austria"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/at_states.py:8
+msgid "Upper Austria"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/at_states.py:9
+msgid "Salzburg"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/at_states.py:10
+msgid "Styria"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/at_states.py:11
+msgid "Tyrol"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/at_states.py:12
+msgid "Vorarlberg"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/at_states.py:13
+msgid "Vienna"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/forms.py:20
+#: vendor/django/contrib/localflavor/ch/forms.py:16
+#: vendor/django/contrib/localflavor/no/forms.py:12
+msgid "Enter a zip code in the format XXXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/at/forms.py:48
+msgid "Enter a valid Austrian Social Security Number in XXXX XXXXXX format."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/au/forms.py:16
+msgid "Enter a 4 digit post code."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/br/forms.py:21
+msgid "Enter a zip code in the format XXXXX-XXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/br/forms.py:30
+msgid "Phone numbers must be in XX-XXXX-XXXX format."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/br/forms.py:58
+msgid ""
+"Select a valid brazilian state. That state is not one of the available "
+"states."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/br/forms.py:94
+msgid "Invalid CPF number."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/br/forms.py:95
+msgid "This field requires at most 11 digits or 14 characters."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/br/forms.py:134
+msgid "Invalid CNPJ number."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/br/forms.py:136
+msgid "This field requires at least 14 digits"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ca/forms.py:17
+msgid "Enter a postal code in the format XXX XXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ca/forms.py:88
+msgid "Enter a valid Canadian Social Insurance number in XXX-XXX-XXX format."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:5
+msgid "Aargau"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:6
+msgid "Appenzell Innerrhoden"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:7
+msgid "Appenzell Ausserrhoden"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:8
+msgid "Basel-Stadt"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:9
+msgid "Basel-Land"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:10
+msgid "Berne"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:11
+msgid "Fribourg"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:12
+msgid "Geneva"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:13
+msgid "Glarus"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:14
+msgid "Graubuenden"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:15
+msgid "Jura"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:16
+msgid "Lucerne"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:17
+msgid "Neuchatel"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:18
+msgid "Nidwalden"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:19
+msgid "Obwalden"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:20
+msgid "Schaffhausen"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:21
+msgid "Schwyz"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:22
+msgid "Solothurn"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:23
+msgid "St. Gallen"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:24
+msgid "Thurgau"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:25
+msgid "Ticino"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:26
+msgid "Uri"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:27
+msgid "Valais"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:28
+msgid "Vaud"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:29
+msgid "Zug"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/ch_states.py:30
+msgid "Zurich"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ch/forms.py:64
+msgid ""
+"Enter a valid Swiss identity or passport card number in X1234567<0 or "
+"1234567890 format."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/cl/forms.py:29
+msgid "Enter a valid Chilean RUT."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/cl/forms.py:30
+msgid "Enter a valid Chilean RUT. The format is XX.XXX.XXX-X."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/cl/forms.py:31
+msgid "The Chilean RUT is not valid."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:5
+msgid "Baden-Wuerttemberg"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:6
+msgid "Bavaria"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:7
+msgid "Berlin"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:8
+msgid "Brandenburg"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:9
+msgid "Bremen"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:10
+msgid "Hamburg"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:11
+msgid "Hessen"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:12
+msgid "Mecklenburg-Western Pomerania"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:13
+msgid "Lower Saxony"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:14
+msgid "North Rhine-Westphalia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:15
+msgid "Rhineland-Palatinate"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:16
+msgid "Saarland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:17
+msgid "Saxony"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:18
+msgid "Saxony-Anhalt"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:19
+msgid "Schleswig-Holstein"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/de_states.py:20
+msgid "Thuringia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/forms.py:14
+#: vendor/django/contrib/localflavor/fi/forms.py:12
+#: vendor/django/contrib/localflavor/fr/forms.py:15
+msgid "Enter a zip code in the format XXXXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/de/forms.py:41
+msgid ""
+"Enter a valid German identity card number in XXXXXXXXXXX-XXXXXXX-XXXXXXX-X "
+"format."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:5
+msgid "Arava"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:6
+msgid "Albacete"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:7
+msgid "Alacant"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:8
+msgid "Almeria"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:9
+msgid "Avila"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:10
+msgid "Badajoz"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:11
+msgid "Illes Balears"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:12
+msgid "Barcelona"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:13
+msgid "Burgos"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:14
+msgid "Caceres"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:15
+msgid "Cadiz"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:16
+msgid "Castello"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:17
+msgid "Ciudad Real"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:18
+msgid "Cordoba"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:19
+msgid "A Coruna"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:20
+msgid "Cuenca"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:21
+msgid "Girona"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:22
+msgid "Granada"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:23
+msgid "Guadalajara"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:24
+msgid "Guipuzkoa"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:25
+msgid "Huelva"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:26
+msgid "Huesca"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:27
+msgid "Jaen"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:28
+msgid "Leon"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:29
+msgid "Lleida"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:30
+#: vendor/django/contrib/localflavor/es/es_regions.py:17
+msgid "La Rioja"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:31
+msgid "Lugo"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:32
+#: vendor/django/contrib/localflavor/es/es_regions.py:18
+msgid "Madrid"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:33
+msgid "Malaga"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:34
+msgid "Murcia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:35
+msgid "Navarre"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:36
+msgid "Ourense"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:37
+msgid "Asturias"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:38
+msgid "Palencia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:39
+msgid "Las Palmas"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:40
+msgid "Pontevedra"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:41
+msgid "Salamanca"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:42
+msgid "Santa Cruz de Tenerife"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:43
+#: vendor/django/contrib/localflavor/es/es_regions.py:11
+msgid "Cantabria"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:44
+msgid "Segovia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:45
+msgid "Seville"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:46
+msgid "Soria"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:47
+msgid "Tarragona"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:48
+msgid "Teruel"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:49
+msgid "Toledo"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:50
+msgid "Valencia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:51
+msgid "Valladolid"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:52
+msgid "Bizkaia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:53
+msgid "Zamora"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:54
+msgid "Zaragoza"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:55
+msgid "Ceuta"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_provinces.py:56
+msgid "Melilla"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:5
+msgid "Andalusia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:6
+msgid "Aragon"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:7
+msgid "Principality of Asturias"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:8
+msgid "Balearic Islands"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:9
+msgid "Basque Country"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:10
+msgid "Canary Islands"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:12
+msgid "Castile-La Mancha"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:13
+msgid "Castile and Leon"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:14
+msgid "Catalonia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:15
+msgid "Extremadura"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:16
+msgid "Galicia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:19
+msgid "Region of Murcia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:20
+msgid "Foral Community of Navarre"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/es_regions.py:21
+msgid "Valencian Community"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/forms.py:19
+msgid "Enter a valid postal code in the range and format 01XXX - 52XXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/forms.py:39
+msgid ""
+"Enter a valid phone number in one of the formats 6XXXXXXXX, 8XXXXXXXX or "
+"9XXXXXXXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/forms.py:66
+msgid "Please enter a valid NIF, NIE, or CIF."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/forms.py:67
+msgid "Please enter a valid NIF or NIE."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/forms.py:68
+msgid "Invalid checksum for NIF."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/forms.py:69
+msgid "Invalid checksum for NIE."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/forms.py:70
+msgid "Invalid checksum for CIF."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/forms.py:142
+msgid ""
+"Please enter a valid bank account number in format XXXX-XXXX-XX-XXXXXXXXXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/es/forms.py:143
+msgid "Invalid checksum for bank account number."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/fi/forms.py:28
+msgid "Enter a valid Finnish social security number."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/in_/forms.py:14
+msgid "Enter a zip code in the format XXXXXXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/is_/forms.py:17
+msgid ""
+"Enter a valid Icelandic identification number. The format is XXXXXX-XXXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/is_/forms.py:18
+msgid "The Icelandic identification number is not valid."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/it/forms.py:14
+msgid "Enter a valid zip code."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/it/forms.py:43
+msgid "Enter a valid Social Security number."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/it/forms.py:68
+msgid "Enter a valid VAT number."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/forms.py:16
+msgid "Enter a postal code in the format XXXXXXX or XXX-XXXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:4
+msgid "Hokkaido"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:5
+msgid "Aomori"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:6
+msgid "Iwate"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:7
+msgid "Miyagi"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:8
+msgid "Akita"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:9
+msgid "Yamagata"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:10
+msgid "Fukushima"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:11
+msgid "Ibaraki"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:12
+msgid "Tochigi"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:13
+msgid "Gunma"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:14
+msgid "Saitama"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:15
+msgid "Chiba"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:16
+msgid "Tokyo"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:17
+msgid "Kanagawa"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:18
+msgid "Yamanashi"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:19
+msgid "Nagano"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:20
+msgid "Niigata"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:21
+msgid "Toyama"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:22
+msgid "Ishikawa"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:23
+msgid "Fukui"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:24
+msgid "Gifu"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:25
+msgid "Shizuoka"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:26
+msgid "Aichi"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:27
+msgid "Mie"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:28
+msgid "Shiga"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:29
+msgid "Kyoto"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:30
+msgid "Osaka"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:31
+msgid "Hyogo"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:32
+msgid "Nara"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:33
+msgid "Wakayama"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:34
+msgid "Tottori"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:35
+msgid "Shimane"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:36
+msgid "Okayama"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:37
+msgid "Hiroshima"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:38
+msgid "Yamaguchi"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:39
+msgid "Tokushima"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:40
+msgid "Kagawa"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:41
+msgid "Ehime"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:42
+msgid "Kochi"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:43
+msgid "Fukuoka"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:44
+msgid "Saga"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:45
+msgid "Nagasaki"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:46
+msgid "Kumamoto"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:47
+msgid "Oita"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:48
+msgid "Miyazaki"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:49
+msgid "Kagoshima"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/jp/jp_prefectures.py:50
+msgid "Okinawa"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:12
+msgid "Aguascalientes"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:13
+msgid "Baja California"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:14
+msgid "Baja California Sur"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:15
+msgid "Campeche"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:16
+msgid "Chihuahua"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:17
+msgid "Chiapas"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:18
+msgid "Coahuila"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:19
+msgid "Colima"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:20
+msgid "Distrito Federal"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:21
+msgid "Durango"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:22
+msgid "Guerrero"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:23
+msgid "Guanajuato"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:24
+msgid "Hidalgo"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:25
+msgid "Jalisco"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:26
+msgid "Estado de México"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:27
+msgid "Michoacán"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:28
+msgid "Morelos"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:29
+msgid "Nayarit"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:30
+msgid "Nuevo León"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:31
+msgid "Oaxaca"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:32
+msgid "Puebla"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:33
+msgid "Querétaro"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:34
+msgid "Quintana Roo"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:35
+msgid "Sinaloa"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:36
+msgid "San Luis Potosí"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:37
+msgid "Sonora"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:38
+msgid "Tabasco"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:39
+msgid "Tamaulipas"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:40
+msgid "Tlaxcala"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:41
+msgid "Veracruz"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:42
+msgid "Yucatán"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/mx/mx_states.py:43
+msgid "Zacatecas"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/forms.py:21
+msgid "Enter a valid postal code"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/forms.py:52
+msgid "Enter a valid phone number"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/forms.py:78
+msgid "Enter a valid SoFi number"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:4
+msgid "Drenthe"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:5
+msgid "Flevoland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:6
+msgid "Friesland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:7
+msgid "Gelderland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:8
+msgid "Groningen"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:9
+msgid "Limburg"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:10
+msgid "Noord-Brabant"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:11
+msgid "Noord-Holland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:12
+msgid "Overijssel"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:13
+msgid "Utrecht"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:14
+msgid "Zeeland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/nl/nl_provinces.py:15
+msgid "Zuid-Holland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/no/forms.py:33
+msgid "Enter a valid Norwegian social security number."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pe/forms.py:24
+msgid "This field requires 8 digits."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pe/forms.py:52
+msgid "This field requires 11 digits."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/forms.py:38
+msgid "National Identification Number consists of 11 digits."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/forms.py:39
+msgid "Wrong checksum for the National Identification Number."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/forms.py:71
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX or XX-XX-XXX-XXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/forms.py:72
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/forms.py:111
+msgid "National Business Register Number (REGON) consists of 7 or 9 digits."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/forms.py:112
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/forms.py:155
+msgid "Enter a postal code in the format XX-XXX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:10
+msgid "Lublin"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:12
+msgid "Lodz"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:14
+msgid "Masovia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:15
+msgid "Opole"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:19
+msgid "Silesia"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/pl/pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ro/forms.py:19
+msgid "Enter a valid CIF."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ro/forms.py:56
+msgid "Enter a valid CNP."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ro/forms.py:141
+msgid "Enter a valid IBAN in ROXX-XXXX-XXXX-XXXX-XXXX-XXXX format"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ro/forms.py:171
+msgid "Phone numbers must be in XXXX-XXXXXX format."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/ro/forms.py:194
+msgid "Enter a valid postal code in the format XXXXXX"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/forms.py:30
+msgid "Enter a postal code in the format XXXXX or XXX XX."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:8
+msgid "Banska Bystrica"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:9
+msgid "Banska Stiavnica"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:10
+msgid "Bardejov"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:11
+msgid "Banovce nad Bebravou"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:12
+msgid "Brezno"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:13
+msgid "Bratislava I"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:14
+msgid "Bratislava II"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:15
+msgid "Bratislava III"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:16
+msgid "Bratislava IV"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:17
+msgid "Bratislava V"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:18
+msgid "Bytca"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:19
+msgid "Cadca"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:20
+msgid "Detva"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:21
+msgid "Dolny Kubin"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:22
+msgid "Dunajska Streda"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:23
+msgid "Galanta"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:24
+msgid "Gelnica"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:25
+msgid "Hlohovec"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:26
+msgid "Humenne"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:27
+msgid "Ilava"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:28
+msgid "Kezmarok"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:29
+msgid "Komarno"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:30
+msgid "Kosice I"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:31
+msgid "Kosice II"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:32
+msgid "Kosice III"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:33
+msgid "Kosice IV"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:34
+msgid "Kosice - okolie"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:35
+msgid "Krupina"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:36
+msgid "Kysucke Nove Mesto"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:37
+msgid "Levice"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:38
+msgid "Levoca"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:39
+msgid "Liptovsky Mikulas"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:40
+msgid "Lucenec"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:41
+msgid "Malacky"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:42
+msgid "Martin"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:43
+msgid "Medzilaborce"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:44
+msgid "Michalovce"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:45
+msgid "Myjava"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:46
+msgid "Namestovo"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:47
+msgid "Nitra"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:48
+msgid "Nove Mesto nad Vahom"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:49
+msgid "Nove Zamky"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:50
+msgid "Partizanske"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:51
+msgid "Pezinok"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:52
+msgid "Piestany"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:53
+msgid "Poltar"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:54
+msgid "Poprad"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:55
+msgid "Povazska Bystrica"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:56
+msgid "Presov"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:57
+msgid "Prievidza"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:58
+msgid "Puchov"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:59
+msgid "Revuca"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:60
+msgid "Rimavska Sobota"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:61
+msgid "Roznava"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:62
+msgid "Ruzomberok"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:63
+msgid "Sabinov"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:64
+msgid "Senec"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:65
+msgid "Senica"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:66
+msgid "Skalica"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:67
+msgid "Snina"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:68
+msgid "Sobrance"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:69
+msgid "Spisska Nova Ves"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:70
+msgid "Stara Lubovna"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:71
+msgid "Stropkov"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:72
+msgid "Svidnik"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:73
+msgid "Sala"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:74
+msgid "Topolcany"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:75
+msgid "Trebisov"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:76
+msgid "Trencin"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:77
+msgid "Trnava"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:78
+msgid "Turcianske Teplice"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:79
+msgid "Tvrdosin"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:80
+msgid "Velky Krtis"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:81
+msgid "Vranov nad Toplou"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:82
+msgid "Zlate Moravce"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:83
+msgid "Zvolen"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:84
+msgid "Zarnovica"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:85
+msgid "Ziar nad Hronom"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_districts.py:86
+msgid "Zilina"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_regions.py:8
+msgid "Banska Bystrica region"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_regions.py:9
+msgid "Bratislava region"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_regions.py:10
+msgid "Kosice region"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_regions.py:11
+msgid "Nitra region"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_regions.py:12
+msgid "Presov region"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_regions.py:13
+msgid "Trencin region"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_regions.py:14
+msgid "Trnava region"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/sk/sk_regions.py:15
+msgid "Zilina region"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/forms.py:21
+msgid "Enter a valid postcode."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:11
+msgid "Bedfordshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:12
+msgid "Buckinghamshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:14
+msgid "Cheshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:15
+msgid "Cornwall and Isles of Scilly"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:16
+msgid "Cumbria"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:17
+msgid "Derbyshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:18
+msgid "Devon"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:19
+msgid "Dorset"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:20
+msgid "Durham"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:21
+msgid "East Sussex"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:22
+msgid "Essex"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:23
+msgid "Gloucestershire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:24
+msgid "Greater London"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:25
+msgid "Greater Manchester"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:26
+msgid "Hampshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:27
+msgid "Hertfordshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:28
+msgid "Kent"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:29
+msgid "Lancashire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:30
+msgid "Leicestershire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:31
+msgid "Lincolnshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:32
+msgid "Merseyside"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:33
+msgid "Norfolk"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:34
+msgid "North Yorkshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:35
+msgid "Northamptonshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:36
+msgid "Northumberland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:37
+msgid "Nottinghamshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:38
+msgid "Oxfordshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:39
+msgid "Shropshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:40
+msgid "Somerset"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:41
+msgid "South Yorkshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:42
+msgid "Staffordshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:43
+msgid "Suffolk"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:44
+msgid "Surrey"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:45
+msgid "Tyne and Wear"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:46
+msgid "Warwickshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:47
+msgid "West Midlands"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:48
+msgid "West Sussex"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:49
+msgid "West Yorkshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:50
+msgid "Wiltshire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:51
+msgid "Worcestershire"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:55
+msgid "County Antrim"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:56
+msgid "County Armagh"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:57
+msgid "County Down"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:58
+msgid "County Fermanagh"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:59
+msgid "County Londonderry"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:60
+msgid "County Tyrone"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:64
+msgid "Clwyd"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:65
+msgid "Dyfed"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:66
+msgid "Gwent"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:67
+msgid "Gwynedd"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:68
+msgid "Mid Glamorgan"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:69
+msgid "Powys"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:70
+msgid "South Glamorgan"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:71
+msgid "West Glamorgan"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:75
+msgid "Borders"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:76
+msgid "Central Scotland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:77
+msgid "Dumfries and Galloway"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:78
+msgid "Fife"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:79
+msgid "Grampian"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:80
+msgid "Highland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:81
+msgid "Lothian"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:82
+msgid "Orkney Islands"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:83
+msgid "Shetland Islands"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:84
+msgid "Strathclyde"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:85
+msgid "Tayside"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:86
+msgid "Western Isles"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:90
+msgid "England"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:91
+msgid "Northern Ireland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:92
+msgid "Scotland"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/uk/uk_regions.py:93
+msgid "Wales"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/us/forms.py:54
+msgid "Enter a valid U.S. Social Security number in XXX-XX-XXXX format."
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/forms.py:20
+msgid "Enter a valid South African ID number"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/forms.py:54
+msgid "Enter a valid South African postal code"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/za_provinces.py:4
+msgid "Eastern Cape"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/za_provinces.py:5
+msgid "Free State"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/za_provinces.py:6
+msgid "Gauteng"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/za_provinces.py:7
+msgid "KwaZulu-Natal"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/za_provinces.py:8
+msgid "Limpopo"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/za_provinces.py:9
+msgid "Mpumalanga"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/za_provinces.py:10
+msgid "Northern Cape"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/za_provinces.py:11
+msgid "North West"
+msgstr ""
+
+#: vendor/django/contrib/localflavor/za/za_provinces.py:12
+msgid "Western Cape"
+msgstr ""
+
+#: vendor/django/db/models/fields/__init__.py:532
+#: vendor/django/db/models/fields/__init__.py:550
+msgid "Enter a valid date/time in YYYY-MM-DD HH:MM[:ss[.uuuuuu]] format."
+msgstr ""
+
+#: vendor/django/db/models/fields/__init__.py:586
+msgid "This value must be a decimal number."
+msgstr ""
+
+#: vendor/django/db/models/fields/__init__.py:817
+#: vendor/django/db/models/fields/__init__.py:831
+msgid "Enter a valid time in HH:MM[:ss[.uuuuuu]] format."
+msgstr ""
+
+#: vendor/django/forms/fields.py:138
+#, python-format
+msgid "Ensure this value has at most %(max)d characters (it has %(length)d)."
+msgstr ""
+
+#: vendor/django/forms/fields.py:139
+#, python-format
+msgid "Ensure this value has at least %(min)d characters (it has %(length)d)."
+msgstr ""
+
+#: vendor/django/forms/fields.py:195 vendor/django/forms/fields.py:224
+msgid "Enter a number."
+msgstr ""
+
+#: vendor/django/forms/fields.py:227
+#, python-format
+msgid "Ensure that there are no more than %s digits in total."
+msgstr ""
+
+#: vendor/django/forms/fields.py:228
+#, python-format
+msgid "Ensure that there are no more than %s decimal places."
+msgstr ""
+
+#: vendor/django/forms/fields.py:229
+#, python-format
+msgid "Ensure that there are no more than %s digits before the decimal point."
+msgstr ""
+
+#: vendor/django/forms/fields.py:447
+msgid "No file was submitted."
+msgstr ""
+
+#: vendor/django/forms/fields.py:618 vendor/django/forms/fields.py:696
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+
+#: vendor/django/forms/fields.py:877
+msgid "Enter a valid IPv4 address."
+msgstr ""
+
+#: vendor/django/forms/fields.py:887
+msgid ""
+"Enter a valid 'slug' consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: vendor/django/forms/formsets.py:242 vendor/django/forms/formsets.py:244
+msgid "Order"
+msgstr ""
+
+#: vendor/django/forms/models.py:268 vendor/django/forms/models.py:277
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+
+#: vendor/django/template/defaultfilters.py:737
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendor/django/template/defaultfilters.py:739
+#, python-format
+msgid "%.1f KB"
+msgstr ""
+
+#: vendor/django/template/defaultfilters.py:741
+#, python-format
+msgid "%.1f MB"
+msgstr ""
+
+#: vendor/django/template/defaultfilters.py:742
+#, python-format
+msgid "%.1f GB"
+msgstr ""
+
+#: vendor/django/utils/dates.py:10
+msgid "Mon"
+msgstr "الاثنين"
+
+#: vendor/django/utils/dates.py:10
+msgid "Tue"
+msgstr "الثلاثاء"
+
+#: vendor/django/utils/dates.py:10
+msgid "Wed"
+msgstr "الأربعاء"
+
+#: vendor/django/utils/dates.py:10
+msgid "Thu"
+msgstr "الخميس"
+
+#: vendor/django/utils/dates.py:10
+msgid "Fri"
+msgstr "الجمعة"
+
+#: vendor/django/utils/dates.py:11
+msgid "Sat"
+msgstr "السبت"
+
+#: vendor/django/utils/dates.py:11
+msgid "Sun"
+msgstr "الأحد"
+
+#: vendor/django/utils/text.py:128
+msgid "or"
+msgstr "أو"
+
+#: vendor/django/utils/timesince.py:43
+msgid "minutes"
+msgstr "دقائق"
+
+#: vendor/django/utils/timesince.py:48
+#, python-format
+msgid "%(number)d %(type)s"
+msgstr ""
+
+#: vendor/django/utils/timesince.py:54
+#, python-format
+msgid ", %(number)d %(type)s"
+msgstr ""
+
+#, fuzzy
+#~ msgid "1 minute ago"
+#~ msgid_plural "%(minutes)d minutes ago"
+#~ msgstr[0] "دقيقة"
+#~ msgstr[1] "دقيقة"
+
+#, fuzzy
+#~ msgid "yesterday at %s"
+#~ msgstr "البارحة"

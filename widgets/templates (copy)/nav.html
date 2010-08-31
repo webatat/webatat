@@ -1,0 +1,17 @@
+<ul class="nav main">
+{% for item in mainmenu.content.items %}
+	<li>
+		<a class="{{ item.class }}" href="{{ item.path }}">{{ item.title }}</a>
+		<ul class="sub">
+			{% for subitem in item.items %}
+				{% if subitem.title %}
+				<li>
+					<a href="{{ subitem.path }}">{{ subitem.title }}</a>
+				</li>
+				{% endif%}
+			{% endfor %}			
+		</ul>
+	</li>
+{% endfor %}	
+</ul>
+

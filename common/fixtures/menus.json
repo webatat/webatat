@@ -1,0 +1,219 @@
+[{"pk": "nawadena.com/menu/main", 
+	"model": "common.Widget", 
+	"fields":{
+		"website" : "nawadena.com",
+		"wtype" : "menu",
+		"name" : "main",
+		"title" : "title1",				
+		 "content" : {"class" : "",
+				"items" : 	[
+						{"title" : "الرئيسية",
+						 "path" : "/"						 
+						
+						},
+						
+						{"title" : "معرض الصور",
+						 "path" : "/gallery/3",
+						 "items" : 	[
+									{"title" : "الاستاد",
+									 "path" : "/gallery/3"
+									}
+								]
+						},
+						
+						{"title" : "الرياضات الأخرى",
+						 "path" : "#",
+						 "items" : 	[
+									{"title" : "كرة اليد",
+									 "path" : "#"
+									},
+									{"title" : "كرة السلة",
+									 "path" : "#"
+									}
+								]
+						},
+                                                {
+						 "title" : "مقالات وأخبار",
+						 "path" : "/articles/"						
+						},
+						{"title" : "عن النادي",
+						 "path" : "/p/nawadena.com/aboutclup"
+						}
+					]		
+		   	     }
+		 }
+				
+	
+  },
+
+{"pk": "nawadena.com/menu/section", 
+	"model": "common.Widget", 
+	
+	"fields":{
+			"website" : "nawadena.com",
+			"wtype" : "menu",
+			"name" : "section",
+			"title" : "البطولات المقامة في قطر",	
+		  	"content" : {"ulclass" : "section menu",
+			       "items" : 	[
+						{"title" : "كأس الشيخ جاسم",
+						 "path" : "#",
+						 "class" : "menuitem",
+						 "ulclass" : "submenu",	
+						 "items" : 	[
+									{"title" : "عن البطولة",
+									 "path" : "/p/nawadena.com/about_champion_shaikh_jasim_cup",
+									 "class" : ""
+									},
+									{"title" : "المباريات والمواعيد",
+									 "path" : "/sport/champion/shaikh_jasim_cup"
+									},
+									{"title" : "أخبار البطولة",
+									 "path" : "/articles/"
+									},
+									{"title" : "صور من البطولة",
+									 "path" : "/gallery/shaikh_jasim_cup"
+									}
+								]
+						},
+						{"title" : " دوري نجوم قطر",
+						 "path" : "#",
+						 "class" : "menuitem",
+						 "ulclass" : "submenu",	
+						 "items" : 	[
+									{"title" : "عن البطولة",
+									 "path" : "/p/nawadena.com/about_champion_qatar_stars",
+									 "class" : ""
+									},
+									{"title" : "المباريات والمواعيد",
+									 "path" : "/sport/champion/qatar_stars"
+									},
+									{"title" : "أخبار البطولة",
+									 "path" : "/articles/"
+									},
+									{"title" : "صور من البطولة",
+									 "path" : "/gallery/qatar_stars"
+									}
+								]
+						},
+						{"title" : "كأس نجوم قطر",
+						 "path" : "#",
+						 "class" : "menuitem",
+						 "ulclass" : "submenu",	
+						 "items" : 	[
+									{"title" : "عن البطولة",
+									 "path" : "/p/nawadena.com/about_champion_qatar_stars_cup",
+									 "class" : ""
+									},
+									{"title" : "المباريات والمواعيد",
+									 "path" : "/sport/champion/qatar_stars_cup"
+									},
+									{"title" : "أخبار البطولة",
+									 "path" : "/articles/"
+									},
+									{"title" : "صور من البطولة",
+									 "path" : "/gallery/qatar_stars_cup"
+									}
+								]
+						},
+						{"title" : "كأس سمو الأمير",
+						 "path" : "#",
+						 "class" : "menuitem",
+						 "ulclass" : "submenu",	
+						 "items" : 	[
+									{"title" : "عن البطولة",
+									 "path" : "#",
+									 "class" : ""
+									},
+									{"title" : "المباريات والمواعيد",
+									 "path" : "#"
+									},
+									{"title" : "أخبار البطولة",
+									 "path" : "#"
+									},
+									{"title" : "صور من البطولة",
+									 "path" : "#"
+									}
+								]
+						},
+						{"title" : "كأس سمو ولي العهد",
+						 "path" : "#",
+						 "class" : "menuitem",
+						 "ulclass" : "submenu",	
+						 "items" : 	[
+									{"title" : "عن البطولة",
+									 "path" : "#",
+									 "class" : ""
+									},
+									{"title" : "المباريات والمواعيد",
+									 "path" : "#"
+									},
+									{"title" : "أخبار البطولة",
+									 "path" : "#"
+									},
+									{"title" : "صور من البطولة",
+									 "path" : "#"
+									}
+								]
+						}
+					]		
+		   	     }
+		 }
+				
+	
+  },
+{"pk": "nawadena.com/menu/admin", 
+	"model": "common.Widget", 
+	"fields":{
+		"website" : "nawadena.com",
+		"wtype" : "menu",
+		"name" : "admin",
+		"title" : "admin",				
+		 "content" : {"class" : "",
+				"items" : 	[
+						{"title" : "Home",
+						 "path" : "/_admin"						 
+						
+						},
+						{"title" : "Widgets",
+						 "path" : "#",
+						 "items" : 	[
+									{"title" : "Add",
+									 "path" : "/_admin/add/widget/"
+									},
+									{"title" : "Update - Delete",
+									 "path" : "/_admin/update/widget/"
+									}
+								]
+						},
+						{"title" : "Flat Pages",
+						 "path" : "#",
+						 "items" : 	[
+									{"title" : "Add",
+									 "path" : "/_admin/add/flatpage/"
+									},
+									{"title" : "Update - Delete",
+									 "path" : "/_admin/update/flatpage/"
+									}
+								]
+						},
+						{"title" : "Templates",
+						 "path" : "#",
+						 "items" : 	[
+									{"title" : "Add",
+									 "path" : "/_admin/add/template/"
+									},
+									{"title" : "Update - Delete",
+									 "path" : "/_admin/update/template/"
+									}
+								]
+						}
+					]		
+		   	     }
+		 }
+				
+	
+  }
+
+
+]

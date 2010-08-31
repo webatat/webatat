@@ -1,0 +1,41 @@
+[{"pk": "localhost:8080/template1", 
+	"model": "common.Template", 
+	"fields":{
+		  "website" : "localhost:8080",
+		  "name" : "template1",
+		  "content" : "{% extends 'common/templates/base.html' %}{% block body %}<div id='container' class='container_16 clrearfix'><div class='grid_16'></div><div class='clear'></div><div class='grid_16'><h1>testing page</h1>{% include 'galleriffic' %}</div><div class='clear'></div></div>{% endblock %}"		  			
+		 }
+  },
+ {"pk": "localhost:8080/branding", 
+	"model": "common.Template", 
+	"fields":{
+		  "website" : "localhost:8080",
+		  "name" : "branding",
+		  "content" : "<h1 id=\"branding\"><a href=\"/\">{{SITE_NAME}}</a></h1>"		  			
+		 }
+  },
+ {"pk": "localhost:8080/search", 
+	"model": "common.Template", 
+	"fields":{
+		  "website" : "localhost:8080",
+		  "name" : "search",
+		  "content" : "<div class=\"searchbox\"><div class=\"block\" id=\"searchbox\"><form method=\"get\" action=\"\" class=\"search\"><input class=\"search text\" name=\"value\" type=\"text\" /><input class=\"search button\" value=\"بحث\" type=\"submit\" /></form></div></div>"		  			
+		 }
+  },
+  {"pk": "localhost:8080/site_info", 
+	"model": "common.Template", 
+	"fields":{
+		  "website" : "localhost:8080",
+		  "name" : "site_info",
+		  "content" : "<div class=\"box\"><p>جميع الحقوق محفوظة لموقع نوادينا  ©2010 - 2009</p></div>"		  			
+		 }
+  },
+ {"pk": "localhost:8080/galleriffic", 
+	"model": "common.Template", 
+	"fields":{
+		  "website" : "localhost:8080",
+		  "name" : "galleriffic",
+		  "content" : "<div id=\"galleriffic-page\"><div id=\"galleriffic-container\"><h1><a href=\"index.html\">{{ gallery.content.heading }}</a></h1><h2>{{ gallery.content.subheading }}</h2><div id=\"gallery\" class=\"content\"><div id=\"controls\" class=\"controls\"></div><div class=\"slideshow-container\"><div id=\"loading\" class=\"loader\"></div><div id=\"slideshow\" class=\"slideshow\"></div></div><div id=\"caption\" class=\"caption-container\"></div></div><div id=\"thumbs\" class=\"navigation\"><ul class=\"thumbs noscript\">{% for item in gallery.content.items %}<li><a class=\"thumb\" name=\"leaf\" href=\"{{ item.slideshow_image }}\" title=\"{{ item.title }}\"><img src=\"{{ item.thumbnail_image }}\" alt=\"{{ item.title }}\" /></a><div class=\"caption\"><div class=\"download\"><a href=\"{{ item.original_image }}\">تحميل الصورة الكاملة</a></div><div class=\"image-title\">{{ item.title }}</div><div class=\"image-desc\">{{ item.description }}</div></div></li>{% endfor %}</ul></div><div style=\"clear: both;\"></div></div></div>"		  			
+		 }
+  }
+]

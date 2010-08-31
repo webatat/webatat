@@ -1,0 +1,25 @@
+[{"pk": "nawadena.com", 
+	"model": "common.Website", 
+	"fields":{
+		"created_at" : "2010-08-02 00:00:00",
+		"name" : "nawadena.com", 
+		"status" : 0,
+                "extra" :{ 
+			"title" : "",
+			"logo": "",
+			"selagon" : "",
+			"meta" : [
+					{
+						"keywords": "",
+						"description": "",
+						"Title": "",
+						"DC.Title": "",
+						"DC.Subject": "",
+						"DC.Description": "",
+						"author": ""
+					}
+				]
+			}
+	}
+ }
+]

@@ -1,0 +1,34 @@
+ul#tabs li a.current {
+	background:url("feature-tab-current-rtl.png") repeat scroll 0 0 transparent;
+}
+
+ul#tabs {
+	float:right;
+	right:0;
+}
+
+ul#output {
+	float:right;
+	left:0;
+	right: auto;
+}
+
+ul#tabs li img {
+	float:right;
+}
+
+ul#output li a {
+left:auto;
+right:5px;
+
+}
+
+ul#tabs li {
+	margin-right:0;
+}
+
+ul#output li {
+	margin-right:0;
+}
+
+

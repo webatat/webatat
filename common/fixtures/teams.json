@@ -1,0 +1,205 @@
+[{"pk": "nawadena.com/team/team1", 
+	"model": "common.Widget", 
+	"fields":{
+			"wtype" : "team",
+			"name" : "algeria",
+			"website" : "nawadena.com",
+			"content" : 
+				{
+					"coach" : "Rabah Saadane",
+					"players" : 
+						[
+							{
+								"name" : "اسم اللاعب",
+								"role" : "Goalkeeper",
+								"photo" : "http://farm4.static.flickr.com/3591/3362091351_381e664d6e",
+								"number" : "21",
+								"height" : "165",
+								"weight" : "70",
+								"dateOfBirth" : "1/1/1980",
+								"JoinedAt" : "1/6/2007",
+								"debut" : "1/5/2004",
+								"international" : "2",
+								"origin" : "قطري",
+								"statistics" : 
+									{
+										"gamesPlayed" : "10",
+										"minutesPlayed" : "310",
+										"numberOfGoals" : "4",
+										"yellowCards" : "7",
+										"redCards" : "2"
+									}
+							},
+							{
+								"name" : "اسم اللاعب",
+								"role" : "Goalkeeper",
+								"photo" : "http://farm4.static.flickr.com/3591/3362091351_381e664d6e",
+								"number" : "13",
+								"height" : "165",
+								"weight" : "70",
+								"dateOfBirth" : "1/1/1980",
+								"JoinedAt" : "1/6/2007",
+								"debut" : "1/5/2004",
+								"international" : "2",
+								"origin" : "قطري",
+								"statistics" : 
+									{
+										"gamesPlayed" : "10",
+										"minutesPlayed" : "310",
+										"numberOfGoals" : "4",
+										"yellowCards" : "7",
+										"redCards" : "2"
+									}
+							},
+							{
+								"name" : "اسم اللاعب",
+								"role" : "Defender",
+								"photo" : "http://farm4.static.flickr.com/3591/3362091351_381e664d6e",
+								"number" : "2",
+								"height" : "165",
+								"weight" : "70",
+								"dateOfBirth" : "1/1/1980",
+								"JoinedAt" : "1/6/2007",
+								"debut" : "1/5/2004",
+								"international" : "2",
+								"origin" : "قطري",
+								"statistics" : 
+									{
+										"gamesPlayed" : "10",
+										"minutesPlayed" : "310",
+										"numberOfGoals" : "4",
+										"yellowCards" : "7",
+										"redCards" : "2"
+									}
+							},
+							{
+								"name" : "اسم اللاعب",
+								"role" : "Midfielder",
+								"photo" : "http://farm4.static.flickr.com/3591/3362091351_381e664d6e",
+								"number" : "3",
+								"height" : "165",
+								"weight" : "70",
+								"dateOfBirth" : "1/1/1980",
+								"JoinedAt" : "1/6/2007",
+								"debut" : "1/5/2004",
+								"international" : "2",
+								"origin" : "قطري",
+								"statistics" : 
+									{
+										"gamesPlayed" : "10",
+										"minutesPlayed" : "310",
+										"numberOfGoals" : "4",
+										"yellowCards" : "7",
+										"redCards" : "2"
+									}
+							},
+							{
+								"name" : "اسم اللاعب",
+								"role" : "Midfielder",
+								"photo" : "http://farm4.static.flickr.com/3591/3362091351_381e664d6e",
+								"number" : "27",
+								"height" : "165",
+								"weight" : "70",
+								"dateOfBirth" : "1/1/1980",
+								"JoinedAt" : "1/6/2007",
+								"debut" : "1/5/2004",
+								"international" : "2",
+								"origin" : "قطري",
+								"statistics" : 
+									{
+										"gamesPlayed" : "10",
+										"minutesPlayed" : "310",
+										"numberOfGoals" : "4",
+										"yellowCards" : "7",
+										"redCards" : "2"
+									}
+							},
+							{
+								"name" : "اسم اللاعب",
+								"role" : "Midfielder",
+								"photo" : "http://farm4.static.flickr.com/3591/3362091351_381e664d6e",
+								"number" : "8",
+								"height" : "165",
+								"weight" : "70",
+								"dateOfBirth" : "1/1/1980",
+								"JoinedAt" : "1/6/2007",
+								"debut" : "1/5/2004",
+								"international" : "2",
+								"origin" : "قطري",
+								"statistics" : 
+									{
+										"gamesPlayed" : "10",
+										"minutesPlayed" : "310",
+										"numberOfGoals" : "4",
+										"yellowCards" : "7",
+										"redCards" : "2"
+									}
+							},
+							{
+								"name" : "اسم اللاعب",
+								"role" : "Forward",
+								"photo" : "http://farm4.static.flickr.com/3591/3362091351_381e664d6e",
+								"number" : "5",
+								"height" : "165",
+								"weight" : "70",
+								"dateOfBirth" : "1/1/1980",
+								"JoinedAt" : "1/6/2007",
+								"debut" : "1/5/2004",
+								"international" : "2",
+								"origin" : "قطري",
+								"statistics" : 
+									{
+										"gamesPlayed" : "11",
+										"minutesPlayed" : "410",
+										"numberOfGoals" : "4",
+										"yellowCards" : "7",
+										"redCards" : "0"
+									}
+							},
+							{
+								"name" : "اسم اللاعب",
+								"role" : "Forward",
+								"photo" : "http://farm4.static.flickr.com/3591/3362091351_381e664d6e",
+								"number" : "23",
+								"height" : "165",
+								"weight" : "70",
+								"dateOfBirth" : "1/1/1980",
+								"JoinedAt" : "1/6/2007",
+								"debut" : "1/5/2004",
+								"international" : "2",
+								"origin" : "قطري",
+								"statistics" : 
+									{
+										"gamesPlayed" : "14",
+										"minutesPlayed" : "370",
+										"numberOfGoals" : "4",
+										"yellowCards" : "4",
+										"redCards" : "0"
+									}
+							},
+							{
+								"name" : "اسم اللاعب",
+								"role" : "Forward",
+								"photo" : "http://farm4.static.flickr.com/3591/3362091351_381e664d6e",
+								"number" : "10",
+								"height" : "175",
+								"weight" : "80",
+								"dateOfBirth" : "1/1/1980",
+								"JoinedAt" : "1/6/2007",
+								"debut" : "1/5/2004",
+								"international" : "2",
+								"origin" : "قطري",
+								"statistics" : 
+									{
+										"gamesPlayed" : "2",
+										"minutesPlayed" : "110",
+										"numberOfGoals" : "4",
+										"yellowCards" : "6",
+										"redCards" : "2"
+									}
+							}
+						]
+				}
+		}
+ }
+]

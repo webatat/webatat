@@ -1,0 +1,22 @@
+<div class="box articles">
+	<h2>
+		<a href="#" id="toggle-articles">مقالات رياضية</a>
+	</h2>
+	<div class="block" id="articles">
+		{% for article in articles %}
+		<div class="{{ article.content.class }}">
+			<h3>
+				<a href="{{ article.content.path }}">{{ article.content.heading }}</a>
+			</h3>
+			<h4>{{ article.content.subheading }}</h4>
+			<p class="meta">{{ article.actor }} — {{ article.post_date }}</p>
+			<a href="#" class="image">
+				<img src="{{ article.content.thumbnail_image }}" width="60" height="60" alt="photo" />
+			</a>
+			{{ article.content.teaser|safe }}
+			 <a href='{{ article.content.path }}'>اقرأ المزيد...</a>
+		</div>	
+              {% endfor %}	
+	</div>
+</div>
+

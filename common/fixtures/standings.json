@@ -1,0 +1,105 @@
+[{"pk": "nawadena.com/sport_standings/1", 
+	"model": "common.Widget", 
+	"fields":{
+                        "website" : "nawadena.com",
+			"name" : "1",
+			"wtype" : "sport_standings",
+			"title" : "المجموعات",			
+  			"content" : { 
+						"titles" : 
+						[ 
+							{
+								"label": "المجموعة الأولى",
+								"title": "المجموعة الأولى",
+								"extra" : {"thCssClass" : "first", "colspan" : 2}
+							},
+							{
+								"label": "لعب",
+								"title": "المباريات الملعوبة"								
+							},
+							{
+								"label": "ربح",
+								"title": "ربح"								
+							},
+							{
+								"label": "خسر",
+								"title": "خسر"								
+							},
+							{
+								"label": "تعادل",
+								"title": "تعادل"								
+							},
+							{
+								"label": "له",
+								"title": "أهداف له"								
+							},
+							{
+								"label": "عليه",
+								"title": "أهداف عليه"								
+							},
+							{
+								"label": "+/-",
+								"title": "فارق الأهدافe"								
+							},
+							{
+								"label": "نقاط",
+								"title": "النقاظ"								
+							}
+
+						],
+						"teams" : 
+						[
+							{
+								"country" : "الأوروجواي",
+								"GamesPlayed" : 3,
+								"Won" : 2,
+								"Lost" : 0,
+								"Tied" : 1,
+								"GoalsFor" : 4,
+								"GoalsAgainst" : 0,
+								"GoalDifference" : 4,
+								"Points" : 7,								
+								"extra" : {"flagCss" : "flag-uru", "trCss" : "team-1 odd", "tdCss" : "team"}
+							},
+							{
+								"country" : "المكسيك",
+								"GamesPlayed" : 3,
+								"Won" : 1,
+								"Lost" : 1,
+								"Tied" : 1,
+								"GoalsFor" : 3,
+								"GoalsAgainst" : 2,
+								"GoalDifference" : 1,
+								"Points" : 4,								
+								"extra" : {"flagCss" : "flag-mex", "trCss" : "team-2 even", "tdCss" : "team"}
+							},
+							{
+								"country" : "جنوب إفريقيا",
+								"GamesPlayed" : "3",
+								"Won" : 1,
+								"Lost" : 1,
+								"Tied" : 1,
+								"GoalsFor" : 3,
+								"GoalsAgainst" : 5,
+								"GoalDifference" : -2,
+								"Points" : 4,								
+								"extra" : {"flagCss" : "flag-rsa", "trCss" : "team-3 odd", "tdCss" : "team"}
+							},
+							{
+								"country" : "فرنسا",
+								"GamesPlayed" : 3,
+								"Won" : 0,
+								"Lost" : 2,
+								"Tied" : 1,
+								"GoalsFor" : 1,
+								"GoalsAgainst" : 4,
+								"GoalDifference" : -3,
+								"Points" : 1,								
+								"extra" : {"flagCss" : "flag-fra", "trCss" : "team-4 even", "tdCss" : "team"}
+							}
+						]
+				}
+		  			
+		 }
+  }
+]

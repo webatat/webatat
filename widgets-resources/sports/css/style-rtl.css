@@ -1,0 +1,46 @@
+#ygs-top_scorers .bd td {
+	text-align:left;
+}
+
+.flag-disc {
+	float:right;
+	margin-left:5px;
+	padding-right:1px;
+
+}
+
+#ygs-top_scorers .bd td.player {
+	text-align:right;
+}
+
+.flag-arg {
+	background-position:-160px 0;
+}
+
+#ygs-top_scorers .bd th.first {
+text-align:right;
+
+}
+
+#ygs-top_scorers .bd th {
+	text-align:left;
+}
+#ygs-top_scorers .bd td.player {
+padding-right:9px;
+
+}
+
+#ygs-group_standings .bd td.team {
+	text-align:right;
+}
+
+
+#ygs-group_standings .bd th.first {
+text-align:right;
+}
+
+.flag-aru, .flag-afg, .flag-ang, .flag-alb, .flag-and, .flag-alg, .flag-aho, .flag-uae, .flag-arg, .flag-arm, .flag-asa, .flag-ant, .flag-aus, .flag-aut, .flag-aze, .flag-bdi, .flag-bel, .flag-ben, .flag-bur, .flag-ban, .flag-bul, .flag-brn, .flag-bah, .flag-bih, .flag-blr, .flag-biz, .flag-ber, .flag-bol, .flag-bra, .flag-ivb, .flag-bar, .flag-bru, .flag-bhu, .flag-bot, .flag-cam, .flag-cro, .flag-caf, .flag-can, .flag-chi, .flag-chn, .flag-civ, .flag-cmr, .flag-cgo, .flag-cod, .flag-cok, .flag-col, .flag-com, .flag-cpv, .flag-cha, .flag-crc, .flag-cub, .flag-cay, .flag-cyp, .flag-cze, .flag-dji, .flag-dma, .flag-den, .flag-dom, .flag-ecu, .flag-egy, .flag-eri, .flag-est, .flag-esa, .flag-eth, .flag-geq, .flag-fin, .flag-fij, .flag-fra, .flag-gab, .flag-geo, .flag-gha, .flag-gui, .flag-ger, .flag-gam, .flag-gbs, .flag-gre, .flag-grn, .flag-gua, .flag-gum, .flag-guy, .flag-hkg, .flag-hon, .flag-hai, .flag-hun, .flag-ina, .flag-ind, .flag-irl, .flag-iri, .flag-irq, .flag-isl, .flag-isr, .flag-ita, .flag-jam, .flag-jor, .flag-jpn, .flag-kaz, .flag-ken, .flag-kgz, .flag-kir, .flag-kuw, .flag-lao, .flag-lib, .flag-lbr, .flag-lba, .flag-lie, .flag-les, .flag-ltu, .flag-lux, .flag-lat, .flag-mar, .flag-mon, .flag-mda, .flag-mad, .flag-mdv, .flag-mex, .flag-mhl, .flag-mkd, .flag-mli, .flag-mlt, .flag-mya, .flag-mne, .flag-fsm, .flag-mgl, .flag-moz, .flag-mtn, .flag-mri, .flag-maw, .flag-mas, .flag-nam, .flag-nig, .flag-nga, .flag-ngr, .flag-nca, .flag-ned, .flag-nor, .flag-nep, .flag-prk, .flag-nru, .flag-nzl, .flag-oma, .flag-pak, .flag-pan, .flag-per, .flag-phi, .flag-plw, .flag-png, .flag-pol, .flag-pur, .flag-por, .flag-par, .flag-qat, .flag-rom, .flag-rou, .flag-rus, .flag-rwa, .flag-lca, .flag-ksa, .flag-sud, .flag-esp, .flag-sen, .flag-sin, .flag-rsa, .flag-kor, .flag-sol, .flag-sle, .flag-smr, .flag-sam, .flag-som, .flag-srb, .flag-stp, .flag-sur, .flag-skn, .flag-svk, .flag-svn, .flag-slo, .flag-sui, .flag-swe, .flag-swz, .flag-sri, .flag-vin, .flag-sey, .flag-syr, .flag-tog, .flag-tha, .flag-tjk, .flag-tkm, .flag-tls, .flag-tga, .flag-tri, .flag-tun, .flag-tur, .flag-tuv, .flag-tpe, .flag-tan, .flag-uga, .flag-ukr, .flag-uru, .flag-usa, .flag-gbr, .flag-uzb, .flag-isv, .flag-ven, .flag-vie, .flag-van, .flag-yem, .flag-zam, .flag-zim, .flag-ple, .flag-dpr, .flag-eng, .flag-scg {
+	margin:2px 3px 0 0;
+}
+
+

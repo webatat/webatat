@@ -1,0 +1,14 @@
+<div id="page-wrap">
+	<h1>{{ anythingslider.title }}</h1>
+	<div class="anythingSlider">
+	  <div class="wrapper">
+	    <ul>
+		{% for slide in anythingslider.content.slides%}
+	       <li>
+		    {{ slide.content|safe }}
+	       </li>
+		{% endfor %}	     
+	    </ul>        
+	  </div>	  
+	</div> <!-- END AnythingSlider -->
+</div>

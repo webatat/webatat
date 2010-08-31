@@ -1,0 +1,106 @@
+{% extends 'common/templates/base.html' %}
+{% load i18n %}
+{% block title %} {{SITE_NAME}} {% endblock %}
+{% block head %}
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/galleriffic-2.0/css/basic.css" static="screen" />
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/galleriffic-2.0/css/galleriffic-2.css" static="screen" />
+
+
+		{% get_current_language_bidi as LANGUAGE_BIDI %}
+		{% if LANGUAGE_BIDI %}
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/galleriffic-2.0/css/basic-rtl	.css" static="screen" />
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/galleriffic-2.0/css/galleriffic-2-rtl.css" static="screen" />
+		{% endif %}
+	
+{% endblock %}
+
+{% block scripts %}
+	<script type="text/javascript" src="http://{{DOMAIN}}/widgets-resources/galleriffic-2.0/js/jquery.galleriffic.js"></script>
+	<script type="text/javascript" src="http://{{DOMAIN}}/widgets-resources/galleriffic-2.0/js/jquery.opacityrollover.js"></script>
+	<!-- We only want the thunbnails to display when javascript is disabled -->
+	<script type="text/javascript">
+		document.write('<style>.noscript { display: none; }</style>');
+	</script>
+	<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				// We only want these styles applied when javascript is enabled
+				$('div.navigation').css({'width' : '300px', 'float' : 'left'});
+				$('div.content').css('display', 'block');
+
+				// Initially set opacity on thumbs and add
+				// additional styling for hover effect on thumbs
+				var onMouseOutOpacity = 0.67;
+				$('#thumbs ul.thumbs li').opacityrollover({
+					mouseOutOpacity:   onMouseOutOpacity,
+					mouseOverOpacity:  1.0,
+					fadeSpeed:         'fast',
+					exemptionSelector: '.selected'
+				});
+				
+				// Initialize Advanced Galleriffic Gallery
+				var gallery = $('#thumbs').galleriffic({
+					delay:                     2500,
+					numThumbs:                 15,
+					preloadAhead:              10,
+					enableTopPager:            true,
+					enableBottomPager:         true,
+					maxPagesToShow:            7,
+					imageContainerSel:         '#slideshow',
+					controlsContainerSel:      '#controls',
+					captionContainerSel:       '#caption',
+					loadingContainerSel:       '#loading',
+					renderSSControls:          true,
+					renderNavControls:         true,
+					playLinkText:              'Play Slideshow',
+					pauseLinkText:             'Pause Slideshow',
+					prevLinkText:              '&lsaquo; Previous Photo',
+					nextLinkText:              'Next Photo &rsaquo;',
+					nextPageLinkText:          'Next &rsaquo;',
+					prevPageLinkText:          '&lsaquo; Prev',
+					enableHistory:             false,
+					autoStart:                 false,
+					syncTransitions:           true,
+					defaultTransitionDuration: 900,
+					onSlideChange:             function(prevIndex, nextIndex) {
+						// 'this' refers to the gallery, which is an extension of $('#thumbs')
+						this.find('ul.thumbs').children()
+							.eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+							.eq(nextIndex).fadeTo('fast', 1.0);
+					},
+					onPageTransitionOut:       function(callback) {
+						this.fadeTo('fast', 0.0, callback);
+					},
+					onPageTransitionIn:        function() {
+						this.fadeTo('fast', 1.0);
+					}
+				});
+			});
+		</script>
+{% endblock %}
+{% block body %}
+<div id="hd" class="container_16 clrearfix">
+	<div class="grid_11">
+		{% include 'widgets/templates/branding.html' %}
+	</div>
+	<div class="grid_5">
+		{% include 'widgets/templates/search.html' %} 
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16">
+               {% include 'widgets/templates/navigation/nav.html' %}			
+	</div> 
+	<div class="clear"></div>
+</div> 
+
+<div  id="container" class="container_16 clrearfix">
+	<div class="grid_16">
+		{% include 'widgets/templates/gallery/galleriffic.html' %}
+	</div>
+
+<div class="clear"></div>
+	<div class="grid_16" id="site_info">
+		{% include 'widgets/templates/site_info.html' %} 		
+	</div>
+<div class="clear"></div>
+</div>
+{% endblock %}

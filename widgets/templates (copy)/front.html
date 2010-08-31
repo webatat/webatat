@@ -1,0 +1,86 @@
+{% extends 'common/templates/base.html' %}
+{% load i18n %}
+{% block title %} {{SITE_NAME}} {% endblock %}
+{% block head %}
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/themes/{{DEFAULT_THEME|urlencode}}/jquery.featureList/style.css" static="screen" />
+		{% get_current_language_bidi as LANGUAGE_BIDI %}
+		{% if LANGUAGE_BIDI %}
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/themes/{{DEFAULT_THEME|urlencode}}/jquery.featureList/style-rtl.css" static="screen" />
+		{% endif %}
+	<link rel="stylesheet" type="text/css" href="/static/top_scorers/css/style.css" static="screen" />
+
+{% endblock %}
+
+{% block scripts %}
+	<script type="text/javascript" src="http://{{DOMAIN}}/themes/{{DEFAULT_THEME|urlencode}}/jquery.featureList/jquery.featureList-1.0.0.js"></script>
+	<script language="javascript">
+		$(document).ready(function() {
+			$.featureList(
+				$("#tabs li a"),
+				$("#output li"), {
+					start_item	:	1
+
+				}
+			);		
+		});
+	</script>
+{% endblock %}
+{% block body %}
+<div id="hd" class="container_16 clrearfix">
+	<div class="grid_16">
+		{% include 'front/templates/branding.html' %}
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16">
+               {% include 'front/templates/nav.html' %}			
+	</div> 
+	<div class="clear"></div>
+</div> 
+<div id="container" class="container_16 clrearfix">
+
+	<div class="grid_16">
+		{% include 'front/templates/page-title.html' %}			
+	</div>
+	<div class="clear"></div>
+	<div class="grid_11">
+		{% include 'front/templates/jquery.featureList.html' %}		
+	</div>
+	<div class="grid_5">
+		{% include 'front/templates/toggle-accordion.html' %} 			
+	</div>
+
+	
+	<div class="clear"></div>
+
+
+	
+	<div class="grid_16">
+		{% include 'front/templates/kwicks.html' %} 
+	</div>
+	<div class="clear"></div>
+	<div class="grid_4">
+		{% include 'front/templates/toggle-paragraphs.html' %} 
+                {% include 'front/templates/toggle-ajax.html' %} 
+		{% include 'front/templates/toggle-section-menu.html' %} 
+		{% include 'front/templates/toggle-list-items.html' %} 			
+	</div>
+	<div class="grid_7">
+		
+		{% include 'front/templates/toggle-blockquote.html' %} 
+		{% include 'front/templates/toggle-tables.html' %} 
+		{% include 'front/templates/toggle-forms.html' %} 			
+	</div>
+	<div class="grid_5">
+			
+		{% include 'front/templates/toggle-search.html' %} 
+		{% include 'front/templates/toggle-login-forms.html' %} 
+		{% include 'front/templates/toggle-articles.html' %} 			
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16" id="site_info">
+		{% include 'front/templates/site_info.html' %} 		
+	</div>
+	<div class="clear"></div>
+
+</div>
+{% endblock %}

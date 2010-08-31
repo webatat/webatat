@@ -1,0 +1,12 @@
+#ygs-match_roster .bd .team {
+float:right;
+
+}
+#ygs-match_roster .bd .away {
+float:left;
+
+}
+
+#ygs-match_roster .bd dd span, #ygs-match_roster .bd dd b {
+float:right;
+}

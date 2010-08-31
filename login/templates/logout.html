@@ -1,0 +1,13 @@
+{% extends 'common/templates/base_single.html' %}
+{% load i18n %}
+{% block title %}Signed Out{% endblock %}
+{% block content %}
+<h1>{% trans 'Session Ended' %}</h1>
+<p>
+  {% blocktrans %}You have signed out! You are no longer signed in to {{SITE_NAME}}.{% endblocktrans %} <br/>
+  {% trans 'Thanks for your visit – we hope to see you again soon!' %}
+</p>
+<p>
+  <a href="/login">{% blocktrans %}Sign in</a> again or <a href="/">proceed to the home page{% endblocktrans %}</a>
+</p>
+{% endblock %}

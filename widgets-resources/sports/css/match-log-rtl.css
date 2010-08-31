@@ -1,0 +1,21 @@
+#ygs-match_log .log dt {
+float:right;
+margin:7px 15px 7px 0;
+}
+
+#ygs-match_log dl.goal dd.event {
+background-position:-385px 0;
+}
+
+#ygs-match_log dl dd.event {
+float:right;
+margin:9px 10px 9px 25px;
+}
+
+#ygs-match_log dl dd.comment {
+float:right;
+}
+
+#ygs-match_log .log dl {
+float:right;
+}

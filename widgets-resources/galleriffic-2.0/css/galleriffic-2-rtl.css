@@ -1,0 +1,48 @@
+div.content {	
+	float: left;
+}
+
+
+
+div.ss-controls {
+	float: right;
+}
+div.nav-controls {
+	float: left;
+}
+
+div.loader {
+
+	right: 0;
+	
+}
+
+div.slideshow span.image-wrapper {
+	left: 0;
+}
+
+
+
+div.download {
+	float: left;
+}
+div.caption-container {
+	clear: left;
+}
+span.image-caption {
+	right: 0;
+}
+
+
+
+ul.thumbs li {
+	float: right;
+}
+
+
+
+div.pagination a, div.pagination span.current, div.pagination span.ellipsis {
+	float: right;
+	margin-left: 2px;
+}
+

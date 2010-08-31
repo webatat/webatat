@@ -1,0 +1,150 @@
+{% extends 'common/templates/base.html' %}
+{% load i18n %}
+{% block title %} {{SITE_NAME}} {% endblock %}
+{% block head %}
+	<!--[start] featureList -->
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/jquery.featureList/style.css" static="screen" />
+	<!--[end] featureList -->
+
+
+	<!--[start] AnythingSlider -->
+	<link rel="stylesheet" href="http://{{DOMAIN}}/widgets-resources/AnythingSlider/css/page.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://{{DOMAIN}}/widgets-resources/AnythingSlider/css/slider.css" type="text/css" media="screen" />
+	<!--[start] AnythingSlider -->
+
+	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/style.css" static="screen" />
+		{% get_current_language_bidi as LANGUAGE_BIDI %}
+		{% if LANGUAGE_BIDI %}
+			<!--[start] featureList -->
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/jquery.featureList/style-rtl.css" static="screen" />
+			<!--[end] featureList -->
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/widgets-resources/sports/css/style-rtl.css" static="screen" />
+
+			<!--[start] AnythingSlider -->
+			<link rel="stylesheet" href="http://{{DOMAIN}}/widgets-resources/AnythingSlider/css/page-rtl.css" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://{{DOMAIN}}/widgets-resources/AnythingSlider/css/slider-rtl.css" type="text/css" media="screen" />
+			<!--[start] AnythingSlider -->
+		{% endif %}
+
+{% endblock %}
+
+{% block scripts %}
+
+	<!--[start] featureList -->
+	<script type="text/javascript" src="http://{{DOMAIN}}/widgets-resources/jquery.featureList/jquery.featureList-1.0.0.js"></script>
+	<script language="javascript">
+		$(document).ready(function() {
+			$.featureList(
+				$("#tabs li a"),
+				$("#output li"), {
+					start_item	:	1
+
+				}
+			);		
+		});
+	</script>
+	<!--[end] featureList -->
+
+	<!--[start] AnythingSlider -->
+	<script type="text/javascript" src="http://{{DOMAIN}}/widgets-resources/AnythingSlider/js/jquery.easing.1.2.js"></script>
+	<script src="http://{{DOMAIN}}/widgets-resources/AnythingSlider/js/jquery.anythingslider.js" type="text/javascript" charset="utf-8"></script>
+	
+
+	<script type="text/javascript">
+
+	function formatText(index, panel) {
+		  return index + "";
+	  };
+
+	$(function () {
+
+	    $('.anythingSlider').anythingSlider({
+		easing: "easeInOutExpo",        // Anything other than "linear" or "swing" requires the easing plugin
+		autoPlay: true,                 // This turns off the entire FUNCTIONALY, not just if it starts running or not.
+		delay: 3000,                    // How long between slide transitions in AutoPlay mode
+		startStopped: false,            // If autoPlay is on, this can force it to start stopped
+		animationTime: 600,             // How long the slide transition takes
+		hashTags: true,                 // Should links change the hashtag in the URL?
+		buildNavigation: true,          // If true, builds and list of anchor links to link to each slide
+	    		pauseOnHover: true,             // If true, and autoPlay is enabled, the show will pause on hover
+	    		startText: "Go",                // Start text
+			stopText: "Stop",               // Stop text
+			navigationFormatter: formatText // Details at the top of the file on this use (advanced use)
+	    });
+	    
+	    $("#slide-jump").click(function(){
+		$('.anythingSlider').anythingSlider(6);
+	    });
+	    
+	});
+	</script>
+	<!--[end] AnythingSlider -->
+{% endblock %}
+{% block body %}
+<div id="hd" class="container_16 clrearfix">
+	<div class="grid_11">
+		{% include 'widgets/templates/branding.html' %}
+	</div>
+	<div class="grid_5">
+		{% include 'widgets/templates/search.html' %} 
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16">
+               {% include 'widgets/templates/navigation/nav.html' %}			
+	</div> 
+	<div class="clear"></div>
+</div> 
+<div id="container" class="container_16 clrearfix">
+
+	<div class="grid_16">
+		{% include 'widgets/templates/page-title.html' %}			
+	</div>
+	<div class="clear"></div>
+	<div class="grid_11">
+		{% include 'widgets/templates/gallery/jquery.featureList.html' %}		
+	</div>
+	<div class="grid_5">
+			{% include 'widgets/templates/navigation/toggle-section-menu.html' %} 	
+	</div>
+
+	<div class="clear"></div>
+
+        <div class="grid_16">
+		{% include 'widgets/templates/kwicks.html' %} 	
+	</div>
+	<div class="clear"></div>
+	
+	<div class="grid_11">
+		{% include 'widgets/templates/gallery/AnythingSlider.html' %} 
+	</div>
+	<div class="grid_5">
+			{% include 'widgets/templates/toggle-login-forms.html' %} 
+	</div>
+	
+	<div class="clear"></div>
+
+	<div class="grid_4">
+		{% include 'widgets/templates/toggle-paragraphs.html' %} 
+		{% include 'widgets/templates/navigation/toggle-accordion.html' %} 
+		{% include 'widgets/templates/navigation/toggle-list-items.html' %} 			
+	</div>
+	<div class="grid_7">
+		{% include 'widgets/templates/sport/top_scorers.html' %} 
+		{% include 'widgets/templates/sport/standings.html' %} 
+		{% include 'widgets/templates/toggle-blockquote.html' %} 
+	
+	</div>
+	<div class="grid_5">
+		{% include 'widgets/templates/toggle-articles.html' %} 	
+
+			
+					
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16" id="site_info">
+		{% include 'widgets/templates/site_info.html' %} 		
+	</div>
+	<div class="clear"></div>
+
+</div>
+{% endblock %}

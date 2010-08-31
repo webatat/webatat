@@ -1,0 +1,30 @@
+[{"pk": "nawadena.com/slidedeck/frontpage", 
+	"model": "common.Widget", 
+	"fields":{
+			"wtype" : "slidedeck",
+			"website" : "nawadena.com",
+			"name" : "frontpage",
+			"title" : "title",			
+  			"content" : { "slides" : 
+						[
+							{"title" : "نوادينا",
+							 "content" : "<img width='572' height='335' src='http://farm4.static.flickr.com/3042/2513875295_443e543f43_z.jpg' >"
+							},
+							{"title" : "الفريق",
+							 "content" : "<img width='572' height='335' src='http://farm2.static.flickr.com/1361/692456870_9d0f6cd3f8_z.jpg' >"
+							},
+							{"title" : "مباريات",
+							 "content" : "<img width='572' height='335' src='http://farm1.static.flickr.com/63/218549303_406b5d8777_z.jpg' >"
+							},
+							{"title" : "title",
+							 "content" : "<img width='572' height='335' src='http://farm5.static.flickr.com/4076/4741231133_419f136640_z.jpg' >"
+							},
+							{"title" : "title",
+							 "content" : "<img width='572' height='335' src='http://farm1.static.flickr.com/6/5485334_3117862b2a_z.jpg' >"
+							}
+						]
+				}
+		  			
+		 }
+  }
+]

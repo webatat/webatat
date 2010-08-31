@@ -1,0 +1,72 @@
+{% extends 'administration/templates/base-admin.html' %}
+{% block bodytag %}onload="return do_js_beautify()" {% endblock %}
+{% block adminform %}	
+<h2>FLAT PAGE: <i>{{ pk }}</i></h2>
+<div class="grid_5 alpha">
+	<div>
+		{% for page in flatpages %}
+		<div>
+			<a class="delete" href="/_admin/delete/flatpage/{{ page.website }}/{{ page.name }}"> [X] </a>
+			<a href="/_admin/update/flatpage/{{ page.website }}/{{ page.name }}">{{ page.website }} - {{ page.name }}</a>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+<div class="grid_11 omega" >
+	<div id="add-widget">
+	  <form id="form-add-widget" action="" method="post">
+	    <div class="box">
+		<dl>
+			<dt>Primary Key</dt>
+			<dd>
+				<span id="pk" > {{ pk }}</span>
+			</dd>
+
+			{% ifequal action "add" %}
+		      		<dt>Name</dt>
+				<dd>
+					<INPUT Type="text" Name="name" value="{{ name }}" />
+				</dd>
+				<dt>Website</dt>
+				<dd>
+					<INPUT Type="text" Name="website" value="{{ website }}" />
+				</dd>   
+		   	{% endifequal %}
+		   	{% ifequal action "update" %}
+			      	<dt>Name</dt>
+				<dd>
+					<span>{{ name }}</span>
+				</dd>
+				<dt>Website</dt>
+				<dd>
+					<span>{{ website }}</span>
+				</dd>
+		   {% endifequal %}			
+			<dt>Title</dt>
+			<dd>
+				<INPUT Type="text" Name="title" value="{{ title }}" />
+			</dd>
+
+			<dt>Status</dt>
+			<dd>
+				<INPUT Type="text" Name="status" value="{{ status }}" />
+			</dd>
+
+			<dt>content</dt>
+			<dd>
+				<TEXTAREA Name="content"rows="15" cols="80" id="content" class="resizable">{{ content }}</TEXTAREA> 
+			</dd>
+		</dl>
+	    </div>
+	    <div class="buttons">
+		   {% ifequal action "add" %}
+	      		<input type="submit" value="Add Flat Page" />    
+		   {% endifequal %}
+		   {% ifequal action "update" %}
+		      	<input type="submit" value="Update Flat Page" />    
+		   {% endifequal %}	  
+	    </div>
+	  </form>
+	</div>
+</div>
+{% endblock %}	

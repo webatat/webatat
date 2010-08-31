@@ -1,0 +1,115 @@
+{% extends 'common/templates/base.html' %}
+{% load i18n %}
+{% block title %} {{SITE_NAME}} {% endblock %}
+{% block head %}
+
+<!--[start] AnythingSlider -->
+	<link rel="stylesheet" href="http://{{DOMAIN}}/widgets-resources/AnythingSlider/css/page.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://{{DOMAIN}}/widgets-resources/AnythingSlider/css/slider.css" type="text/css" media="screen" />
+	<!--[start] AnythingSlider -->
+
+	{% get_current_language_bidi as LANGUAGE_BIDI %}
+		{% if LANGUAGE_BIDI %}
+			<!--[start] AnythingSlider -->
+			<link rel="stylesheet" href="http://{{DOMAIN}}/widgets-resources/AnythingSlider/css/page-rtl.css" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://{{DOMAIN}}/widgets-resources/AnythingSlider/css/slider-rtl.css" type="text/css" media="screen" />
+			<!--[start] AnythingSlider -->
+	     {% endif %}
+
+
+{% endblock %}
+
+{% block scripts %}	
+
+<!--[start] AnythingSlider -->
+	<script type="text/javascript" src="http://{{DOMAIN}}/widgets-resources/AnythingSlider/js/jquery.easing.1.2.js"></script>
+	<script src="http://{{DOMAIN}}/widgets-resources/AnythingSlider/js/jquery.anythingslider.js" type="text/javascript" charset="utf-8"></script>
+	
+
+	<script type="text/javascript">
+
+	function formatText(index, panel) {
+		  return index + "";
+	  };
+
+	$(function () {
+
+	    $('.anythingSlider').anythingSlider({
+		easing: "easeInOutExpo",        // Anything other than "linear" or "swing" requires the easing plugin
+		autoPlay: true,                 // This turns off the entire FUNCTIONALY, not just if it starts running or not.
+		delay: 3000,                    // How long between slide transitions in AutoPlay mode
+		startStopped: false,            // If autoPlay is on, this can force it to start stopped
+		animationTime: 600,             // How long the slide transition takes
+		hashTags: true,                 // Should links change the hashtag in the URL?
+		buildNavigation: true,          // If true, builds and list of anchor links to link to each slide
+	    		pauseOnHover: true,             // If true, and autoPlay is enabled, the show will pause on hover
+	    		startText: "Go",                // Start text
+			stopText: "Stop",               // Stop text
+			navigationFormatter: formatText // Details at the top of the file on this use (advanced use)
+	    });
+	    
+	    $("#slide-jump").click(function(){
+		$('.anythingSlider').anythingSlider(6);
+	    });
+	    
+	});
+	</script>
+	<!--[end] AnythingSlider -->
+
+{% endblock %}
+{% block body %}
+<div id="hd" class="container_16 clrearfix">
+	<div class="grid_11">
+		{% include 'widgets/templates/branding.html' %}
+	</div>
+	<div class="grid_5">
+		{% include 'widgets/templates/search.html' %} 
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16">
+               {% include 'widgets/templates/navigation/nav.html' %}			
+	</div> 
+	<div class="clear"></div>
+</div> 
+<div id="container" class="container_16 clrearfix">
+
+	<div class="grid_16">
+		{% include 'widgets/templates/page-title.html' %}			
+	</div>
+	<div class="clear"></div>
+	
+
+
+	<div class="clear"></div>
+	<div class="grid_11">
+		<div class="article_box">
+			<h4>{{ article.content.subheading }}</h4>
+			<h1>{{ article.content.heading }}</h1>
+			<div class="grid_5 alpha">
+				<img src="{{ article.content.image }}">
+			</div>
+			<div class="grid_6 omega">
+				<p>
+					{{ article.content.body|safe }}
+				</p>
+			</div>
+		</div>
+		<div class="clear"></div>
+		{% include 'widgets/templates/gallery/AnythingSlider.html' %}
+
+		
+	</div>
+	<div class="grid_5">
+		{% include 'widgets/templates/navigation/toggle-section-menu.html' %} 
+		{% include 'widgets/templates/toggle-articles.html' %}	
+		
+	</div>
+	
+	<div class="clear"></div>
+	<div class="grid_16" id="site_info">
+		{% include 'widgets/templates/site_info.html' %} 		
+	</div>
+	<div class="clear"></div>
+
+</div>
+{% endblock %}

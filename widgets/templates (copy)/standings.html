@@ -1,0 +1,45 @@
+<div class="yui-sub">
+	<div class="yui-b">
+		<div id="ygs-group_standings" class="ysp-mod ygs-group_standings">
+			<div class="hd">
+				<div>
+					<h4>{{ standings.title|safe }}</h4>
+				</div>
+			</div>
+		<div class="bd">
+			<table id="ygs-group-A" class="ygs-group-A selected">
+				<thead>
+					<tr>
+					{% for title in standings.content.titles %}
+						<th class="{{ title.extra.thCssClass}}" colspan="{{ title.extra.colspan}}" title="{{ title.title }}">{{ title.label }}</th>	
+					{% endfor %}       
+					</tr>
+				</thead>
+				<tfoot>
+					<tr>
+						<td colspan="10"><a class="" title="Group A" href="#">جدول المجموعة الأولى</a></td>
+					</tr>
+				</tfoot>
+				<tbody>
+					{% for team in standings.content.teams %}
+						<tr class="{{ team.extra.trCss }}">
+							<td colspan="2" class="{{ team.extra.tdCss }}"><span class="flag-disc"><span class="{{ team.extra.flagCss }}">Flag of</span></span> <a class="" title="{{ team.country }}" href="#">{{ team.country }}</a></td>          
+							<td class="">{{ team.GamesPlayed }}</td>         
+							<td class="">{{ team.Won }}</td>         
+							<td class="">{{ team.Lost }}</td>        
+							<td class="">{{ team.Tied }}</td>        
+							<td class="">{{ team.GoalsFor }}</td>         
+							<td class="">{{ team.GoalsAgainst }}</td>       
+							<td class="">{{ team.GoalDifference }}</td>       
+							<td class="last">{{ team.Points }}</td>
+						</tr>      
+					{% endfor %}  
+				</tbody>
+			</table>    
+		</div>
+		<div class="ft">      
+		</div>
+		</div>   
+	</div>
+</div>
+

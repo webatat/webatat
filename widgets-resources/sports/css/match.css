@@ -1,0 +1,382 @@
+.yui-b #ygs-match_header {
+background-image:url("http://l.yimg.com/a/i/sp/global/wc/match/loftus_versfeld_2.jpg");
+}
+
+.yui-b #ygs-match_header {
+background:url("http://l.yimg.com/a/i/sp/global/wc/match/stadium.jpg") no-repeat scroll 0 0 #000000;
+border-top:10px solid #000000;
+color:#FFFFFF;
+margin:0;
+min-height:200px;
+overflow:hidden;
+}
+
+.yui-b .ysp-mod {
+margin-bottom:0;
+}
+
+.yui-b .ysp-mod {
+margin:0 10px 20px;
+}
+
+
+#ygs-match_header .hd {
+background:none repeat scroll 0 0 rgba(16, 16, 16, 0.8);
+border-bottom:medium none;
+border-top:medium none;
+padding:0;
+position:relative;
+}
+
+
+#ygs-match_header h3 {
+background:none repeat scroll 0 0 transparent;
+border-bottom:1px solid #000000;
+font-size:85%;
+height:auto;
+margin:0 10px;
+padding:5px 10px 8px;
+text-indent:0;
+width:auto;
+}
+
+#ygs-match_header h3 span.group {
+float:left;
+font-weight:normal;
+margin-right:3px;
+padding-right:6px;
+}
+
+#ygs-match_header h3 em {
+color:#ADADAD;
+float:right;
+font-style:normal;
+}
+
+ #ygs-match_header .bd {
+background:none repeat scroll 0 0 transparent;
+padding-bottom:20px;
+padding-top:0;
+}
+
+ .bd {
+padding:10px;
+}
+
+
+#ygs-match_header.postgame div.time {
+font-size:83%;
+font-weight:bold;
+height:auto;
+padding:9px 0;
+width:86px;
+}
+
+#ygs-match_header div.time {
+-moz-border-radius-bottomleft:3px;
+-moz-border-radius-bottomright:3px;
+background:-moz-linear-gradient(center top , #0F0B0A 75%, #2F3124 106%) repeat scroll 0 0 transparent;
+border-color:-moz-use-text-color #000000 #000000;
+border-right:1px solid #000000;
+border-style:none solid solid;
+border-width:medium 1px 1px;
+height:18px;
+margin:0 auto 4px;
+opacity:0.9;
+overflow:hidden;
+padding:7px 5px 4px;
+text-align:center;
+text-transform:uppercase;
+width:100px;
+}
+
+
+#ygs-match_header.ingame .bd .team, #ygs-match_header.postgame .bd .team {
+width:290px;
+}
+
+#ygs-match_header .bd .team {
+float:left;
+position:relative;
+width:290px;
+}
+
+
+#ygs-match_header .bd .home .score {
+right:-12px;
+}
+
+#ygs-match_header .bd span.score {
+-moz-border-radius:4px 4px 4px 4px;
+background:url("http://l.yimg.com/a/i/sp/global/wc/match/1.png") no-repeat scroll 0 -70px transparent;
+border:2px solid #111111;
+color:#000000;
+font-size:28px;
+font-weight:bold;
+height:30px;
+position:absolute;
+text-align:center;
+text-indent:0;
+top:68px;
+width:33px;
+}
+
+#ygs-match_header .bd .team span {
+float:right;
+height:75px;
+text-indent:-9999em;
+width:68px;
+}
+
+
+#ygs-match_header.ingame .home h2, #ygs-match_header.postgame .home h2 {
+padding-right:30px;
+}
+
+#ygs-match_header .bd .home h2 {
+padding-right:8px;
+text-align:right;
+}
+
+#ygs-match_header .bd h2 {
+clear:both;
+font-size:182%;
+font-weight:bold;
+padding-left:8px;
+}
+
+#ygs-match_header .bd .away {
+float:right;
+}
+
+
+#ygs-match_header.ingame .home h2, #ygs-match_header.postgame .home h2 {
+padding-right:30px;
+}
+
+#ygs-match_header .bd .home h2 {
+padding-right:8px;
+text-align:right;
+}
+
+#ygs-match_header .bd h2 {
+clear:both;
+font-size:182%;
+font-weight:bold;
+padding-left:8px;
+}
+
+#ygs-match_header .bd h2 a {
+color:#FFFFFF;
+}
+
+
+#ygs-match_log .bd .log {
+background:url("http://l.yimg.com/a/i/sp/global/wc/match/shdw.png") no-repeat scroll 0 -75px #222222;
+display:block;
+max-height:140px;
+overflow-x:hidden;
+overflow-y:auto;
+position:relative;
+}
+
+#ygs-match_log .log dl.finished {
+-moz-box-shadow:0 6px 12px rgba(7, 7, 7, 0.698) inset;
+background:none repeat scroll 0 0 #393939;
+padding:6px 0;
+}
+
+#ygs-match_log .log dl {
+border-left:1px solid #000000;
+border-top:1px dotted #0D0D0D;
+float:left;
+overflow:hidden;
+position:relative;
+width:100%;
+margin:0;
+}
+
+#ygs-match_log .log dl.first-half dd.comment, #ygs-match_log .log dl.second-half dd.comment, #ygs-match_log .log dl.extra-time dd.comment, #ygs-match_log .log dl.finished dd.comment {
+background:none repeat scroll 0 0 #393939;
+padding-top:9px;
+width:25%;
+}
+#ygs-match_log .log dl.finished dd.comment {
+background:none repeat scroll 0 0 transparent;
+color:#FFFFFF;
+font-weight:bold;
+width:90%;
+}
+
+
+#ygs-match_log.ysp-mod .bd {
+background:none repeat scroll 0 0 #000000;
+padding:0 10px;
+}
+
+#ygs-match_log dl.first dd.comment {
+color:#FFFFFF;
+font-size:116%;
+font-weight:bold;
+}
+
+
+#ygs-match_log dl.first-half, #ygs-match_log dl.second-half, #ygs-match_log dl.extra-time {
+background-color:#393939;
+background-image:url("http://l.yimg.com/a/i/sp/global/wc/match/gray.png");
+background-position:center center;
+background-repeat:repeat-x;
+}
+
+#ygs-match_log dl dd.comment {
+color:#C4C4C4;
+float:left;
+font-size:93%;
+padding:9px 0 7px;
+width:75%;
+}
+#ygs-match_log dl.extra-time dd.event {
+background-position:-371px -489px;
+width:20px;
+}
+
+#ygs-match_log .log dl.first-half dt, #ygs-match_log .log dl.second-half dt, #ygs-match_log .log dl.extra-time dt, #ygs-match_log .log dl.finished dt {
+display:none;
+}
+
+#ygs-match_log .log dl.finished dd.event {
+background-color:transparent;
+margin-left:0;
+}
+
+#ygs-match_log .log dl.first-half dd.event, #ygs-match_log .log dl.second-half dd.event, #ygs-match_log .log dl.extra-time dd.event, #ygs-match_log .log dl.finished dd.event {
+background-color:#393939;
+margin-left:33%;
+margin-right:0;
+padding:0 16px 0 4px;
+}
+
+#ygs-match_log dl.finished dd.event {
+background-position:-374px -360px;
+width:20px;
+}
+
+#ygs-match_log dl dd.event {
+background:url("http://l.yimg.com/a/i/sp/global/wc/match/5.png") no-repeat scroll 0 200px transparent;
+float:left;
+height:15px;
+margin:9px 25px 9px 10px;
+overflow:hidden;
+text-indent:-1000em;
+width:15px;
+}
+
+#ygs-match_log .log dl.finished dd.comment {
+background:none repeat scroll 0 0 transparent;
+color:#FFFFFF;
+font-weight:bold;
+width:90%;
+}
+#ygs-match_log dl.first {
+background:none repeat scroll 0 0 #0F0F0F;
+border-top:medium none;
+padding:5px 0;
+}
+
+#ygs-match_log .log dt {
+color:#FFFFFF;
+float:left;
+font-size:108%;
+font-weight:bold;
+margin:7px 0 7px 10px;
+opacity:0.5;
+width:9%;
+}
+
+#ygs-match_log .log dl.finished dd.event {
+background-color:transparent;
+margin-left:0;
+}
+
+
+#ygs-match_log dl dd.comment {
+color:#C4C4C4;
+float:left;
+font-size:93%;
+padding:9px 0 7px;
+width:75%;
+}
+
+#ygs-match_log dl.red dd.event {
+  background-position: -385px -105px;
+}
+
+#ygs-match_log dl.yellow dd.event {
+  background-position: -385px -73px;
+}
+
+#ygs-match_log dl.yellowred dd.event {
+  background-position: -373px -520px;
+  width: 26px;
+}
+
+#ygs-match_log dl.sub dd.event {
+  background-position: -385px -136px;
+}
+
+#ygs-match_log dl.goal dd.event {
+  background-position: -385px 0;  
+}
+
+#ygs-match_log dl.missed dd.event {
+  background-position: -385px -38px;  
+}
+
+#ygs-match_log dl.special dd.event {
+  background-position: -385px -171px;  
+}
+
+#ygs-match_log dl.injured dd.event {
+  background-position: -385px -202px;  
+}
+
+#ygs-match_log dl.offside dd.event {
+  background-position: -385px -233px;  
+}
+
+#ygs-match_log dl.penalty-kick dd.event {
+  background-position: -385px -264px;  
+}
+
+#ygs-match_log dl.goal-post dd.event {
+  background-position: -385px -296px;
+}
+
+#ygs-match_log dl.save dd.event {
+  background-position: -385px -328px;
+}
+
+#ygs-match_log dl.whistle dd.event {
+  background-position: -385px -360px;
+}
+
+#ygs-match_log dl.winner dd.event {
+  background-position: -385px -394px;
+}
+
+#ygs-match_log dl.corner dd.event {
+  background-position: -385px -553px;
+}
+
+#ygs-match_log dl.wide dd.event {
+  background-position: -385px -613px;
+}
+
+#ygs-match_log dl.own-goal dd.event {
+  background-position: -385px -583px;
+}
+
+
+
+
+

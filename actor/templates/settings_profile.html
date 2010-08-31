@@ -1,0 +1,106 @@
+{% extends 'actor/templates/settings_base.html' %}
+{% load i18n %}
+{% load nonce %}
+{% block settings %}
+
+<h2>{% trans 'Profile Info' %}</h2>
+
+{% include 'form_error.html' %}
+<form action="{{view.url}}/settings/profile" method="post">
+  {{request.user|noncefield:"settings_update_account"}}
+  <input type="hidden" name="settings_update_account" />
+  <input type="hidden" name="nick" value="{{request.user.nick}}" />
+  <div>
+    {% trans 'Screen name' %}
+    <span><strong>{{view.display_nick}}</strong></span>
+  </div>
+  <div>
+    <label for="first_name">{% trans 'First name' %}</label>
+    <input type="text" name="first_name" id="first_name" maxlength="60"
+           class="text" value="{{view.extra.given_name}}"/>
+  </div>
+  <div>
+    <label for="last_name">{% trans 'Last name' %}</label>
+    <input type="text" name="last_name" id="last_name" maxlength="60"
+           class="text" value="{{view.extra.family_name}}"/>
+  </div>
+
+  {% if SMS_ENABLED %}
+    <div>
+      <label for="mobile">{% trans 'Mobile phone' %}</label>
+      {% if mobile %}
+        <span><strong>{{mobile}}</strong>
+          <a href="{{view.url}}/settings/mobile">{% trans '(Change)' %}</a>
+        </span>
+      {% else %}
+        {% if unactivated_mobile %}
+          <span>
+            <strong>{{unactivated_mobile}}</strong>
+            <a href="{{view.url}}/settings/mobile">{% trans '(Not activated)' %}</a>
+          </span>
+        {% else %}
+          <span>
+            <strong>{% trans 'None' %}</strong>
+            <a href="{{view.url}}/settings/mobile">{% trans '(Add)' %}</a>
+          </span>
+        {% endif %}
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div>
+    <label for="email">{% trans 'Email address' %}</label>
+    {% if email %}
+      <span>
+        <strong>{{email}}</strong>
+        <a href="{{view.url}}/settings/email">{% trans '(Change)' %}</a>
+      </span>
+    {% else %}
+      {% if unconfirmed_email %}
+        <span>
+          <strong>{{unconfirmed_email}}</strong>
+          <a href="{{view.url}}/settings/email">{% trans '(Unconfirmed)' %}</a>
+        </span>
+      {% else %}
+        <span>
+          <strong>{% trans 'None' %}</strong>
+          <a href="{{view.url}}/settings/email">{% trans '(Add)' %}</a>
+        </span>
+      {% endif %}
+    {% endif %}
+  </div>
+
+  {% if IM_ENABLED %}
+    <div>
+      <label for="email">{% trans 'IM address' %}</label>
+      {% if im %}
+        <span>
+          <strong>{{im}}</strong>
+          <a href="{{view.url}}/settings/im/">{% trans '(Change)' %}</a>
+        </span>
+      {% else %}
+        <span>
+          <strong>{% trans 'None' %}</strong>
+          <a href="{{view.url}}/settings/im">{% trans '(Add)' %}</a>
+        </span>
+      {% endif %}
+    </div>
+  {% endif %}
+ 
+  <div>
+    <label for="homepage">{% trans 'Homepage' %}</label>
+    <input type="text" name="homepage" id="homepage"
+           class="text" value="{{view.extra.homepage}}"/>
+  </div>
+   
+  <div class="buttons">
+    <input type="submit" value="{% trans 'Save Changes' %}"/>
+  </div>
+
+</form>
+
+<a class="dangerous" href="{{view.url}}/settings/delete">
+  {% trans 'Want to delete your account?' %}
+</a>
+
+{% endblock %}

@@ -1,0 +1,488 @@
+#ygs-match_header {
+  color: #fff;
+  background: #000 url(../images/stadium.jpg) no-repeat;
+  margin: 0;
+  border-top: 10px solid #000;
+  min-height: 200px;
+  overflow: hidden;
+  _height: 220px;
+}
+
+.first h2, .hd h2
+{
+margin:0
+}
+
+
+#ygs-match_header a {
+  color: #fff;
+}
+
+#ygs-match_header .ft {
+  display: none;
+}
+
+#ygs-match_header.pregame .ft {
+  display: block;
+  background: none;
+  border: none;
+  padding: 0 8px;
+}
+
+#ygs-match_header div.time {
+  background: #0A0A0A;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.75, rgb(15,11,10)),
+    color-stop(1, rgb(47,49,36))
+  );
+  background: -moz-linear-gradient(
+    center top,
+    rgb(15,11,10) 75%,
+    rgb(47,49,36) 106%
+  );
+  margin: 0 auto 4px;
+  padding: 7px 5px 4px;
+  overflow: hidden;
+  border: 1px solid #000;
+  border-top: none;
+  height: 18px;
+  width: 100px;
+  opacity: 0.9;
+  text-transform: uppercase;
+  text-align: center;
+  filter: alpha(opacity=80);
+  zoom: 1;
+  -webkit-border-bottom-right-radius: 2px;
+  -webkit-border-bottom-left-radius: 2px;
+  -moz-border-radius-bottomleft: 3px;
+  -moz-border-radius-bottomright: 3px;
+}
+
+#ygs-match_header h3 {
+  font-size: 85%;
+  border-bottom: 1px solid #000;
+  padding: 5px 10px 8px;
+  zoom: 1;
+  height: auto;
+  width: auto;
+  background: none;
+  text-indent: 0;
+  margin: 0 10px;
+}
+
+#ygs-match_header h3 em {
+  float: right;
+  color: #ADADAD;
+}
+
+#ygs-match_header h3 em span {
+  font-weight: normal;
+  color: #adadad;
+}
+
+#ygs-match_header h3 em span.loc {
+  padding-right: 2px;
+}
+
+#ygs-match_header h3 span.group {
+  float: left;
+  font-weight: normal;
+  padding-right: 6px;
+  margin-right: 3px;
+}
+
+#ygs-match_header h3 span.weather {
+  padding-left: 18px;
+  background: url(../images/9.png) no-repeat;
+  margin-left: 2px;
+}
+
+#ygs-match_header h3 span.partlysunny {
+  background-position: -1985px -523px;
+}
+
+#ygs-match_header h3 span.sunny {
+  background-position: -1985px -542px;
+}
+
+#ygs-match_header h3 span.rain {
+  background-position: -1986px -564px;
+}
+
+#ygs-match_header h3 span.snow {
+  background-position: -1986px -583px;
+}
+
+#ygs-match_header h3 span.cloudy {
+  background-position: -1986px -606px;
+}
+
+
+#ygs-match_header h3:after {
+  content: "."; height: 0; display: block; visibility: hidden; clear: both;
+}
+
+ #ygs-match_header .bd {
+  padding-top: 0;
+  padding-bottom: 20px;
+  background: transparent;
+  zoom: 1;
+}
+
+#ygs-match_header .bd .team {
+  float: left;
+  position: relative;
+  width: 290px;
+  zoom: 1;
+}
+
+#ygs-match_header .bd .away {
+  float: right;
+}
+
+#ygs-match_header .bd h2 {
+  font-size: 182%;
+  font-weight: bold;
+  clear: both;
+  padding-left: 8px;
+}
+
+#ygs-match_header .bd h2 a {
+  color: #fff;
+}
+
+#ygs-match_header .bd .home h2 {
+  text-align: right;
+  padding-right: 8px;
+}
+
+#ygs-match_header .bd .team span {
+  float: right;
+  height: 75px;
+  width: 68px;
+  text-indent: -9999em;
+  zoom: 1;
+}
+
+#ygs-match_header .bd .away span{
+  float: left;
+}
+
+#ygs-match_header .bd .home span {
+  _margin-left: 17em;
+}
+
+#ygs-match_header .bd .teams:after {
+  content: "."; height: 0; display: block; visibility: hidden; clear: both;
+}
+
+#ygs-match_header .bd span.score {
+  background: transparent url(../images/1.png) no-repeat 0 -70px;
+  color: #000;
+  font-size: 28px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border: 2px solid #111;
+  font-weight: bold;
+  position: absolute;
+  top: 68px;
+  text-indent: 0;
+  text-align: center;
+  height: 30px;
+  width: 33px;
+  zoom: 1;
+}
+
+#ygs-match_header .bd .home .score {
+  right: -12px;
+}
+
+#ygs-match_header .bd .away .score {
+  left: -12px;
+}
+
+#ygs-match_header .home p {
+  text-align: right;
+}
+
+#ygs-match_header .bd p {
+  color: #999;
+  font-size: 85%;
+  padding-right: 30px;
+  margin-top: 3px;
+}
+
+#ygs-match_header .bd p em.own-goal {
+  color: #a9382c;
+}
+
+#ygs-match_header .away p {
+  padding-left: 30px;
+}
+
+ #ygs-match_header .hd {
+  background: #010101;
+  background: rgba(16, 16, 16, 0.8);
+  border-bottom: none;
+  padding: 0;
+  border-top: none;
+  position: relative;
+  zoom: 1;
+}
+
+#ygs-match_header span.lv {
+  background: url(../images/9.png) no-repeat -1968px -640px;
+  text-indent: -1000em;
+  overflow: hidden;
+  display: block;
+  width: 32px;
+  height: 13px;
+  float: left;
+  margin-right: 8px;
+}
+
+#ygs-match_header div.game-status {
+  display: none;
+}
+
+/* @group pregame */
+
+ #ygs-match_header.pregame .hd .group {
+  border-right: none;
+}
+
+
+ #ygs-match_header.pregame .bd {
+  padding-bottom: 0;
+  position: relative;
+}
+
+#ygs-match_header p.vs {
+  float: left;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  left: 20px;
+  top: 80px;
+  color: #FFF;
+  font-size: 108%;
+  font-weight: bold;
+}
+
+ #ygs-match_header.pregame .teams {
+  margin: 30px 0 10px 0;
+}
+
+/* @group ingame */
+
+#ygs-match_header.ingame .bd .team,
+#ygs-match_header.postgame .bd .team {
+  width: 290px;
+}
+
+#ygs-match_header.ingame div.game-status {
+  font-size: 77%;
+  font-weight: bold;
+  margin: 0 auto;
+  width: 85px;
+  text-align: center;
+}
+
+#ygs-match_header.ingame .home h2,
+#ygs-match_header.postgame .home h2 {
+  padding-right: 30px;
+}
+
+#ygs-match_header.ingame .away h2,
+#ygs-match_header.postgame .away h2 {
+  padding-left: 30px;
+}
+
+#ygs-match_header.ingame div.penalty {
+  background: #731919;
+  width: 86px;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 77%;
+  font-weight: bold;
+  padding: 4px 0;
+  height: auto;
+  opacity: 1;
+  
+}
+
+#ygs-match_header.ingame .bd div.time p{
+  padding-right: 0;
+  margin-top: 0;
+  color : #FFF;
+}
+
+#ygs-match_header.ingame p.vs,
+#ygs-match_header.postgame p.vs {
+  left: 22px;
+  top: 72px;
+  font-size: 153.9%;
+}
+
+#ygs-match_header.ingame .time .digit,
+#ygs-match_header.ingame .time .comma-gray,
+#ygs-match_header.ingame .time .minutes-extra-comma-white,
+#ygs-match_header.ingame .time .plus {
+  background: url(../images/1.png) no-repeat;
+  font-size: 153.9%;
+  font-weight: bold;
+  display: inline-block;
+  width: 13px;
+  height: 18px;
+  text-indent: -1000em;
+  *text-indent : 15px;
+   zoom: 1;
+  overflow: hidden;
+}
+
+#ygs-match_header.ingame .time .comma-gray,
+#ygs-match_header.ingame .time .minutes-extra-comma-white {
+  background-position: -166px 0;
+  width: 4px;
+}
+
+#ygs-match_header.ingame .time .minutes-extra-comma-white {
+  background-position: -166px -19px;
+}
+
+#ygs-match_header.ingame .time .plus {
+  background-position: -178px -18px;
+  width: 10px;
+}
+
+#ygs-match_header.ingame .time .d-0 {
+  background-position: -2px 0;
+  width: 13px;
+}
+
+#ygs-match_header.ingame .time .d-1 {
+  background-position: -18px 0;
+  width: 9px;
+}
+
+#ygs-match_header.ingame .time .d-2 {
+  background-position: -35px 0;
+  width: 10px;
+}
+
+#ygs-match_header.ingame .time .d-3 {
+  background-position: -50px 0;
+  width: 10px;
+}
+
+#ygs-match_header.ingame .time .d-4 {
+  background-position: -66px 0;
+  width: 12px;
+}
+
+#ygs-match_header.ingame .time .d-5 {
+  background-position: -82px 0;
+  width: 11px;
+}
+
+#ygs-match_header.ingame .time .d-6 {
+  background-position: -99px 0;
+  width: 11px;
+}
+
+#ygs-match_header.ingame .time .d-7 {
+  background-position: -115px 0;
+  width: 11px;
+}
+
+#ygs-match_header.ingame .time .d-8 {
+  background-position: -131px 0;
+  width: 11px;
+}
+
+#ygs-match_header.ingame .time .d-9 {
+  background-position: -146px 0;
+  width: 11px;
+}
+
+#ygs-match_header.ingame .time .dw-0 {
+  background-position: -2px -19px;
+  width: 13px;
+}
+
+#ygs-match_header.ingame .time .dw-1 {
+  background-position: -20px -19px;
+  width: 9px;
+}
+
+#ygs-match_header.ingame .time .dw-2 {
+  background-position: -35px -19px;
+  width: 10px;
+}
+
+#ygs-match_header.ingame .time .dw-3 {
+  background-position: -50px -19px;
+  width: 10px;
+}
+
+#ygs-match_header.ingame .time .dw-4 {
+  background-position: -66px -19px;
+  width: 12px;
+}
+
+#ygs-match_header.ingame .time .dw-5 {
+  background-position: -82px -19px;
+  width: 11px;
+}
+
+#ygs-match_header.ingame .time .dw-6 {
+  background-position: -99px -19px;
+  width: 11px;
+}
+
+#ygs-match_header.ingame .time .dw-7 {
+  background-position: -115px -19px;
+  width: 11px;
+}
+
+#ygs-match_header.ingame .time .dw-8 {
+  background-position: -131px -19px;
+  width: 11px;
+}
+
+#ygs-match_header.ingame .time .dw-9 {
+  background-position: -146px -18px;
+  width: 11px;
+}
+
+#ygs-match_header.ingame div.game-status,
+#ygs-match_header.postgame div.game-status {
+  display: block;
+}
+
+#ygs-match_header.ingame div.half-time {
+  width: 86px;
+  font-size: 83%;
+  font-weight: bold;
+  padding: 9px 0;
+  height: auto;
+}
+
+#ygs-match_header.ingame div.half-time-status {
+  display: none;
+}
+
+/* @group postgame */
+
+#ygs-match_header.postgame div.time {
+  width: 86px;
+  font-size: 83%;
+  font-weight: bold;
+  padding: 9px 0;
+  height: auto;
+}
+
+

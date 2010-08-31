@@ -1,0 +1,52 @@
+/*
+-----------------------------------------------
+Navigation
+----------------------------------------------- */
+
+/* navigation (horizontal subnavigation)
+----------------------------------------------- */
+
+ul.nav li {
+	float:right;
+}
+ul.nav li ul {
+	top:-9000px;
+}
+
+ul.nav li a {
+	float:right;
+}
+
+
+
+ul.nav li:hover ul {top:2.5em;}
+
+
+ul.nav li.current ul {top:2.5em;}
+
+
+/* navigation (vertical subnavigation)
+----------------------------------------------- */
+
+ul.main li {
+   top:0;
+}
+
+ul.main li ul li {
+  float:right;
+}
+
+/* secondary list
+----------------------------------------------- */
+ul.nav li.secondary {
+	float:left;
+}
+ul.nav li.secondary span.status {
+	float:right;
+}
+
+
+
+#hd ul.main li a {
+text-align:right;
+}

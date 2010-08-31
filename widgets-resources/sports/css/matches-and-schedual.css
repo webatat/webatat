@@ -1,0 +1,297 @@
+.hd {
+  background: #ebebeb;
+  border-top: 3px solid #487425;
+  padding: 15px 10px;
+  border-bottom: 1px solid #d7d7d7;
+  position: relative;
+}
+
+div.ygs-fixtures h2, div.ygs-fixtures h5 {
+color:#262626;
+margin:0;
+}
+
+
+.hd div:after {
+  content: "."; height: 0; display: block; visibility: hidden; clear: both;
+}
+
+div.ygs-fixtures .bd {
+  padding:0;
+}
+
+#bd div.ygs-fixtures .ft{
+  border-top:0;
+}
+
+
+div.ygs-fixtures li {
+list-style:none outside none;
+margin : 0;
+}
+div.ygs-fixtures .groups {
+  background: #dedede url(http://l.yimg.com/a/i/sp/global/wc/sprite/5.png) -380px bottom;
+  height:44px;
+  margin-bottom:15px;
+}
+
+div.ygs-fixtures .groups a {
+  padding: 10px 10px 10px 10px;
+  margin: 0 5px 0 0;
+  display: block;
+  font-size:93%;
+  color:#0069aa;
+}
+
+div.ygs-fixtures .groups ol {
+  zoom: 1;
+  padding-left:5px;
+}
+
+
+div.ygs-fixtures .hd .title h3{
+  font-size:138.5%;
+  font-weight:bold;
+  padding:20px 0 0 8px;
+}
+
+div.ygs-fixtures .hd .title{
+	border-bottom:1px solid #e7e7e7;
+	margin-bottom:3px;
+	height:45px;
+}
+
+div.ygs-fixtures h5 {
+  font-weight: bold;
+  color: #242723;
+  border-bottom: 1px solid #e7e7e7;
+  padding: 25px 0 4px 10px;
+  font-size: 93%;
+}
+
+div.ygs-fixtures .bd div{
+  float:left;
+  line-height:44px;
+}
+
+div.ygs-fixtures .bd .time{
+  color: #262626;
+  font-weight: bold;
+  font-size: 85%;
+  line-height: 1em;
+  padding: 14px 0 0;
+  width: 110px;
+}
+
+div.ygs-fixtures .bd .time span {
+  float: left;
+}
+
+div.ygs-fixtures .bd .time span.phase {
+  color: #7D7D7D;
+  font-weight: bold;
+  float: none;
+}
+
+div.ygs-fixtures .bd strong{
+  display:inline-block;
+  width:129px;
+  text-align:left;
+  font-size:93%;
+ _font-size: 85%;
+  color:#000;
+  font-weight:bold;
+}
+
+div.ygs-fixtures .bd strong.home {
+  text-align: right;
+}
+
+div.ygs-fixtures strong.home .flag-disc {
+  float: right;
+  text-align: left;
+}
+
+div.ygs-fixtures .bd .teams a{
+  color:#000;
+}
+
+#bd div.ygs-fixtures .bd li a:hover,
+#bd div.ygs-fixtures .bd li:hover {
+  cursor:pointer;
+  background: #FDFAEE;
+}
+
+#bd div.ygs-fixtures .bd li:hover .teams strong,
+#bd div.ygs-fixtures .bd li:hover .teams .vs {
+  text-decoration:underline;
+}
+
+div.ygs-fixtures .bd .teams .away{
+  text-align: left;
+}
+
+div.ygs-fixtures .bd .teams .flag-disc{
+  margin:8px 0 8px 8px;
+}
+
+div.ygs-fixtures .bd .teams .away .flag-disc{
+  margin:8px 8px 8px 0;
+  float: left;
+}
+
+div.ygs-fixtures .bd .teams .vs{
+  font-size: 93%;
+  display: inline-block;
+  width: 40px;
+  color: #000;
+}
+
+div.ygs-fixtures .bd .teams .score{
+}
+
+div.ygs-fixtures .bd .comments{
+  font-size:85%;
+  color:#0069aa;
+}
+
+div.ygs-fixtures .bd li{
+  border: 1px solid #EBEBEB;
+  border-bottom: 1px dotted #E7E7E7;
+  border-top: none;
+  padding: 0 10px;
+  *zoom:1;
+}
+
+div.ygs-fixtures .bd li.before {
+  background: #FCFCFC;
+  border: 1px solid #FFF;
+  border-bottom: 1px dotted #E7E7E7;
+}
+
+div.ygs-fixtures .bd li.during {
+  border-bottom: 3px solid #E9E9E9;
+}
+
+div.ygs-fixtures .bd li.after {
+  background: #e8e8e8;
+  margin-bottom: 1px;
+}
+
+div.ygs-fixtures .bd li.during .time {
+  padding: 13px 0 0;
+}
+
+div.ygs-fixtures .bd .teams{
+  position:relative;
+  text-align:center;
+  width:312px;
+  padding:0;
+}
+
+div.ygs-fixtures .bd .location {
+  text-align:right;
+  color: #7e7e7e;
+  font-size: 85%;
+  line-height: 1em;
+  width: 155px;
+  padding-top: 12px;
+}
+
+div.ygs-fixtures .bd .game-number {
+  width: 31px;
+  color: #7e7e7e;
+  font-size: 85%;
+}
+
+div.ygs-fixtures .bd ul{
+  *zoom:1;
+}
+
+div.ygs-fixtures .groups li.first {
+  border-left: none;
+}
+
+div.ygs-fixtures .groups li.last {
+  border-right: none;
+}
+
+div.ygs-fixtures .groups li.selected a {
+  background: #fff;
+  font-weight: bold;
+  color:#000;
+}
+
+div.ygs-fixtures .teams .match {
+  position:absolute;
+  top:0;
+  left:0;
+  font-size:85%;
+  color:#5c5c5c;
+}
+
+div.ygs-fixtures .groups li {
+  float: left;
+  margin-top:10px;
+  border-right: 1px solid #d0d0d0;
+  border-left: 1px solid #eaeaea;
+}
+
+div.ygs-fixtures .bd .location {
+  width: 155px;
+}
+
+div.ygs-fixtures .bd .location span {
+  line-height: 1em;
+}
+
+div.ygs-fixtures .bd .location span {
+  display: block;
+}
+
+div.ygs-fixtures .bd .time .start-time,
+div.ygs-fixtures .bd .location .city {
+  font-weight: normal;
+  margin-top: 3px;
+  _width: 100%;
+}
+
+div.ygs-fixtures span span.lv {
+  background:url("http://l.yimg.com/a/i/sp/global/wc/sprite/9.png") no-repeat scroll -1968px -640px transparent;
+  display:block;
+  float:left;
+  height:12px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  margin-right:4px;
+  overflow:hidden;
+  text-indent:-1000em;
+  width:32px;
+}
+
+.ysp-body div.ygs-fixtures .live {
+  background: none;
+  padding: 4px 0 0;
+}
+
+div.ygs-fixtures .bd li.penalty .game-number {
+  width: 25px;
+}
+
+div.ygs-fixtures .bd li.penalty .time {
+  width: 80px;
+}
+
+div.ygs-fixtures .bd li.penalty .teams {
+  width: 342px;
+}
+
+div.ygs-fixtures .bd li.penalty .teams .score {
+  width: 60px;
+}
+
+div.ygs-fixtures .groups ul:after,
+div.ygs-fixtures .bd li:after {
+  content: "."; height: 0; display: block; visibility: hidden; clear: both;
+}

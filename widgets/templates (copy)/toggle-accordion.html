@@ -1,0 +1,15 @@
+<div class="box">
+	<h2>
+		<a href="#" id="toggle-accordion">{{ accordion.title }}</a>
+	</h2>
+	<div class="block" id="accordion">
+		<div id="accordion">
+			{% for item in accordion.content.items %}
+				<h3 class="toggler atStart">{{ item.title }}</h3>
+				<div class="element atStart">
+					{{ item.html|safe }}
+				</div>
+			{% endfor %}			
+		</div>
+	</div>
+</div>

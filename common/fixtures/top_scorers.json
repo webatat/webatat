@@ -1,0 +1,58 @@
+[{"pk": "nawadena.com/sport_top_scorers/1", 
+	"model": "common.Widget", 
+	"fields":{
+ 			"website" : "nawadena.com",
+			"name" : "1",
+			"wtype" : "sport_top_scorers",
+			"title" : "<span>أفضل</span> الهدافين",			
+  			"content" : { 
+						"titles" : 
+						[ 
+							{
+								"title": "البلد والاسم",
+								"extra" : {"thCssClass" : "first"}
+							},
+							{
+								"title": "مجموع الأهداف"
+							}
+
+						],
+						"players" : 
+						[
+							{
+								"country" : "ألمانيا",
+								 "flag" : "flag-ger",
+								 "name" : "توماس مولار",
+								 "goals" : "5",
+								 "extra" : {"trCssClass" : "first"}
+							},
+							{    
+								"country" : "إسبانيا",
+								 "flag" : "flag-esp",
+								 "name" : "دايفيد فيلا",
+								 "goals" : "5"
+							},
+							{    
+								"country" : "Netherlands",
+								 "flag" : "flag-ned",
+								 "name" : "ويسلي سينجر",
+								 "goals" : "5"
+							},
+							{    
+								"country" : "الأوروجواي",
+								 "flag" : "flag-uru",
+								 "name" : "ديياجو فورلان",
+								 "goals" : "5"
+							},
+							{    
+								"country" : "الأرجنتين",
+								 "flag" : "flag-arg",
+								 "name" : "جونزولا",
+								 "goals" : "4"
+							}
+						]
+				}
+		  			
+		 }
+  }
+]

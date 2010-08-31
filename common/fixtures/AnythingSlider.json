@@ -1,0 +1,32 @@
+[{"pk": "nawadena.com/anythingslider/main", 
+	"model": "common.Widget", 	
+	"fields":{"wtype" : "anythingslider",
+		  "website" : "nawadena.com",
+                  "name" : "main",
+                  "title" : "صور منوعة",	
+		  "content" : {	"slides" : [
+						{
+							"content" : "<img src='http://farm3.static.flickr.com/2751/4138211812_9c2f66efbd_z.jpg' alt='' />"
+						},
+						{
+							"content" : "<img src='http://farm4.static.flickr.com/3250/4563213802_0958d30060_z.jpg' alt='' />"
+						},
+						{
+							"content" : "<img src='http://farm3.static.flickr.com/2672/3706178184_c35f42ebc9_z.jpg' alt='' />"
+						},
+						{
+							"content" : "<img src='http://farm4.static.flickr.com/3598/3499502280_a1a8ce4474_z.jpg' alt=''  />"
+						},
+						{
+							"content" : "<img src='http://farm4.static.flickr.com/3650/3608253791_97c9d2ef75_z.jpg' alt='' />"
+						},
+						{
+							"content" : " <img src='http://farm4.static.flickr.com/3655/3599737273_39046ce019_z.jpg' alt='' />"
+						}
+					]		
+		   	     }
+		 }
+				
+	
+  }
+]

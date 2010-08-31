@@ -1,0 +1,157 @@
+#ygs-team_roster th { padding: 5px; color: #595959; font-size: 85%; }
+
+#ygs-team_roster th.roster { visibility: hidden; }
+#ygs-team_roster thead { border-bottom: 1px solid #cdcdcd; }
+
+#bd #ygs-team_roster .ft {
+  display: none;
+}
+
+#ygs-team_roster table {
+  width: 100%;
+}
+
+#ygs-team_roster .bd {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#ygs-team_roster dt {
+  font-weight: bold;
+  border-bottom: 1px dotted #dadada;
+  padding: 3px 0 3px 3px;
+  
+}
+
+#ygs-team_roster dl {
+  margin-bottom: 10px;
+  padding-left: 5px;
+}
+
+#ygs-team_roster dd {
+  border-bottom: 1px dotted #dadada;
+  padding: 3px 0 3px 3px;
+  color: #525252;
+}
+
+#ygs-team_roster .bd table {
+
+}
+
+#ygs-team_roster th.goals span,
+#ygs-team_roster th.yellow span,
+#ygs-team_roster th.red span {
+  display: block;
+  overflow: hidden;
+  text-indent: -1000em;
+  background: red;
+  width: 20px;
+  height: 24px;
+  background: url(../images/7.png);
+  margin: 0 auto;
+}
+
+#ygs-team_roster .hd h2 {
+  width: 50%;
+  float: left;
+}
+
+#ygs-team_roster .hd div {
+  zoom: 1;
+}
+
+#ygs-team_roster .hd div:after {
+  content: "."; height: 0; display: block; visibility: hidden; clear: both;
+}
+
+#ygs-team_roster .hd .status {
+  float: right;
+  line-height: 23px;
+  color: #85877c;
+  font-size: 85%;
+}
+
+#ygs-team_roster.rsa th.roster {
+  line-height: 24px;
+}
+
+#ygs-team_roster.rsa th.roster .flag-disc {
+  float: left;
+  margin-right: 3px;
+}
+
+#ygs-team_roster th {
+  color: #757575;
+}
+
+#ygs-team_roster th.goals span {
+  background-position: -468px -402px;
+}
+
+#ygs-team_roster th.yellow span {
+  background-position: -4448px -402px;
+}
+
+#ygs-team_roster th.red span {
+  background-position: -428px -402px;
+}
+
+#ygs-team_roster td { color: #696866; padding: 4px; }
+
+#ygs-team_roster tr h4 {
+  border-bottom: 1px dotted #dadada;
+}
+
+#ygs-team_roster td.num {
+  font-weight: bold;
+  width: 1.5em;
+}
+
+#ygs-team_roster td.name { padding-left: 5px; padding-right: 5px; }
+
+#ygs-team_roster table .stat {
+  width: 30px;
+}
+
+#ygs-team_roster td.stat {
+  text-align: center;
+}
+
+#ygs-team_roster table .rating {
+  width: 60px;
+}
+
+#ygs-team_roster td.rating {
+  text-align: center;
+}
+
+#ygs-team_roster table .played {
+  width: 40px;
+}
+
+#ygs-team_roster td.played {
+  text-align: center;
+}
+
+#ygs-team_roster tbody tr.th {
+  border: none;
+  padding-top: 0;
+}
+
+#ygs-team_roster tr.first {
+  padding-top: 10px;
+}
+
+#ygs-team_roster tr {
+   border-bottom: 1px dotted #dadada;
+}
+
+#ygs-team_roster tr.th td { padding: 0; }
+#ygs-team_roster td.stat { text-align: center; }
+
+#ygs-team_roster .bd tr.first h4 { margin-top: 0; }
+#ygs-team_roster tr.th h4 { color: #000; font-weight: bold; font-size: 93%; margin: 10px 0 0 0; padding: 5px; } #bd #ygs-tournament_standings.ysp-mod .bd{
+  padding: 0;
+}
+
+

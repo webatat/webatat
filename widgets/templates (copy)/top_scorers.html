@@ -1,0 +1,36 @@
+<div class="yui-sub">
+	<div class="yui-b">
+		<div id="ygs-top_scorers" class="ysp-mod ygs-top_scorers">
+			<div class="hd">
+				<div>
+					<h2>{{ topscorers.title|safe }}</h2>
+				</div>
+			</div>
+			<div class="bd">
+				<table>
+					<thead>
+						<tr>
+							{% for th in topscorers.content.titles %}
+								<th class="{{ th.extra.thCssClass }}">{{ th.title|safe }}</th>
+							{% endfor %}
+						</tr>
+					</thead>
+					<tbody>              
+						{% for player in topscorers.content.players%}
+							<tr class="{{ player.extra.trCssClass }}">
+								<td class="player">
+								<span class="flag-disc"><span title="{{ player.country }}" class="{{ player.flag }}">Flag of</span></span>
+								{{ player.name }}
+								</td>
+								<td>{{ player.goals }}</td>
+							</tr>    
+						{% endfor %} 
+					</tbody>
+				</table>
+			</div>
+			<div class="ft">
+			</div>
+		</div>
+	</div>
+</div>
+

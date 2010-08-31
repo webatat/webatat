@@ -1,0 +1,43 @@
+[
+	{
+		"pk": "nawadena.com/featureList/main", 
+		"model": "common.Widget",		
+		"fields":
+			{
+				"wtype" : "featureList",
+               			"website" : "nawadena.com",
+                		"name" : "main",
+				"title" : "title",
+				"content" : {
+						"items": 	
+							[
+								{
+									"title" : "البرازيل تهزم تنزانيافي مباراة ودية",
+									"subtitle" : "تغلبت البرازيل على مضيفتها تنزانيا 5-1 في مباراة ودية ضمن استعدادات بطلة العالم خمس مرات لخوض....المزيد",
+									"author" : "إيهاب",
+									"link" : "/article/article4",
+									"thumbnail_image" : "http://farm5.static.flickr.com/4094/4852714272_6172fa30e3_t.jpg",
+									"image" : "http://farm5.static.flickr.com/4094/4852714272_6172fa30e3.jpg"
+								},
+								{
+									"title" : "جيريتس يؤكد توقيعه للمغرب والهلال ينفي ",
+									"subtitle" : "فاجأ البلجيكي إيريك جيريتس مدرب فريق الهلال الكروي، ناديه بإعلانه توصله لاتفاق نهائي مع المسؤولين....المزيد",
+									"link" : "/article/article5",
+									"author" : "إيهاب",
+									"thumbnail_image" : "http://farm5.static.flickr.com/4102/4852094741_b6ba161e1c_t.jpg",
+									"image" : "http://farm5.static.flickr.com/4102/4852094741_b6ba161e1c.jpg"
+								},
+						                {
+									"title" : "حرس الحدود يحرز كأس مصر لكرة القدم للمرة الثانية",
+									"subtitle" : "توج حرس الحدود بطلا لكأس مصر لكرة القدم للمرة الثانية على التوالي بعد أن صمد أمام ضغط الاهلي بطل....المزيد",
+									"link" : "/article/article6",
+									"author" : "إيهاب",
+									"thumbnail_image" : "http://farm5.static.flickr.com/4079/4852094771_80f9a796ff_t.jpg",
+									"image" : "http://farm5.static.flickr.com/4079/4852094771_80f9a796ff.jpg"
+								}
+					
+							]
+					      }
+			}
+ 	}
+]

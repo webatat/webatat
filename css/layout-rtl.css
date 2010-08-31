@@ -1,0 +1,23 @@
+th, td {
+	text-align:right;
+}
+
+blockquote {
+	border-right:4px solid #CCCCCC;
+	border-left:0px solid #CCCCCC;
+	padding-right:1em;
+}
+
+fieldset.login p label {
+	float:right;
+}
+
+.article a.image {
+	float:right;
+	margin:3px 0 3px 10px;
+
+}
+
+input.search.button {
+float:right
+}

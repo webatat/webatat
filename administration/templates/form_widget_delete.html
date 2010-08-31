@@ -1,0 +1,19 @@
+{% extends 'administration/templates/base-admin.html' %}
+{% block adminform %}	
+<div class="grid_16" >
+	<div id="delete-widget">
+	  <form id="form-delete-widget" action="" method="POST">
+	    <div>
+		<p>Are you sure you want to delete  <h3>{{ pk }}</h3>
+ 		</p>
+		<input type="hidden" name="pk" value="{{ pk }}" />
+
+	    </div>
+	    <div class="buttons">	     
+	      	<input type="submit" value="Delete Widget" />   
+		<a href="/_admin/update/widget/"> cancel </a>	     
+	    </div>
+	  </form> 
+	</div>
+</div>
+{% endblock %}	

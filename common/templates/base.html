@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+{% load i18n %}
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>{% block title %}{% endblock %}</title>
+		<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/reset.css" static="screen" />
+		<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/text.css" static="screen" />
+		{% ifequal LAYOUT  'FIXED' %}
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/960.css" static="screen" />
+		{% else %}
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/grid.css" static="screen" />
+		{% endifequal %}
+
+		
+		<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/layout.css" static="screen" />
+		<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/nav.css" static="screen" />
+ 		<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/themes/{{DEFAULT_THEME|urlencode}}/css/screen.css" media="screen,projection" />
+		<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/ie6.css" static="screen" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/ie.css" static="screen" /><![endif]-->
+		{% get_current_language_bidi as LANGUAGE_BIDI %}
+		{% if LANGUAGE_BIDI %}
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/nav-rtl.css" static="screen" />
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/layout-rtl.css" static="screen" />
+		       	<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/css/text-rtl.css" static="screen" />
+			<link rel="stylesheet" type="text/css" href="http://{{DOMAIN}}/themes/{{DEFAULT_THEME|urlencode}}/css/screen-rtl.css" media="screen,projection" />
+		{% endif %}
+
+
+		{# per-user custom background #}
+		  
+		<style type="text/css">
+			body {		
+			}
+			{% block style %}
+			{% endblock %}
+		</style>
+	{% block head %}
+	{% endblock %}
+	</head>
+	<body {% block bodytag %}{% endblock %}>
+
+		{% block body %}
+		{% endblock %}
+	
+		{% ifequal LIBRARY 'mootools' %}
+			<script type="text/javascript" src="http://{{DOMAIN}}/js/mootools-1.2.1-core.js"></script>
+			<script type="text/javascript" src="http://{{DOMAIN}}/js/mootools-1.2-more.js"></script>
+			<script type="text/javascript" src="http://{{DOMAIN}}/js/mootools-fluid16-autoselect.js"></script>
+		{% endifequal %}
+		{% ifequal LIBRARY 'jquery'%}
+			<script type="text/javascript" src="http://{{DOMAIN}}/js/jquery-1.3.2.min.js"></script>
+			<script type="text/javascript" src="http://{{DOMAIN}}/js/jquery-ui.js"></script>
+			<script type="text/javascript" src="http://{{DOMAIN}}/js/jquery-fluid16.js"></script>
+		{% endifequal %}
+		{% block scripts %}
+		{% endblock %}
+	</body>
+</html>

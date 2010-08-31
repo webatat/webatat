@@ -1,0 +1,201 @@
+#ygs-match_roster.ysp-mod {
+  border-bottom: 1px solid #ddd;
+  margin-top: 15px;
+}
+
+#ygs-match_roster .hd {
+  position: relative;
+}
+
+#ygs-match_roster .hd .status {
+  position: absolute;
+  right: 10px;
+  color: #818073;
+  font-size: 85%;
+  top: 14px;
+}
+
+ #ygs-match_roster .bd {
+  background: #efefef;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: none;
+  padding: 0;
+}
+
+#ygs-match_roster h3 {
+  display: block;
+  text-align: center;
+  padding: 10px 0 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#ygs-match_roster h3 a {
+  font-weight: bold;
+  font-size: 123.1%;
+  display: block;
+  padding: 50px 0 5px;
+}
+
+#ygs-match_roster span.manager {
+  font-size: 93%;
+  color: #464646;
+  font-weight: normal;
+  display: block;
+  text-align: center;
+  padding: 0 0 10px;
+}
+
+#ygs-match_roster .bd .teams {
+  background: url(../images/7.png) no-repeat -1372px -1732px;
+  zoom: 1;
+}
+
+#ygs-match_roster .bd .teams:after {
+  content: "."; height: 0; display: block; visibility: hidden; clear: both;
+}
+
+#ygs-match_roster .bd .roster {
+  border-top: 3px solid #909090;
+  color: #101010;
+}
+
+#ygs-match_roster .bd .team {
+  float: left;
+  width: 310px;
+}
+
+#ygs-match_roster .bd .team dl {
+  margin: 5px 0;
+  background: #fff;
+  padding: 5px;
+  margin-left: 5px;
+}
+
+#ygs-match_roster .bd .team dl .num {
+  font-weight: bold;
+  color: #525252;
+  display: inline-block;
+  width: 1.5em;
+}
+
+#ygs-match_roster .bd .team dt {
+  font-weight: bold;
+  border-bottom: 1px solid #ddd;
+  padding: 3px 3px 3px 0;
+}
+
+#ygs-match_roster .bd .team dd {
+  border-top: 1px dotted #dfdfdf;
+  padding: 3px 3px 3px 0;
+  overflow: hidden;
+  display: block;
+  zoom: 1;
+}
+
+#ygs-match_roster .bd .team dd.first {
+  border-top: none;
+}
+
+#ygs-match_roster .bd .team dl.strikers {
+  margin-bottom: 0;
+}
+
+#ygs-match_roster .bd .team dl.strikers dt.tbd{
+  padding: 50px 0;
+  color: #BABABA;
+  text-align: center;
+  display: block;
+}
+
+#ygs-match_roster .bd .teams .away {
+  float: right;
+}
+
+#ygs-match_roster .bd .teams .away dl {
+  margin-right: 5px;
+  margin-left: 0;
+}
+
+
+ #ygs-match_roster .ft {
+  background: #efefef;
+  border-top: none;
+  padding-left: 0;
+  padding-right: 0;  
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+
+
+#ygs-match_roster .ft dl {
+  text-align: center;
+  border-top: 1px solid #d7d7d7;
+  margin: 0 5px;
+  padding: 10px 0 0 0;
+}
+
+#ygs-match_roster .ft dt,
+#ygs-match_roster .ft dd {
+  display: inline;
+  color: #1d1d1d;
+}
+
+#ygs-match_roster .ft dt {
+  font-weight: bold;
+}
+
+#ygs-match_roster .ft dd.ref span {
+  padding-right: 10px;
+}
+
+#ygs-match_roster .bd dd span,
+#ygs-match_roster .bd dd b {
+  float: left;
+  display: block;
+}
+
+#ygs-match_roster .bd dd b {
+  margin: 0 3px;
+}
+
+#ygs-match_roster span.event {
+  width: 11px;
+  height: 14px;
+  text-indent: -1000em;
+  overflow: hidden;
+  margin: 0 5px;
+  background: url(../images/3.png) no-repeat 0 200px;
+}
+
+#ygs-match_roster span.red {
+  background-position: -386px -105px;
+}
+
+#ygs-match_roster span.yellow {
+  background-position: -386px -73px;
+}
+
+#ygs-match_roster span.yellowred {
+  background-position: -374px -520px;
+  width: 25px;
+}
+
+#ygs-match_roster span.sub {
+  background-position: -385px -136px;
+  width: 14px;
+}
+
+#ygs-match_roster span.own-goal {
+  background-position: -385px -583px;
+  height: 15px;
+  width: 14px;
+}
+
+#ygs-match_roster span.goal {
+  background-position: -385px 0;
+  height: 15px;
+  width: 15px;
+}
+

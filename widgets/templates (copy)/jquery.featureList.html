@@ -1,0 +1,28 @@
+<div id="feature_content">		
+	<div id="feature_list">
+		<ul id="tabs">
+			{% for item in featurelist.content.items%}
+			<li>
+				<a href="javascript:;">
+					<img src="{{ item.thumbnail_image }}" width="100" height="64" />
+					<h3>{{ item.title }}</h3>
+					<span>بقلم:</span><span> {{ item.author }}</span>
+					
+				</a>
+			</li>			
+			{% endfor %}
+		</ul>
+		<ul id="output">
+			{% for item in featurelist.content.items%}
+			<li>				
+				<img src="{{ item.image }}" width="355" height="240" />
+				<a href="{{ item.link }}">
+				<h2>{{ item.title }}</h2>
+					<span>{{ item.subtitle }}</span></a>				
+			</li>			
+			{% endfor %}			
+		</ul>
+
+	</div>
+</div>
+

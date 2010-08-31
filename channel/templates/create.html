@@ -1,0 +1,25 @@
+{% extends 'common/templates/base_sidebar.html' %}
+{% load avatar nonce %}
+{% load i18n %}
+{% block title %}{% trans 'Create Channel' %}{% endblock %}
+
+{% block content %}
+  <h1>{% trans 'Create a Channel' %}</h1>
+  {% include 'form_error.html' %}
+  <form action="" method="post">
+    {{request.user|noncefield:"channel_create"}}
+    <input type="hidden" name="nick" value="{{request.user.nick}}" />
+    <input type="hidden" name="channel_create" value="" />
+    <div>
+      <label for="channel">{% trans 'Name of the channel' %}</label>
+      <input type="text" name="channel" id="channel" class="text" 
+          value="{{channel}}" />
+      <p class="help">
+        {% trans 'Please use only letters and numbers.' %}
+      </p>
+    </div>
+    <div class="buttons">
+      <input type="submit" value="{% trans 'Create' %}"/>
+    </div>
+  </form>
+{% endblock %}

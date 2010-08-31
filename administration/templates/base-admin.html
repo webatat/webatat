@@ -1,0 +1,158 @@
+{% extends 'common/templates/base.html' %}
+{% load i18n %}
+{% block title %} {{SITE_NAME}} {% endblock %}
+{% block head %}
+
+<script type="text/javascript">
+
+
+function trim_leading_comments(str)
+{
+    // very basic. doesn't support /* ... */
+    str = str.replace(/^(\s*\/\/[^\n]*\n)+/, '');
+    str = str.replace(/^\s+/, '');
+    return str;
+}
+
+function unpacker_filter(source)
+{
+
+   
+
+        var stripped_source = trim_leading_comments(source);
+        var unpacked = '';
+
+        if (P_A_C_K_E_R.detect(stripped_source)) {
+            unpacked = P_A_C_K_E_R.unpack(stripped_source);
+            if (unpacked !== stripped_source) {
+                return unpacker_filter(unpacked);
+            }
+        }
+
+        if (EscapedBookmarklet.detect(source)) {
+            unpacked = EscapedBookmarklet.unpack(source);
+            if (unpacked !== stripped_source) {
+                return unpacker_filter(unpacked);
+            }
+        }
+
+        if (JavascriptObfuscator.detect(stripped_source)) {
+            unpacked = JavascriptObfuscator.unpack(stripped_source);
+            if (unpacked !== stripped_source) {
+                return unpacker_filter(unpacked);
+            }
+        }
+
+    return source;
+
+}
+
+function do_js_beautify()
+{
+    var js_source = document.getElementById('content').value.replace(/^\s+/, '');
+    var indent_size = 2;
+    var indent_char = ' ';
+    var preserve_newlines = false;
+    var keep_array_indentation = false;
+    var braces_on_own_line = true;
+
+    if (indent_size == 1) {
+        indent_char = '\t';
+    }
+
+
+    if (js_source && js_source[0] === '<' && js_source.substring(0, 4) !== '<!--') {
+        document.getElementById('content').value = style_html(js_source, indent_size, indent_char, 80);
+    } else {
+        document.getElementById('content').value =
+        js_beautify(unpacker_filter(js_source), {
+            indent_size: indent_size,
+            indent_char: indent_char,
+            preserve_newlines:preserve_newlines,
+            braces_on_own_line: braces_on_own_line,
+            keep_array_indentation:keep_array_indentation,
+            space_after_anon_function:true});
+    }
+
+    return false;
+}
+
+</script>
+<script type="text/javascript" src="/js/beautify/beautify.js" ></script>
+<script type="text/javascript" src="/js/beautify/beautify-html.js" ></script>
+<script type="text/javascript" src="/js/beautify/unpackers/javascriptobfuscator_unpacker.js" ></script>
+<script type="text/javascript" src="/js/beautify/unpackers/bookmarklet_unpacker.js" ></script>
+<script type="text/javascript" src="/js/beautify/unpackers/p_a_c_k_e_r_unpacker.js" ></script>
+{% endblock %}
+
+{% block scripts %}
+<script type="text/javascript" src="/js/textarearesizer/jquery.textarearesizer.compressed.js"></script>
+		<script type="text/javascript">
+			/* jQuery textarea resizer plugin usage */
+			$(document).ready(function() {
+				$('textarea.resizable:not(.processed)').TextAreaResizer();
+				$('iframe.resizable:not(.processed)').TextAreaResizer();
+			});
+		</script>
+{% endblock %}
+
+{% block style %}
+	body {
+		direction:ltr;
+	}
+
+	dt:after {
+		content: ":";
+	}
+        a{ color:#008CFF;}
+
+	div.grippie {
+		background:#EEEEEE url(/images/grippie.png) no-repeat scroll center 2px;
+		border-color:#DDDDDD;
+		border-style:solid;
+		border-width:0pt 1px 1px;
+		cursor:s-resize;
+		height:9px;
+		overflow:hidden;
+	}
+	.resizable-textarea textarea {
+		display:block;
+		margin-bottom:0pt;
+		width:95%;
+		height: 20%;
+	}
+
+	#pk{color:#f00;font-weight:bold;}
+a.delete{color:#f00;font-weight:bold;}
+
+{% endblock %}
+{% block body %}
+
+<div id="hd" class="container_16 clrearfix">
+	<div class="grid_11">
+		{% include 'widgets/templates/branding.html' %}
+	</div>
+	<div class="grid_5">
+		
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16">
+               {% include 'widgets/templates/navigation/nav.html' %}			
+	</div> 
+	<div class="clear"></div>
+</div> 
+
+<div  id="container" class="container_16 clrearfix">
+	<div class="grid_16">
+		<h1>ADMINISTRATION</h1>
+		{% block adminform %}			
+		{% endblock %}		
+	</div>
+
+<div class="clear"></div>
+	<div class="grid_16" id="site_info">
+		{% include 'widgets/templates/site_info.html' %} 		
+	</div>
+<div class="clear"></div>
+</div>
+{% endblock %}

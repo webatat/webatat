@@ -1,0 +1,44 @@
+#ygs-match_header .bd .team {
+float:right;
+}
+
+#ygs-match_header .bd .away {
+float:left;
+}
+
+
+#ygs-match_header .bd .home h2 {
+
+text-align:left;
+}
+
+#ygs-match_header .bd .away .score {
+right:-12px;
+left:auto;
+}
+
+#ygs-match_header .bd .home .score {
+left:-12px;
+right:auto;
+}
+
+#ygs-match_header.ingame p.vs, #ygs-match_header.postgame p.vs {
+right:27px;
+left:auto;
+}
+
+#ygs-match_header p.vs {
+float:right;
+}
+
+#ygs-match_header .bd p {
+padding-left:30px;
+}
+
+#ygs-match_header h3 span.group {
+float:right;
+}
+
+#ygs-match_header h3 em {
+float:left;
+}

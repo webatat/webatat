@@ -1,0 +1,50 @@
+{% extends 'common/templates/base.html' %}
+{% load i18n %}
+{% block title %} {{SITE_NAME}} {% endblock %}
+{% block head %}
+{% endblock %}
+
+{% block scripts %}	
+{% endblock %}
+{% block body %}
+<div id="hd" class="container_16 clrearfix">
+	<div class="grid_11">
+		{% include 'widgets/templates/branding.html' %}
+	</div>
+	<div class="grid_5">
+		{% include 'widgets/templates/search.html' %} 
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16">
+               {% include 'widgets/templates/navigation/nav.html' %}			
+	</div> 
+	<div class="clear"></div>
+</div> 
+<div id="container" class="container_16 clrearfix">
+
+	<div class="grid_16">
+		{% include 'widgets/templates/page-title.html' %}			
+	</div>
+	<div class="clear"></div>
+	
+
+
+	<div class="clear"></div>
+	<div class="grid_11">	
+		{{ flatPage.content.body|safe }}	
+	</div>
+	<div class="grid_5">
+		{% include 'widgets/templates/navigation/toggle-section-menu.html' %} 
+		{% include 'widgets/templates/toggle-paragraphs.html' %} 
+		{% include 'widgets/templates/navigation/toggle-list-items.html' %} 	
+		
+	</div>
+	
+	<div class="clear"></div>
+	<div class="grid_16" id="site_info">
+		{% include 'widgets/templates/site_info.html' %} 		
+	</div>
+	<div class="clear"></div>
+
+</div>
+{% endblock %}

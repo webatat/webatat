@@ -1,0 +1,19 @@
+div.ygs-fixtures .bd div {
+	float:right;
+}
+
+div.ygs-fixtures .bd .time span {
+	float:right;
+}
+
+div.ygs-fixtures .bd .teams .away {
+	text-align:right;
+}
+
+div.ygs-fixtures .bd strong.home {
+	text-align:left;
+}
+
+div.ygs-fixtures .bd .location {
+	text-align:left;
+}

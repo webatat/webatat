@@ -1,0 +1,70 @@
+[{"pk": "nawadena.com/flatpage/aboutus", 
+	"model": "common.FlatPage", 
+	"fields":{
+		  "website" : "nawadena.com",
+                  "name" : "aboutus",
+		  "title" : "من نحن",
+		  "content" : 
+				{
+					"body":"<h2>من نحن</h2>Welcom to Nawadena"
+				},
+		  "actor" : "ihab",
+		  "createdDate" : "2010-05-05 00:00:00",
+		  "ubdatedDate" : "2010-05-05 00:00:00",
+		  "status" : 1
+		 }
+ },
+ {"pk": "nawadena.com/flatpage/aboutclup", 
+	"model": "common.FlatPage", 
+	"fields":{
+                  "name" : "aboutclup",
+		  "website" : "nawadena.com",
+		  "title" : "حول النادي",
+		  "content" : 
+				{
+					"body":"<h2>حول النادي</h2>مرحبا بك في موقع نوادينا"
+				},
+		  "actor" : "ihab",
+		  "createdDate" : "2010-05-05 00:00:00",
+		  "ubdatedDate" : "2010-05-05 00:00:00",
+		  "status" : 1
+		 }
+ },
+{"pk": "nawadena.com/flatpage/about_champion_shaikh_jasim_cup", 
+	"model": "common.FlatPage", 
+	"fields":{
+                  "name" : "about_champion_shaikh_jasim_cup",
+		  "website" : "nawadena.com",
+		  "title" : "حول بطولة الشيخ جاسم",
+		  "content" : 
+				{
+					"body":"<h2>حول بطولة الشيخ جاسم</h2>"
+				},
+		  "actor" : "ihab",
+		  "createdDate" : "2010-05-05 00:00:00",
+		  "ubdatedDate" : "2010-05-05 00:00:00",
+		  "status" : 1
+		 }
+ },
+{"pk": "nawadena.com/flatpage/about_champion_qatar_stars", 
+	"model": "common.FlatPage", 
+	"fields":{
+                  "name" : "about_champion_qatar_stars",
+		  "website" : "nawadena.com",
+		  "title" : "حول دوري نجوم قطر",
+		  "content" : 
+				{
+					"body":"<h2>حول دوري نجوم قطر</h2>"
+				},
+		  "actor" : "ihab",
+		  "createdDate" : "2010-05-05 00:00:00",
+		  "ubdatedDate" : "2010-05-05 00:00:00",
+		  "status" : 1
+		 }
+ }
+]
+
+
+
+
+

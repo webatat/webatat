@@ -1,0 +1,308 @@
+ #ygs-match_log .hd {
+  border: none;
+  overflow: hidden;
+  background: #000;
+  padding: 0;
+  zoom: 1;
+}
+
+ #ygs-match_log .hd div {
+  padding: 5px 0;
+  overflow: hidden;
+}
+
+ #ygs-match_log .show {
+  display: block;
+}
+
+#ygs-match_log .hd span {
+  float: left;
+  margin-left: 10px;
+  height: 16px;
+  display: none;
+}
+
+#ygs-match_log {
+  background: #191a18;
+  clear: both;
+  _float: left;
+}
+
+#doc5 #yui-main .yui-b #ygs-match_log.ysp-mod {
+  background : #000;
+  margin: 0;
+}
+
+#doc5 #yui-main .yui-b #ygs-match_log.loading .hd span {
+  color: #595959;
+  font-size: 77%;
+  display: block;
+  text-indent: 20px;
+  background: #000 url(../images/5.png) -382px -649px no-repeat;
+  position: relative;
+  padding-top: 3px;
+}
+
+#doc5 #yui-main .yui-b #ygs-match_log.failed .hd span {
+  background-position: -382px -679px;
+}
+
+#doc5 #yui-main .yui-b #ygs-match_log.loading .hd span a {
+  margin-left: 10px;
+  color: #f59a01;
+}
+
+ #ygs-match_log.ysp-mod .hd h2 {
+  background-image: none;
+}
+
+#doc5 #yui-main .yui-b #ygs-match_log.ysp-mod .bd {
+ background: #000;
+ padding: 0 10px;
+}
+
+#ygs-match_log .ft {
+  display: none;
+}
+
+ #ygs-match_log .bd .log {
+  background: #222 url("../images/shdw.png") no-repeat 0 -75px;
+  _background-image: none;
+  display: block;
+  *height: 140px;
+  max-height: 140px;
+  position: relative;
+  overflow-y: auto;
+  overflow-x: hidden;
+  zoom: 1;
+}
+
+ #ygs-match_log .bd {
+  padding: 0;
+}
+
+ #ygs-match_log .bd .wrap {
+  zoom: 1;
+  padding: 10px 0;
+}
+
+ #ygs-match_log .bd .wrap:after {
+  content: "."; height: 0; display: block; visibility: hidden; clear: both;
+}
+
+#ygs-match_log .log dl {
+  position: relative;
+  overflow: hidden;
+  border-left: 1px solid #000;
+  border-top: 1px dotted #0d0d0d;
+  float: left;
+  width: 100%;
+  *width: 97%;
+  *padding: 2px 0 6px;
+  zoom: 1;
+  margin:0;
+}
+
+#ygs-match_log dl.first {
+  background: #0F0F0F;
+  border-top: none;
+  padding: 5px 0;
+}
+
+#ygs-match_log dl.first dd.comment {
+  color: #FFF;
+  font-weight: bold;
+  font-size: 116%;
+}
+
+#ygs-match_log .log dt {
+  color: #FFF;
+  opacity: 0.5;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=50);
+  font-size: 108%;
+  font-weight: bold;
+  float: left;
+  margin: 7px 0 7px 10px;
+  width: 9%;
+}
+
+#ygs-match_log .log dt span {
+  font-size: 77%;
+  display: block;
+}
+
+#ygs-match_log dl dd.event {
+  float: left;
+  width: 15px;
+  height: 15px;
+  text-indent: -1000em;
+  overflow: hidden;
+  background: url(../images/5.png) no-repeat 0 200px;
+  margin: 9px 25px 9px 10px;
+  zoom: 1;
+}
+
+#ygs-match_log dl.red dd.event {
+  background-position: -385px -105px;
+}
+
+#ygs-match_log dl.yellow dd.event {
+  background-position: -385px -73px;
+}
+
+#ygs-match_log dl.yellowred dd.event {
+  background-position: -373px -520px;
+  width: 26px;
+}
+
+#ygs-match_log dl.sub dd.event {
+  background-position: -385px -136px;
+}
+
+#ygs-match_log dl.goal dd.event {
+  background-position: -385px 0;  
+}
+
+#ygs-match_log dl.missed dd.event {
+  background-position: -385px -38px;  
+}
+
+#ygs-match_log dl.special dd.event {
+  background-position: -385px -171px;  
+}
+
+#ygs-match_log dl.injured dd.event {
+  background-position: -385px -202px;  
+}
+
+#ygs-match_log dl.offside dd.event {
+  background-position: -385px -233px;  
+}
+
+#ygs-match_log dl.penalty-kick dd.event {
+  background-position: -385px -264px;  
+}
+
+#ygs-match_log dl.goal-post dd.event {
+  background-position: -385px -296px;
+}
+
+#ygs-match_log dl.save dd.event {
+  background-position: -385px -328px;
+}
+
+#ygs-match_log dl.whistle dd.event {
+  background-position: -385px -360px;
+}
+
+#ygs-match_log dl.winner dd.event {
+  background-position: -385px -394px;
+}
+
+#ygs-match_log dl.corner dd.event {
+  background-position: -385px -553px;
+}
+
+#ygs-match_log dl.wide dd.event {
+  background-position: -385px -613px;
+}
+
+#ygs-match_log dl.own-goal dd.event {
+  background-position: -385px -583px;
+}
+
+#ygs-match_log dl dd.comment {
+  float: left;
+  font-size: 93%;
+  color: #c4c4c4;
+  padding: 9px 0 7px;
+  width: 75%;
+}
+
+#ygs-match_log dl.first-half,
+#ygs-match_log dl.second-half,
+#ygs-match_log dl.extra-time {
+  background-color: #393939;
+  background-image: url(../images/gray.png);
+  background-repeat: repeat-x;
+  background-position: center center;
+}
+
+#ygs-match_log .log dl.first-half dt,
+#ygs-match_log .log dl.second-half dt,
+#ygs-match_log .log dl.extra-time dt,
+#ygs-match_log .log dl.finished dt {
+  display: none;
+}
+
+#ygs-match_log .log dl.first-half dd.event,
+#ygs-match_log .log dl.second-half dd.event,
+#ygs-match_log .log dl.extra-time dd.event,
+#ygs-match_log .log dl.finished dd.event{
+  background-color: #393939;
+  margin-left: 33%;
+  _margin-left: 20%;
+  margin-right: 0;
+  padding: 0 16px 0 4px;
+}
+
+#ygs-match_log .log dl.finished dd.event {
+  margin-left: 0;
+  background-color: transparent;
+}
+
+#ygs-match_log dl.first-half dd.event {
+  background-position: -378px -426px;
+}
+
+#ygs-match_log dl.second-half dd.event {
+  background-position: -378px -457px;
+}
+
+#ygs-match_log dl.extra-time dd.event {
+  background-position: -371px -489px;
+  width: 20px;
+}
+
+#ygs-match_log dl.finished dd.event {
+  background-position: -374px -360px;
+  width: 20px;
+}
+
+#ygs-match_log .log dl.first-half dd.comment,
+#ygs-match_log .log dl.second-half dd.comment,
+#ygs-match_log .log dl.extra-time dd.comment,
+#ygs-match_log .log dl.finished dd.comment {
+  background: #393939;
+  width: 25%;
+  padding-top: 9px;
+}
+
+#ygs-match_log .log dl.finished dd.comment {
+  width: 90%;
+  font-weight: bold;
+  color: #FFF;
+  background: none;
+}
+
+#ygs-match_log .log dl.finished {
+  padding: 6px 0;
+  background: #393939;
+  -moz-box-shadow: 0 6px 12px rgba(7, 7, 7, 0.7) inset;
+  -webkit-box-shadow: 0 6px 12px rgba(7, 7, 7, 0.7) inset;
+  box-shadow: 0 6px 12px rgba(7, 7, 7, 0.7) inset;
+}
+
+.hide {
+  display: none;
+}
+
+#ygs-match_log dl.coming-soon .event{
+  display: none;
+}
+
+#ygs-match_log dl.coming-soon dd.comment{
+  text-align: center;
+}
+

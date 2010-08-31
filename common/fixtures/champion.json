@@ -1,0 +1,2546 @@
+[{"pk": "nawadena.com/champion/shaikh_jasim_cup", 
+	"model": "common.Widget", 
+	"fields":{
+		"wtype" : "champion",
+		"website" : "nawadena.com",
+		"name" : "shaikh_jasim_cup",
+		"title" : "كأس الشيخ جاسم",		
+		"content" : {
+			"season" : "2010",			
+			"days" : [
+					{
+					"date" : "الأحد 13/2010",
+					"matches" : 
+						[
+							{
+								"number" : 1,
+								"date" : "الأحد 13/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "05:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 0,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 2,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							},
+							{
+								"number" : 2,
+								"date" : "الأحد 13/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "05:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							},
+							{
+								"number" : 3,
+								"date" : "الأحد 13/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "07:30 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 0,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							}
+					
+					
+						]
+					},
+					{
+					"date" : "الخميس 20/1/2010",
+					"matches" : 
+						[
+							{
+								"number" : 4,
+								"date" : "الخميس 20/1/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "10:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 2,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 0,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							},
+							{
+								"number" : 5,
+								"date" : "الخميس 20/1/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "05:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							},
+							{
+								"number" : 6,
+								"date" : "الخميس 20/1/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "05:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							}
+					
+					
+						]
+					}
+				]
+		}
+ 	}
+ },
+{"pk": "nawadena.com/champion/qatar_stars", 
+	"model": "common.Widget", 
+	"fields":{
+		"wtype" : "champion",
+		"website" : "nawadena.com",
+		"name" : "qatar_stars",
+		"title" : "دوري نجوم قطر",		
+		"content" : {
+			"season" : "2010",			
+			"days" : [
+					{
+					"date" : "الأحد 13/2010",
+					"matches" : 
+						[
+							{
+								"number" : 1,
+								"date" : "الأحد 13/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "05:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 0,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 2,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							},
+							{
+								"number" : 2,
+								"date" : "الأحد 13/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "05:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							}
+					
+						]
+					},
+					{
+					"date" : "الخميس 20/1/2010",
+					"matches" : 
+						[
+							{
+								"number" : 3,
+								"date" : "الخميس 20/1/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "10:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 3,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 2,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							},
+							{
+								"number" : 4,
+								"date" : "الخميس 20/1/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "05:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 0,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							},
+							{
+								"number" : 5,
+								"date" : "الخميس 20/1/2010",						
+								"stadium" : "اسم الاستاد",
+								"location" : "المدينة",
+								"attendance" : 84490,
+								"time" : "05:20 مساءا",
+								"description" : "",
+								"status" : "انتهت",
+								"team1" : 
+									{
+										"name" : "الفريق الأول",								
+										"score" : 0,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["yellow"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["sub"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									} ,
+								"team2" : 
+									{
+										"name" : "الفريق الثاني",								
+										"score" : 1,								
+										"roster" :
+											{
+												"coach" : "اسم المدرب",
+												"captin" : "اسم الكابتين",
+												"goalkeepers" : 
+													[	{	
+															"number" : 5,
+															"name" :"حارس المرمى",
+															"events" : ["injured"]
+                                                                                                              	}
+													],
+												"defenders" : 
+													[
+														{
+															"number" : 2,
+															"name" :"المدافع الأول",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 23,
+															"name" :"المدافع الثاني",
+															"events" : ["offside"]
+														}
+													],
+												"midfielders" : 
+													[
+														{
+															"number" : 12,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellow"]
+														},
+														{
+															"number" : 10,
+															"name" :"لاعب خط الوسط",
+															"events" : ["red"]
+														},
+														{
+															"number" : 11,
+															"name" :"لاعب خط الوسط",
+															"events" : ["yellowred"]
+														}
+													],
+												"forwards" : 
+													[
+														{
+															"number" : 7,
+															"name" :"لاعب هجوم",
+															"events" : ["goal", "yellow"]
+														},
+														{
+															"number" : 3,
+															"name" :"لاعب هجوم",
+															"events" : ["missed"]
+														}
+													],
+												"substitutes" : 
+													[
+														{
+															"number" : 21,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 5,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 9,
+															"name" :"بديل",
+															"events" : []
+														},
+														{
+															"number" : 13,
+															"name" :"بديل",
+															"events" : []
+														}
+													]
+											}
+									},
+								"events" : 
+									[
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										},
+										{
+											"minute" : "51",
+											"event" : "goal",
+											"comment" : "الهدف الأول في المباراة"									
+										},
+										{
+											"minute" : "32",
+											"event" : "yellow",
+											"comment" : "حصل اللاعب رقم 5 على بطاقة صفراء"									
+										},
+										{
+											"minute" : "14",
+											"event" : "corner",
+											"comment" : "ضربة ركنية لمصلحة الفريق الثاني"									
+										}
+									]
+							}
+					
+					
+						]
+					}
+				]
+		}
+ 	}
+ }
+]

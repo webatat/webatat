@@ -1,0 +1,23 @@
+body {
+	direction:rtl;
+}
+
+
+
+#kwick li {
+	float:right;
+}
+
+.grid_5 .box h2 a {
+background-position:2% 50%;
+}
+
+.grid_4 .box h2 a {
+background-position:2% 50%;
+}
+
+.box h2 a, .box h2 a.visible {
+background-position:2% 50%;
+}
+
+

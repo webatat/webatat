@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/119/trunk/front/templates
+END
+sidebar_joinnow.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/front/templates/sidebar_joinnow.html
+END
+sidebar_mobile.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/119/trunk/front/templates/sidebar_mobile.html
+END
+sidebar_featured_members.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/70/trunk/front/templates/sidebar_featured_members.html
+END
+sidebar_featured_channels.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/70/trunk/front/templates/sidebar_featured_channels.html
+END
+front.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/119/trunk/front/templates/front.html
+END

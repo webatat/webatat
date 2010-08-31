@@ -1,0 +1,71 @@
+div#header-container {
+background:url("body-bg.png") repeat-x scroll 0 100% transparent;
+}
+
+div#intro ul li#create 
+{
+	background:url("icons/jaiku-bubble.gif") no-repeat scroll right 20% transparent;
+}
+
+div#intro ul li 
+{
+	padding:0.6em 45px 1em 0;
+}
+
+
+
+
+div#intro ul li#follow {
+background:url("icons/jaiku-couple.gif") no-repeat scroll right 20% transparent;
+}
+
+#content ul.stream li.presence div.top, #content ul.stream li.comment div.top 
+{
+background:url("bg-stream-bottom-rtl.gif") no-repeat scroll 0 100% transparent;
+}
+
+
+#content ul.stream li.presence div.bottom, #content ul.stream li.comment div.bottom {
+background:url("bg-stream-top-rtl.gif") no-repeat scroll 0 0 transparent;
+}
+
+#content ul.stream li.comment div.bottom {
+background:url("bg-comment-top-rtl.gif") no-repeat scroll 0 0 transparent;
+}
+
+#content ul.stream li.comment div.top {
+background:url("bg-comment-bottom-rtl.gif") no-repeat scroll 0 100% transparent;
+}
+
+ul.stream li.presence img.photo, ul.stream li.comment img.photo {
+float:right;
+margin:5px -40px 5px 20px;
+}
+
+#content ul.stream li.presence div.top, #content ul.stream li.comment div.top {
+margin:0 37px 5px 0;
+}
+
+div#stream div.controls {
+text-align:left;
+}
+
+div#sidebar div#channels a.edit, div#sidebar div#streams a.edit, div#sidebar div#contacts a.edit, div#sidebar div#members a.edit, div#sidebar div#admins a.edit, div#sidebar div.first a.edit {
+float:left;
+
+}
+
+div.main a img.photo, div.main img.photo {
+border:1px solid #9AC64A;
+}
+
+div.main a img.photo, div.main img.photo {
+
+float:right;
+}
+
+div#sign-up a, li#sign-up a {
+background:url("join_now_rtl.jpg") no-repeat scroll 50% 0 transparent;
+}
+
+

@@ -1,0 +1,8 @@
+.anythingSlider .wrapper {
+direction:ltr;
+}
+
+.anythingSlider .forward                { background-position: -67px 0; right: auto; left: -20px;  }
+.anythingSlider .back                   { background-position: 0 0; right: -20px; left: auto; }
+.anythingSlider .forward:hover          { background-position: -67px -200px; }
+.anythingSlider .back:hover             { background-position: 0 -200px; }

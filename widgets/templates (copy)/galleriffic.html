@@ -1,0 +1,38 @@
+<div id="galleriffic-page">
+	<div id="galleriffic-container">
+		<h1><a href="index.html">{{ gallery.content.heading }}</a></h1>
+		<h2>{{ gallery.content.subheading }}</h2>
+
+		<!-- Start Advanced Gallery Html Containers -->
+		<div id="gallery" class="content">
+			<div id="controls" class="controls"></div>
+			<div class="slideshow-container">
+				<div id="loading" class="loader"></div>
+				<div id="slideshow" class="slideshow"></div>
+			</div>
+			<div id="caption" class="caption-container"></div>
+		</div>
+		<div id="thumbs" class="navigation">
+			<ul class="thumbs noscript">
+				{% for item in gallery.content.items %}
+				<li>
+					<a class="thumb" name="leaf" href="{{ item.slideshow_image }}" title="{{ item.title }}">
+						<img src="{{ item.thumbnail_image }}" alt="{{ item.title }}" />
+					</a>
+					<div class="caption">
+						<div class="download">
+							<a href="{{ item.original_image }}">تحميل الصورة الكاملة</a>
+						</div>
+						<div class="image-title">{{ item.title }}</div>
+						<div class="image-desc">{{ item.description }}</div>
+					</div>
+				</li>
+				{% endfor %}
+
+			</ul>
+		</div>
+		<div style="clear: both;"></div>
+	</div>
+</div>
+
+
